@@ -211,6 +211,13 @@ audio:not([controls]) {
  */
 img {
   border-style: none;
+  max-width: 100%;
+}
+
+#carousel-container {
+  width: 100%;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 
 /**
@@ -4126,6 +4133,8 @@ cite {
 .pagination {
   padding: 2rem 0 6rem;
   text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .pagination a, .pagination span {
@@ -4541,7 +4550,7 @@ cite {
   position: absolute;
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
-  width: 600px;
+  width: 50%;
   max-width: 90%;
   top: 50%;
   left: 50%;
@@ -4772,6 +4781,7 @@ cite {
   }
   .pagination {
     padding: 2rem 0 6rem;
+    margin: auto;
   }
   .pagination a {
     padding: 0.5rem 0.8rem;

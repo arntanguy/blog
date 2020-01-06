@@ -12,8 +12,10 @@ layout: default
       </div>
   </section>
   </main>
-  {% include newsletter.html %}
-
   {% include pagination.html %}
+
+  {% if site.mailchimp %}
+    {% include newsletter.html %}
+  {% endif %}
 
   {% include footer.html %}
