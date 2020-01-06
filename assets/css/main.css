@@ -4020,8 +4020,8 @@ cite {
 }
 
 .chapters .chapter img {
-  width: 100%;
-  vertical-align: middle;
+  height: 100%;
+  vertical-align: bottom;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
@@ -4263,13 +4263,13 @@ cite {
 }
 
 .post_wrapper, .entry_content {
-  max-width: 900px;
+  width: 70%;
   padding: 0 1.85rem;
   margin: 0 auto;
 }
 
 .post_content {
-  width: 960px;
+  width: 80%;
   max-width: 90%;
   margin: 7rem auto 7rem;
 }
@@ -4286,6 +4286,7 @@ cite {
 }
 
 .post header img {
+  object-fit: cover;
   width: 100%;
   max-height: 500px;
   vertical-align: middle;
