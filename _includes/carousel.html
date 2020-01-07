@@ -43,6 +43,18 @@ carousels:
           Your browser does not support the video tag.
         </video>
         {% endif %}
+
+        <!-- Display caption -->
+        {% if item.caption|| item.description %}
+        <div class="carousel-caption d-none d-md-block">
+          {% if item.caption %}
+          <h3>{{item.caption}}</h3>
+          {% endif %}
+          {% if item.description %}
+          <p>{{item.description}}</p>
+          {% endif %}
+        </div>
+        {% endif %}
       </div>
   {% endfor %}
   </div>

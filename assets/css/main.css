@@ -215,10 +215,45 @@ img {
 }
 
 #carousel-container {
-  width: 100%;
   margin-bottom: 30px;
   margin-top: 30px;
+  width: 100%;
+  background-color: rgba(100,100,100, 0.3);
 }
+
+.carousel-inner {
+  margin: auto;
+}
+
+.carousel-item {
+  text-align:center;
+}
+
+.carousel-inner img {
+  max-height: 90vh !important;
+  display:inline-block  !important;
+}
+
+.carousel-caption {
+  background-color: black;
+  opacity: 40%;
+  padding-top: 5px;
+}
+
+.carousel-caption h3 {
+  margin: 0px;
+}
+
+.carousel-caption p {
+  margin: 0px;
+}
+
+/*
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+*/
 
 /**
  * Hide the overflow in IE.
