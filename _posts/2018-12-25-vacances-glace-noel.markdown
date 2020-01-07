@@ -2,7 +2,7 @@
 layout: post
 title: Alpinisme Glace Noel 2018 - Vercors, Ecrins, Queyras 
 img: vacances-glace-noel-2018/cover.jpg # Add image post (optional)
-date: 2019-01-26 12:00:00 +0000
+date: 2018-12-25 12:00:00 +0000
 description: Escalade Mixte a la Cime de Tavels, goulotte "Au delà du rêve" # Add post description (optional)
 tag: [Vercors, Queyras, Ecrins, Winter, Ice Climbing, Mont Gerbier, Grand Laus, Ceillac, FR]
 carousels:
