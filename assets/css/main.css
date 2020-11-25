@@ -4094,6 +4094,7 @@ cite {
   position: absolute;
   left: 0%;
   bottom: 0%;
+  width: 100%;
   padding: 0.2rem 1rem 0.2rem 1rem;
   background: rgb(0.1,0.1,0.1, 0.5);
 }
