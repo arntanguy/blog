@@ -3989,7 +3989,6 @@ cite {
           align-items: center;
   background-color: #1c1c1c;
   z-index: 1;
-  max-height: 50px;
 }
 
 .main_header .logo {
@@ -4007,23 +4006,29 @@ cite {
   display: block;
   object-fit: contain;
 }
-/*
-.main_header .main_menu {
-  margin: auto;
-}
-*/
-
-/*
-.main_header .logo span {
-  color: #c0334a;
-  font-weight: 400;
-}
-*/
 
 .main_header nav a {
   color: #ffffff;
   text-decoration: none;
   margin-left: 2rem;
+}
+
+@media only screen and (max-width: 960px) {
+  .main_header {
+    padding: 1rem;
+  }
+  .main_header nav a {
+    margin-left: 1rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .main_header {
+    padding: 1rem;
+  }
+  .main_header nav a {
+    margin-left: 0.5rem;
+  }
 }
 
 #banner {
