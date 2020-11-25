@@ -1,4 +1,4 @@
-logo: # add logo name
+logo: logo.png # add logo name
 title: Mountaineering around the world 
 description: > # this means to ignore newlines until "baseurl:"
   Mountaineering blog
