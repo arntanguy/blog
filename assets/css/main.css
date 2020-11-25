@@ -3989,6 +3989,7 @@ cite {
           align-items: center;
   background-color: #1c1c1c;
   z-index: 1;
+  max-height: 50px;
 }
 
 .main_header .logo {
