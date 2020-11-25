@@ -1,16 +1,14 @@
 logo: # add logo name
 title: Mountaineering around the world 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Mountaineering blog
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: Mountaineering around the world # add banner title
+banner-title: "" # add banner title
 # add banner description
 banner-desc: “Any road followed precisely to its end leads precisely nowhere.<br/>Climb the mountain just a little bit to test that it's a mountain.<br/>From the top of the mountain, you cannot see the mountain.” — Franck Herbert 
 
