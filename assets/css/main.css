@@ -3999,6 +3999,15 @@ cite {
   font-weight: 700;
 }
 
+@media only screen and (max-width: 600px) {
+  .main_header .logo {
+    display: none;
+  }
+  .main_header .main_menu {
+    margin: auto;
+  }
+}
+
 .main_header .logo span {
   color: #c0334a;
   font-weight: 400;
@@ -4307,7 +4316,7 @@ cite {
 .post_content {
   width: 80%;
   max-width: 90%;
-  margin: 7rem auto 7rem;
+  margin: 4rem auto 4rem;
 }
 
 @media only screen and (max-width: 1600px) {
@@ -4336,6 +4345,7 @@ cite {
   .post_content {
     width: 100%;
     max-width: 100%;
+    margin: 0 auto 0;
   }
 }
 
