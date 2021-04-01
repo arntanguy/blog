@@ -7,7 +7,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: frontpage.mp4 # add banner video. Add your video file to the folder video
 banner-title: "" # add banner title
 # add banner description
 banner-desc: “Any road followed precisely to its end leads precisely nowhere.<br/>Climb the mountain just a little bit to test that it's a mountain.<br/>From the top of the mountain, you cannot see the mountain.” — Franck Herbert 
