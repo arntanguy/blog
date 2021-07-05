@@ -289,7 +289,7 @@ carousels:
 
 Finding information about climbing in Japan can be a daunting tasks. Where to go? How to find the guidebook? What about gear and anchors? How about local etiquette?
 
-*Disclaimer: none of the links in this article are affiliated, they are merely provided for convenience. Pictures in this article are mine, please inauire for commercial use.*
+*Disclaimer: none of the links in this article are affiliated, they are merely provided for convenience. Pictures in this article are mine unless stated otherwise, please inquire for commercial use.*
 
 # Overview of climbing areas
 
