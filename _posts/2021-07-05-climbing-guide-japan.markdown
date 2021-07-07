@@ -155,7 +155,7 @@ carousels:
     - type: img 
       path: /assets/img/japan-topo/yamadera/ichiban_overview.jpg
       alt: ""
-      caption: "View from the base of Ichiban route" 
+      caption: "View from the base of Ichiban route - 5.11b" 
       description: ""
     - type: img 
       path: /assets/img/japan-topo/yamadera/ichiban.jpg
@@ -165,7 +165,7 @@ carousels:
     - type: img 
       path: /assets/img/japan-topo/yamadera/route.jpg
       alt: ""
-      caption: "5.11c" 
+      caption: "Camel - 5.11c" 
       description: ""
     - type: img 
       path: /assets/img/japan-topo/yamadera/12b.jpg
@@ -203,7 +203,7 @@ carousels:
       path: /assets/img/japan-topo/misaki/cave.jpg
     - type: img 
       path: /assets/img/japan-topo/misaki/11a.jpg
-      caption: "Hakusho - 11a"
+      caption: "Hakucho - 11a"
       description: "Nice short route with a very hard crux" 
     - type: img 
       path: /assets/img/japan-topo/misaki/rest.jpg
@@ -364,6 +364,9 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 
 - **Prefecture**: Yamagata
 - **Access**: Take the forest road on the left [here](https://goo.gl/maps/D9kRJh9zq6XGVryN7) and drive up the dirt road until you cross a small bridge and reach a large parking area ([about here](https://goo.gl/maps/ZaozFfF3MpQak3AE9)). Park, the trailhead is on the other side of the bridge on your left. Take the path going to the right until you reach a ridge with a clear view of the rock face on your left. Follow the trail up to it.
+- **Accomodation**:
+  - Yamadera parking lot (remote, no internet, no facilities, river water not recommended for drinking)
+  - [駐車場](https://goo.gl/maps/46s54EJBcqJWCrU46): Large free parking lot behind the 道の駅 寒河江 (Road Station Sagae Cherry Land). Next to the river, no lights, quiet.
 - **Crag GPS**: [38°17'39.4"N 140°28'23.1"E](https://goo.gl/maps/XwfEvb4Vd4vpHirDA)
 - **Access fee**: Free
 - **Style**: Sport
@@ -390,6 +393,8 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 
 - **Prefecture**: Iwate
 - **Access**: There is no official parking lot, but you can park around [here](https://goo.gl/maps/D8ZvMB1kCeQLEXnn8) on the side of the road. Follow the path leading to the [Yokonuma Observatory](https://goo.gl/maps/5LfVgQmEgGCTwBkv5). There is a crag directly under the observatory. The other main area is about a hundred meters further to the left ([40°15'45.3"N 141°49'11.5"E](https://goo.gl/maps/UCiFTAhAbx8q3Kpd8)).
+- **Accomodation**: 
+  - Campground [北侍浜野営場](https://goo.gl/maps/Xhd8HCYftZX9T4gg7) (Kitasamuraihama Camp Field). There is a free parking lot in front of it that you can use for car camping (with access to water and restrooms).
 - **Access fee**: Free
 - **Style**: Seaside climbing. Single pitch sport and trad climbing
 - **Difficulty**: All levels
