@@ -151,7 +151,7 @@ carousels:
       alt: ""
       caption: "Main overhang on a misty day" 
       description: ""
-  yamadera:
+  yamadera_area:
     - type: img 
       path: /assets/img/japan-topo/yamadera/ichiban_overview.jpg
       alt: ""
@@ -287,7 +287,7 @@ carousels:
 
 ---
 
-Finding information about climbing in Japan can be a daunting tasks. Where to go? How to find the guidebook? What about gear and anchors? How about local etiquette?
+Finding information about climbing in Japan can be a daunting task. Where to go? How to find the guidebook? What about gear and anchors? How about local etiquette?
 
 *Disclaimer: none of the links in this article are affiliated, they are merely provided for convenience. Pictures in this article are mine unless stated otherwise, please inquire for commercial use.*
 
@@ -370,7 +370,7 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 - **Guidebook**: "free climbing japan vol 1"
 - **Best period**: Spring and Autumn. Inacessible in winter due to snow (the long logging road is not cleared) 
 
-{% include carousel.html name="yamadera" %}
+{% include carousel.html name="yamadera_area" %}
 
 ## Misaki (三崎公)
 
@@ -417,6 +417,7 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 
 - **Prefecture**: Tochigi
 - **Access**: Park at the [観光無料駐車場](https://goo.gl/maps/A48JNLoC6PEkTDKw7) parking lot. Walk past the ENEOS gas station and find a way down to the left above the road barriers before the highball with a bridge.
+- **Accomodation**: You can sleep in your car in the parking lot. Restroom available.
 - **Access fee**: Free
 - **Style**: Hard limestone bouldering
 - **Guidebook**: "free climbing japan vol 2"
@@ -434,9 +435,7 @@ Mostly hard limestone bouldering next to the river. It is world-reknowned for it
 - **Prefecture**: Gunma
 - **Access**: Park [here](https://goo.gl/maps/eZuX8YXz6KX8E9pdA). As there is limited amount of parking space, it is recommended to car-share. You can leave extra cars at the nearby [道の駅 しもにた](https://goo.gl/maps/rpmGKkQxEbvkxKEC9). Walk down to the river side.
 - **Style**: Easy to hard limestone bouldering with good flat landing.
-- **Guidebook**: "free climbing japan vol 2"
-
-You can find more information and the topo [here](http://genbu2008.web.fc2.com/Free-climbing/110612/newpage8.html) (Japanese only)
+- **Guidebook**: "free climbing japan vol 2". You can find more information and an online topo [here](http://genbu2008.web.fc2.com/Free-climbing/110612/newpage8.html) (Japanese only)
 
 {% include carousel.html name="shimonita_boulder" %}
 
