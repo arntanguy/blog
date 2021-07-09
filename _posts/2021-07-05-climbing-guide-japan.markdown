@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climbing guide to Japan - Honshu
+title: Rock climbing guide to Japan
 img: japan-topo/mizugaki/overview.jpg # Add image post (optional)
 date: 2021-07-05 12:00:00 +0900
 description: Climbing guide on Japanse climbing areas around Honshu
@@ -208,6 +208,9 @@ carousels:
     - type: img 
       path: /assets/img/japan-topo/misaki/rest.jpg
       description: Nobuyuki Suzuki resting between attempts
+    - type: img 
+      path: /assets/img/japan-topo/misaki/approach.jpg
+      description: Approach path to reach the cliff bottom.  
   samuraihama:
     - type: img 
       path: /assets/img/japan-topo/samuraihama/overview.jpg
