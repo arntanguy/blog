@@ -220,7 +220,22 @@ carousels:
     - type: img 
       path: /assets/img/japan-ice-topo/hokkaido/west_coast/shiroganeno_02.jpg
       caption: "Shiroganeno Falls - 白銀の滝"
-
+  unryukeikoku_carousel:
+    - type: img 
+      path: /assets/img/japan-ice-topo/unryukeikoku/dec_2020_03.jpg
+      caption: Unryukeikoku Falls not yet formed - 1 Dec 2020
+    - type: img 
+      path: /assets/img/japan-ice-topo/unryukeikoku/dec_2020_01.jpg
+    - type: img 
+      path: /assets/img/japan-ice-topo/unryukeikoku/dec_2020_02.jpg
+    - type: img 
+      path: /assets/img/japan-ice-topo/unryukeikoku/dec_2020_04.jpg
+    - type: img 
+      path: /assets/img/japan-ice-topo/unryukeikoku/tent2.jpg
+      caption: Wild bivy next to the falls 
+    - type: img 
+      path: /assets/img/japan-ice-topo/unryukeikoku/main_fall_feb.jpg
+      caption: Main fall melting in the sun - 6 Feb 2021 
 
 ---
 
@@ -316,6 +331,18 @@ Gunma prefecture is not particularely known for ice climbing. Yet Arafuneyama ha
   - There are also mixed routes and gullies, and some harder ice falls
 
 {% include carousel.html name="arafuneyama_carousel" %}
+
+## Unryukeikoku Falls (雲竜渓谷)
+
+The area around Nikko has the poptential for many interesting waterfall. Unfortunately good ice conditions are hard to come by. The best period generally seems to be late-january. The most well-known climbable area is Unryukeikoku Falls (雲竜渓谷). It also happens to be a popular hike, and on good sunny days you can expect a crowd there (litteraly hundreds of people when we went there in the weekend in early February 2021).
+
+- **Access**: From the trailhead parking [Unryukeikokutozanguchi Parking Lot - 雲竜渓谷登山口駐車場](https://goo.gl/maps/RTU7ei6j6j8aByDw6), walk for about 2h until you reach the [Unryu Keikoky Falls](https://goo.gl/maps/5Esep8upTf9an6qy7). Note that if the river is not frozen, the falls are very difficult to access as you have to walk above the river bed for a few hundred meters at the end (but in that case they probably aren't formed anyways).
+- **Best period**: Might be in condition for a short amount of time around late January. The main fall takes the sun from around mid-day. The smaller pillars are somewhat more protected from the sun, but being freestanding structures they need consistent low temperatures. I tried going twice last year: 1 december 2020 (not fully formed yet) and 6th February 2021 (already melting). It seems that around the week of 15th January conditions were good.
+- **Information**:
+  - [Nikko's frozen waterfalls: Unryu Keikoku [japan-guide.com]](https://www.japan-guide.com/blog/peaks/180223.html): Excellent source of information and beautiful pictures (and I'm not just saying that just because the article was written by my good friend *Joe Mignano*).
+  - My own [post]({{site.baseurl}}/mt-nantai) written before winter 
+
+{% include carousel.html name="unryukeikoku_carousel" %}
 
 
 ## Kaikomagatake
