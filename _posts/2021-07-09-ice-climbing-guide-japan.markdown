@@ -3,7 +3,7 @@ layout: post
 title: Ice climbing guide to Japan
 img: japan-ice-topo/overview/cobra.jpg
 date: 2021-07-09 12:00:00 +0900
-description: Climbing guide on Japanse climbing areas around Honshu
+description: Climbing guide on ice climbing areas around Japan
 tag: [Japan, Climbing, Topo]
 carousels:
   overview_carousel:
@@ -204,7 +204,9 @@ carousels:
     - type: img 
       path: /assets/img/japan-ice-topo/hokkaido/raiden/approach_3.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/climb1.jpg
+      path: /assets/img/japan-ice-topo/hokkaido/raiden/raiden_ski_climb.jpg
+    - type: img 
+      path: /assets/img/japan-ice-topo/hokkaido/raiden/climb_1.jpg
     - type: mp4 
       path: /assets/img/japan-ice-topo/hokkaido/raiden/view.mp4
   west_coast_carousel:
