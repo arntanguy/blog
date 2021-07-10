@@ -170,6 +170,7 @@ carousels:
     - type: img 
       path: /assets/img/japan-ice-topo/hokkaido/sounkyo/river_crossing_day.jpg
       caption: River crossing 
+      description: "Picture: Gregor Neumann"
     - type: img 
       path: /assets/img/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_2.jpg
       caption: Ginga no Taki 
@@ -194,7 +195,7 @@ carousels:
   mount_raiden_carousel:
     - type: img 
       path: /assets/img/japan-ice-topo/hokkaido/raiden/approach_parking.jpg
-      caption: Waterfalls viewed from the seaside parking 
+      caption: Kumamono falls (雲間の滝) viewed from the seaside parking 
     - type: img 
       path: /assets/img/japan-ice-topo/hokkaido/raiden/approach_1.jpg
       caption: Ski and snowshoe approach
@@ -259,6 +260,7 @@ Here is a map of the approach to 大同心 waterfall passing by the Akadake Kose
   - Website [Akadake Kosen / Gyosha Hut](http://akadake.main.jp/news/210601/index.html)
   - Instagram [@akadakekousen_gyoujyagoya](https://www.instagram.com/akadakekousen_gyoujyagoya/)
   - Facebook [@akadake1959](https://www.facebook.com/akadake1959/)
+- **Difficulty**: Lots of choice from very easy WI3 to hard ice/mixed climbs
 
 - **Classic climbs**:
   - Akadake Kosen Ice Candy: Artificial ice fall next to the hut. Rental gear is available at the hut. Toprope only (I believe that you need to bring your own rope).
@@ -273,15 +275,16 @@ Here is a map of the approach to 大同心 waterfall passing by the Akadake Kose
 Yonagofudo is known for its hard multipitch ice falls, some of which boasting over 120m of WI5 climbing.
 
 - **Access**: The road leading to Yonagofudo is only partially cleared in the winter. You should be able do drive until an intersection a few hundreds meters after the [水神様](https://goo.gl/maps/xisGPJK5NDaj9WKg8) shrine, about [here](https://goo.gl/maps/XUg91iozD51YJx4cA). If you're lucky you might be able to keep making it up the road until reaching a closed barrier a few kilometers higher. Watch out as you might very well be able to drive up on the hard packed snow in the early morning but might not be able to make it back down in the afternoon after the snow has softened (last time I went there my kei car bottomed out and got stuck and we had to dig it out). I've heard similar stories from multiple locals. Upon reaching the barrier up the road, keep walking (snowshoes or skis) for about 2 to 3 hours until you eventually see the falls in front of you. There is a bridge on your left, ignore it and keep going straight towards the falls. About 100m after the bridge is the area where people typically camp. Store the gear you don't need there, and keep going towards your project :)
+- **Difficulty**: Very hard. WI4 and above, with a large majority of harder multipitch falls (WI5, WI6).
 - **Weather conditions**: Generally mild weather with cold temperatures.
 - **Accomodation**: Wild bivy 
   - [[GPX access]](https://www.strava.com/activities/4784124845): *the track goes from the road barrier past the campground until Anaconda/Cobra ice falls then returns to the camp near the bridge*
 - **Best period**: Late January to early February. Most falls are WI5 and above, with many pillars and hanging structures. They tend to form late in the season and remain in conditions for short periods of time.
 - **Classic climbs**:
-  - Dragon God (WI4, ~60m)
-  - Cobra: 120m, WI5 with a snow slope between the firsts and last pitches [[GPX approach from camp]](https://www.strava.com/activities/4784125667)
-  - Cobra left: WI5+/WI6, left of Cobra, this route is rarely in condition [same approach as Cobra]
-  - Anaconda (WI4+, 3 pitches) [same approach as Cobra]
+  - Cobra: 120m, WI5 with a snow slope between the firsts and last pitches [[GPX approach from camp]](https://www.strava.com/activities/4784125667) (rightmost climb in this area)
+  - Cobra left: WI5+/WI6, left of Cobra, this route is rarely in condition [a few meters left of Cobra]
+  - Anaconda (WI4+, 3 pitches) [left of Cobra Left]
+  - Dragon God (WI4, ~60m) [left of Anaconda ~50m walk]
 
 {% include carousel.html name="yonagofudo_carousel" %}
 
@@ -292,6 +295,8 @@ Yonagofudo is known for its hard multipitch ice falls, some of which boasting ov
 
 **Access**: Drive up a forest road (not cleared) as high as you dare, then snowshoe/ski up along the road for about 2 hours. There are multiple falls, here is the [[GPX track]](https://www.strava.com/activities/4519998637) from where we parked the car (big 4WD SUV) to access the one in picture below (I don't recall the name).
 
+**Difficulty**: Hard. WI4 and above, with a majority of very hard climbs.
+
 {% include carousel.html name="oyafudo_carousel" %}
 
 ## Arafuneyama
@@ -300,8 +305,10 @@ Gunma prefecture is not particularely known for ice climbing. Yet Arafuneyama ha
 
 - **Access**: The trailhead is located around the shinto shrine [荒船神社奥の院](https://goo.gl/maps/hm3SFUUzs17kbzALA)
 - **Accomodation**: You can sleep in your car at the trailhead (but the parking lot is small and not flat). From there you can reach two separate areas. Aizawa is reached by following the road for a while and taking a trail to the right along the river
+- **Difficulty**: Easy to hard. WI3+ and above
 - **Classic climbs**:
-  - Dog Killing Waterfall (犬殺しの滝 - Inukoroshi no Taki)  - WI4 pillar, ~50m ([GPX access](https://www.strava.com/activities/4628815274)).
+  - Dog Killing Waterfall (犬殺しの滝 - Inukoroshi no Taki)  - WI4 pillar, ~50m 
+    - [GPX access](https://www.strava.com/activities/4628815274): Don't follow the uphill bend in the path towards the end of our approach (wrong), instead keep on following our return path along the river until you reach the fall.
   - Aizawa Black Wall (相沢奥壁大氷柱) - WI4+, 50m ([GPX access](https://www.strava.com/activities/4633564769)).
   - Aizawa (相沢) - April's Fool (エイプリルフール) ([GPX access](https://www.strava.com/activities/4633564769)) - WI4. Multiple possible lines, and about 3 pitch route.
   - There are also mixed routes and gullies, and some harder ice falls
@@ -318,25 +325,35 @@ See the [Kaikomagatake - Pachinko Climbing post]({{site.baseurl}}/kaikomagatake)
 
 Hokkaido is most well-known for the insane amount of snow it receives during the winter months (sometimes meters in a single day), making it a world-renowned skiing destination. It also happens to be a heaven for ice climbing, with its low temperatures, and multitude of ice falls. The most well-known area is the Sounkyo gorge teeming with multipitch waterfalls a short walk above the river.
 
-## Sounkyo
+## Sōunkyō Gorge (層雲峡)
 
-- **Access**: Drive to the free parking lot [Ginga Waterfall Parking Lot - 銀河・流星の滝駐車場](https://goo.gl/maps/Jwrk4gsX8NM2PWgp9). The main falls Ryu Sei no Taki and Ginga no Taki are visible from the parking lot. Most falls are located along the Ishikari river, upstream from the parking lot. To access more remote falls, it is recommended to walk along the closed road on the right river bank (on the parking lot side). Note that you will need to find a way to cross the river as there is no bridge.
+Located in the Daisetsuzan National Park, the Sounkyo Gorge is a world reknowned ice climbing venue. With its steep walls looming above the Ishikari river, teeming with hundred meters waterfalls, each steeper and bigger than its neighbour. It is also reknowned for its ice climbing festival with its man-made ice village, held around February every year.
+
+- **Access**: Drive to the free parking lot [Ginga Waterfall Parking Lot (銀河・流星の滝駐車場)](https://goo.gl/maps/Jwrk4gsX8NM2PWgp9). The main falls Ryu Sei no Taki and Ginga no Taki are visible from the parking lot. Most falls are located along the Ishikari river, upstream from the parking lot. To access more remote falls, it is recommended to walk along the closed road on the right river bank (on the parking lot side). Note that you will need to find a way to cross the river as there is no bridge.
+- **Further information**:
+  - [General information on the area](https://www.japan-guide.com/e/e6777.html)
+- **Difficulty**: Hard. WI4 and above 
 - **Classic climbs**:
   - Ginga Waterfall ([GPX](https://www.strava.com/activities/4581990704)): 3 pitches, WI4
   - Kumoino Falls ([GPX](https://www.strava.com/activities/4581993102) - *note: don't follow the same approach path that we did, instead prefer taking our return path along the road on the right river bank (parking side)*) - WI4
 
 {% include carousel.html name="sounkyo_carousel" %}
 
-## Mount Raiden
+## Mount Raiden (雷電山)
+
+Mount Raiden (雷電山) is home to the Kumamono Falls (雲間の滝) and can only be described as a stunning ice climbing venue. Imagine steep multipich ice falls above steep snow slopes, overlooking the ocean. Simply stunning.
 
 - **Access**:
+  - Park at the free parking lot [敷島内 風の駐車場](https://goo.gl/maps/6qCsRqaJXDdnXcRk6) along the seaside just after a tunnel's exit. The falls are visible from the parking lot.
+  - Walk above the tunnel to the left of the parking lot (facing away from the sea) and follow the most logical path towards the falls. There is about 300m of elevation through snow slopes. You can do it either with snowshoes or skis, but be aware that for the most part this goes through dense trees and bamboos.
   - [[GPX]](https://www.strava.com/activities/4552619370): Don't follow the same approach path we did as we went too far to the right and ended up having to traverse and do a short rappel to access the fall. Instead follow our descent path.
-  - There is about 300m of elevation through snow slopes. You can do it either with snowshoes or skis, but be aware that for the most part this goes through dense trees and bamboos.
+- **Difficulty**: Very Hard. Multipitch, WI4+ to WI6 
+
 
 {% include carousel.html name="mount_raiden_carousel" %}
 
 ## West coast
 
-Unfortunately, when we travelled around Hokkaido in January 2021, most of the seaside ice falls along the west coast of Hokkaido weren't formed, with the exception of Mount Raiden described above. Here is an overview of the partially formed ones.
+When conditions are right, many ice falls can form along the west coastline of Hokkaido. Unfortunately for us, when we travelled around Hokkaido in January 2021, most falls weren't fully formed yet, or downright inexistant, with the exception of Mount Raiden described above. Here is an overview of the partially formed ones that we could find:
 
 {% include carousel.html name="west_coast_carousel" %}
