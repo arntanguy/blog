@@ -4,7 +4,7 @@ title: Ice climbing guide to Japan
 img: japan-ice-topo/overview/cobra.jpg
 date: 2021-07-09 12:00:00 +0900
 description: Climbing guide on ice climbing areas around Japan
-tag: [Japan, Climbing, Topo]
+tag: [Japan, Ice Climbing, Topo]
 carousels:
   overview_carousel:
     - type: img 
