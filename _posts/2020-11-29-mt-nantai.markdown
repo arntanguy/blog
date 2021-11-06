@@ -4,7 +4,7 @@ title: Dreaming about Nikko's ice and Mt. Nantai Hike
 image: /images/mount-nantai/kegon-winter.jpg # Add image post (optional)
 date: 2020-11-29 12:00:00 +0000
 description: Hinking on Mt. Nantai 
-tags: [hiking, mixed-climbing, ice climbing, japan]
+tags: [hiking, mixed climbing, ice climbing, japan]
 carousels:
   carousel:
     title: "Mount Nantai"

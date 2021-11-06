@@ -3,7 +3,7 @@ layout: post
 title: J'irai percer sur vos tombes - Ailefroide 
 image: /images/jirai-percer-sur-vos-tombes/voie.jpg
 date: 2019-07-10 12:00:00 +0000
-tags: [climbing, big-wall, ecrins, france]
+tags: [climbing, big-wall, ecrins, ailefroide, france]
 
 ---
 

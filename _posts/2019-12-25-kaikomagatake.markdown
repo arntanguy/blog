@@ -3,7 +3,7 @@ layout: post
 title: Kaikomagatake - Pachinko Winter Climbing 
 date: 2020-01-05 12:00:00 +0900
 image:  '/images/kaikomagatake/west_face.jpg'
-tags:   [japan, mountaineering, winter, mixed-climbing, bivouac]
+tags:   [mountaineering, kaikomagatake, winter, mixed climbing, bivouac, japan]
 carousels:
   day1Carousel:
     media:
