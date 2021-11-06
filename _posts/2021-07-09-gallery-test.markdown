@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: post
 title: Gallery test 
 image: /images/japan-ice-topo/overview/cobra.jpg
 date: 2021-07-09 12:00:00 +0900

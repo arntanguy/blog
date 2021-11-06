@@ -79,9 +79,7 @@ defaults:
 
 include:
   - _pages
-exclude:
-  - bower.json
-  - assets
+exclude: []
 
 # Tags
 tag_page_dir:         tag
