@@ -1,74 +1,78 @@
 ---
 layout: post
 title: Dreaming about Nikko's ice and Mt. Nantai Hike
-img: mount-nantai/panorama.jpg # Add image post (optional)
+image: /images/mount-nantai/kegon-winter.jpg # Add image post (optional)
 date: 2020-11-29 12:00:00 +0000
 description: Hinking on Mt. Nantai 
-tag: [Japan, Hiking, Mixed Climbing, Ice Climbing]
+tags: [hiking, mixed-climbing, ice climbing, japan]
 carousels:
   carousel:
+    title: "Mount Nantai"
+    media:
     - type: img 
-      path: /assets/img/mount-nantai/1.jpg
+      path: /images/mount-nantai/1.jpg
       alt: ""
       caption: Kegon Falls
     - type: img 
-      path: /assets/img/mount-nantai/hut.jpg
+      path: /images/mount-nantai/hut.jpg
       alt: ""
       caption: Station 
       description: 8th or 9th station, with a sleeping bag!
     - type: img 
-      path: /assets/img/mount-nantai/2.jpg
+      path: /images/mount-nantai/2.jpg
       alt: ""
     - type: img 
-      path: /assets/img/mount-nantai/3.jpg
+      path: /images/mount-nantai/3.jpg
       alt: ""
     - type: img 
-      path: /assets/img/mount-nantai/4.jpg
+      path: /images/mount-nantai/4.jpg
       alt: ""
       caption: "日本刀 - nihontō"
     - type: img 
-      path: /assets/img/mount-nantai/5.jpg
+      path: /images/mount-nantai/5.jpg
       alt: ""
     - type: img 
-      path: /assets/img/mount-nantai/6.jpg
+      path: /images/mount-nantai/6.jpg
       alt: ""
     - type: img 
-      path: /assets/img/mount-nantai/7.jpg
+      path: /images/mount-nantai/7.jpg
       alt: ""
       caption: "Sunset over lake Chuzenji"
   kegon_falls:
+    title: "Kegon Falls"
+    media:
     - type: img 
-      path: /assets/img/mount-nantai/kegon-winter.jpg
+      path: /images/mount-nantai/kegon-winter.jpg
       alt: ""
       caption: "Mixed-climbing project?"
       description: "Image: 14th March 2018 (<a href=\"https://kosublog.com/en/nikko-1802-part03/\">source</a>)"
     - type: img 
-      path: /assets/img/mount-nantai/kegon-winter2.jpg
+      path: /images/mount-nantai/kegon-winter2.jpg
       alt: ""
       caption: "Mixed-climbing project?"
       description: "Image: 14th March 2018 (<a href=\"https://kosublog.com/en/nikko-1802-part03/\">source</a>)"
     - type: img 
-      path: /assets/img/mount-nantai/1.jpg
+      path: /images/mount-nantai/1.jpg
       alt: ""
       caption: "Kegon Falls on 25th November"
   unryukeikoku_falls:
     - type: img 
-      path: /assets/img/mount-nantai/unryu_keikoku_1.jpg
+      path: /images/mount-nantai/unryu_keikoku_1.jpg
       alt: ""
       caption: "Unryukeikoku Falls"
       description: "Image: February 23, 2018 (<a href=\"https://www.japan-guide.com/blog/peaks/180223.html\">source</a>)"
     - type: img 
-      path: /assets/img/mount-nantai/unryu_keikoku_2.jpg
+      path: /images/mount-nantai/unryu_keikoku_2.jpg
       alt: ""
       caption: "Unryukeikoku Falls"
       description: "Image: February 23, 2018 (<a href=\"https://www.japan-guide.com/blog/peaks/180223.html\">source</a>)"
     - type: img 
-      path: /assets/img/mount-nantai/unryu_keikoku_3.jpg
+      path: /images/mount-nantai/unryu_keikoku_3.jpg
       alt: ""
       caption: "Unryukeikoku Falls"
       description: "Image: February 23, 2018 (<a href=\"https://www.japan-guide.com/blog/peaks/180223.html\">source</a>)"
     - type: img 
-      path: /assets/img/mount-nantai/unryu_keikoku_4.jpg
+      path: /images/mount-nantai/unryu_keikoku_4.jpg
       alt: ""
       caption: "Unryukeikoku Falls"
       description: "Image: February 23, 2018 (<a href=\"https://www.japan-guide.com/blog/peaks/180223.html\">source</a>)"
@@ -92,6 +96,9 @@ Although I didn't get the change to go have a look this time around, it seems th
 {% include carousel.html name="unryukeikoku_falls" %}
 
 ## Mt. Nantai Hike
+
+
+<img src="{{site.baseurl}}/images/mount-nantai/panorama.jpg" alt="Mount Nantai" />
 
 <center>
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/4405495972/embed/21a22794f24e99fce0360e92f8b3e5466e0eebda'></iframe>

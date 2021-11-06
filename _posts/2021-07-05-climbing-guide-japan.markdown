@@ -1,291 +1,315 @@
 ---
 layout: post
 title: Rock climbing guide to Japan
-img: japan-topo/mizugaki/overview.jpg # Add image post (optional)
+image: /images/japan-topo/mizugaki/toichimen.jpg # Add image post (optional)
 date: 2021-07-05 12:00:00 +0900
 description: Climbing guide on Japanse climbing areas around Honshu
-tag: [Japan, Climbing, Topo]
+tags: [japan, climbing, topo]
 carousels:
   overview:
+    title: "Mizugaki"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/overview.jpg
+      path: /images/japan-topo/mizugaki/overview.jpg
       alt: ""
       caption: "Mizugaki" 
       description: "Known for its big multipitch routes (sport and trad). Also has a lot sport and trad climbing"
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/panorama.jpg
+      path: /images/japan-topo/mizugaki/panorama.jpg
       alt: ""
       caption: "" 
       description: ""
   mizugaki:
+    title: "Mizugaki"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/overview.jpg
+      path: /images/japan-topo/mizugaki/overview.jpg
       alt: ""
       caption: "Mizugaki" 
       description: "Known for its big multipitch routes (sport and trad). Also has a lot sport and trad climbing"
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/overview2.jpg
+      path: /images/japan-topo/mizugaki/overview2.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/panorama.jpg
+      path: /images/japan-topo/mizugaki/panorama.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/parking.jpg
+      path: /images/japan-topo/mizugaki/parking.jpg
       alt: ""
       caption: "Main Parking" 
       description: "Perfect place for car bivy"
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/ozuraiwa.jpg
+      path: /images/japan-topo/mizugaki/ozuraiwa.jpg
       alt: ""
       caption: "From the top of Ozura Iwa" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/party-climbing.jpg
+      path: /images/japan-topo/mizugaki/party-climbing.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/toichimen.jpg
+      path: /images/japan-topo/mizugaki/toichimen.jpg
       alt: ""
       caption: "Toichimen Wall" 
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/toichimen2.jpg
+      path: /images/japan-topo/mizugaki/toichimen2.jpg
       alt: ""
       caption: "Toichimen Wall" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/joyful_moment.jpg
+      path: /images/japan-topo/mizugaki/joyful_moment.jpg
       alt: ""
       caption: "Joyful Moment" 
       description: "Joe Mignano conquering his first offwidth"
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/razor_edge.jpg
+      path: /images/japan-topo/mizugaki/razor_edge.jpg
       caption: "Razor Edge - 5.10d" 
       description: "Climber: Joe Mignano"
     - type: img 
-      path: /assets/img/japan-topo/mizugaki/aki_ichiban.jpg
+      path: /images/japan-topo/mizugaki/aki_ichiban.jpg
       caption: "Aki Ichiban - Crux Pitch - 5.10c (?!)" 
       description: "Climber: Tao Ui"
   ogawayama:
+    title: "Ogawayama"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/overview2.jpg
+      path: /images/japan-topo/ogawayama/overview2.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/gojiraiwa.jpg
+      path: /images/japan-topo/ogawayama/gojiraiwa.jpg
       alt: ""
       caption: "Francesco trying hard in a 5.13b in Godzilla Iwa" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/gojiraiwa2.jpg
+      path: /images/japan-topo/ogawayama/gojiraiwa2.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/gojiraiwa3.jpg
+      path: /images/japan-topo/ogawayama/gojiraiwa3.jpg
       alt: ""
       caption: "Godzilla Iwa - 5.12a" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/gojiraiwa4.jpg
+      path: /images/japan-topo/ogawayama/gojiraiwa4.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/maraiwa_xiaoyang.jpg
+      path: /images/japan-topo/ogawayama/maraiwa_xiaoyang.jpg
       alt: ""
       caption: "On top of Mara Iwa" 
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/maraiwa_foot.jpg
+      path: /images/japan-topo/ogawayama/maraiwa_foot.jpg
       alt: ""
       caption: "Looking down from the top of Maraiwa" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/maraiwa_simon2.jpg
+      path: /images/japan-topo/ogawayama/maraiwa_simon2.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/maraiwa_simon.jpg
+      path: /images/japan-topo/ogawayama/maraiwa_simon.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/helicopter.jpg
+      path: /images/japan-topo/ogawayama/helicopter.jpg
       alt: ""
       caption: "Helicopter rescue in Maraiwa" 
       description: "October 2015 - A climber fell on the tricky approach path and and was recued by helicopter. Luckyly he only suffered minor injuries."
     - type: img 
-      path: /assets/img/japan-topo/ogawayama/bonfire.jpg
+      path: /images/japan-topo/ogawayama/bonfire.jpg
       alt: ""
       caption: "" 
       description: ""
   futagoyama:
+    title: "Futagoyama"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/futagoyama/candle_rock.jpg
+      path: /images/japan-topo/futagoyama/candle_rock.jpg
       alt: ""
       caption: "Candle rock" 
       description: "Photo credit Joe Mignano"
     - type: img 
-      path: /assets/img/japan-topo/futagoyama/candle_rock2.jpg
+      path: /images/japan-topo/futagoyama/candle_rock2.jpg
       alt: ""
       caption: "Candle rock" 
       description: "Photo credit Joe Mignano"
     - type: img 
-      path: /assets/img/japan-topo/futagoyama/central_arete.jpg
+      path: /images/japan-topo/futagoyama/central_arete.jpg
       alt: ""
       caption: "Central Arete - Multipitch" 
       description: "Photo credit Joe Mignano"
     - type: img 
-      path: /assets/img/japan-topo/futagoyama/central_arete.jpg
+      path: /images/japan-topo/futagoyama/central_arete.jpg
       alt: ""
       caption: "Central Arete - Multipitch" 
       description: "Photo credit Joe Mignano"
     - type: img 
-      path: /assets/img/japan-topo/futagoyama/misty.jpg
+      path: /images/japan-topo/futagoyama/misty.jpg
       alt: ""
       caption: "Main overhang on a misty day" 
       description: ""
   yamadera_area:
+    title: "Yamadera"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/yamadera/ichiban_overview.jpg
+      path: /images/japan-topo/yamadera/ichiban_overview.jpg
       alt: ""
       caption: "View from the base of Ichiban route - 5.11b" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/yamadera/ichiban.jpg
+      path: /images/japan-topo/yamadera/ichiban.jpg
       alt: ""
       caption: "Ichiban - 5.11b" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/yamadera/route.jpg
+      path: /images/japan-topo/yamadera/route.jpg
       alt: ""
       caption: "Camel - 5.11c" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/yamadera/12b.jpg
+      path: /images/japan-topo/yamadera/12b.jpg
       alt: ""
       caption: "Mind Game - 5.12b" 
       description: "Climber: Toshihiko Hijikata"
     - type: img 
-      path: /assets/img/japan-topo/yamadera/12b2.jpg
+      path: /images/japan-topo/yamadera/12b2.jpg
       alt: ""
       caption: "" 
       description: ""
   misaki:
+    title: "Misaki"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/misaki/sunset.jpg
+      path: /images/japan-topo/misaki/sunset.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/misaki/lighthouse.jpg
+      path: /images/japan-topo/misaki/lighthouse.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/misaki/sea_sunset.jpg
+      path: /images/japan-topo/misaki/sea_sunset.jpg
       alt: ""
       caption: "" 
       description: ""
     - type: img 
-      path: /assets/img/japan-topo/misaki/overview2.jpg
+      path: /images/japan-topo/misaki/overview2.jpg
     - type: img 
-      path: /assets/img/japan-topo/misaki/panorama.jpg
+      path: /images/japan-topo/misaki/panorama.jpg
     - type: img 
-      path: /assets/img/japan-topo/misaki/overview3.jpg
+      path: /images/japan-topo/misaki/overview3.jpg
     - type: img 
-      path: /assets/img/japan-topo/misaki/cave.jpg
+      path: /images/japan-topo/misaki/cave.jpg
     - type: img 
-      path: /assets/img/japan-topo/misaki/11a.jpg
+      path: /images/japan-topo/misaki/11a.jpg
       caption: "Hakucho - 11a"
       description: "Nice short route with a very hard crux" 
     - type: img 
-      path: /assets/img/japan-topo/misaki/rest.jpg
+      path: /images/japan-topo/misaki/rest.jpg
       description: Nobuyuki Suzuki resting between attempts
     - type: img 
-      path: /assets/img/japan-topo/misaki/approach.jpg
+      path: /images/japan-topo/misaki/approach.jpg
       description: Approach path to reach the cliff bottom.  
   samuraihama:
+    title: "Samuraihama"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/samuraihama/overview.jpg
+      path: /images/japan-topo/samuraihama/overview.jpg
     - type: img 
-      path: /assets/img/japan-topo/samuraihama/cliff.jpg
+      path: /images/japan-topo/samuraihama/cliff.jpg
     - type: img 
-      path: /assets/img/japan-topo/samuraihama/cliff2.jpg
+      path: /images/japan-topo/samuraihama/cliff2.jpg
     - type: img 
-      path: /assets/img/japan-topo/samuraihama/11a_crack.jpg
+      path: /images/japan-topo/samuraihama/11a_crack.jpg
       caption: "5.11a crack, trad (toprope)"
     - type: img 
-      path: /assets/img/japan-topo/samuraihama/lead.jpg
+      path: /images/japan-topo/samuraihama/lead.jpg
     - type: img 
-      path: /assets/img/japan-topo/samuraihama/nap.jpg
+      path: /images/japan-topo/samuraihama/nap.jpg
   hyoutan_cave:
+    title: "Hyoutan Cave"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/hyoutan_cave/overview.jpg
+      path: /images/japan-topo/hyoutan_cave/overview.jpg
     - type: img 
-      path: /assets/img/japan-topo/hyoutan_cave/second_cave.jpg
+      path: /images/japan-topo/hyoutan_cave/second_cave.jpg
     - type: img 
-      path: /assets/img/japan-topo/hyoutan_cave/kameya.jpg
+      path: /images/japan-topo/hyoutan_cave/kameya.jpg
       caption: "Kameya - 5.11c"
     - type: img 
-      path: /assets/img/japan-topo/hyoutan_cave/11d.jpg
+      path: /images/japan-topo/hyoutan_cave/11d.jpg
       caption: "5.11d"
     - type: img 
-      path: /assets/img/japan-topo/hyoutan_cave/12b.jpg
+      path: /images/japan-topo/hyoutan_cave/12b.jpg
       caption: "5.12b"
   shiobara_boulder:
+    title: "Shiobara Boulder"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/highball.jpg
+      path: /images/japan-topo/shiobara_boulder/highball.jpg
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/highball2.jpg
+      path: /images/japan-topo/shiobara_boulder/highball2.jpg
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/highball3.jpg
+      path: /images/japan-topo/shiobara_boulder/highball3.jpg
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/boulders.jpg
+      path: /images/japan-topo/shiobara_boulder/boulders.jpg
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/boulders2.jpg
+      path: /images/japan-topo/shiobara_boulder/boulders2.jpg
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/joe_4Q.jpg
+      path: /images/japan-topo/shiobara_boulder/joe_4Q.jpg
       caption: "Joe Mignano on a non-official 4Q"
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/area.jpg
+      path: /images/japan-topo/shiobara_boulder/area.jpg
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/eagle.jpg
+      path: /images/japan-topo/shiobara_boulder/eagle.jpg
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/eagles.jpg
+      path: /images/japan-topo/shiobara_boulder/eagles.jpg
     - type: img 
-      path: /assets/img/japan-topo/shiobara_boulder/snake.jpg
+      path: /images/japan-topo/shiobara_boulder/snake.jpg
   shimonita_boulder:
+    title: "Shimonita Boulder"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/shimonita_boulder/boulder1.jpg
+      path: /images/japan-topo/shimonita_boulder/boulder1.jpg
     - type: mp4 
-      path: /assets/img/japan-topo/shimonita_boulder/video.mp4
+      path: /images/japan-topo/shimonita_boulder/video.mp4
   maruyama:
+    title: "Maruyama"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/maruyama/windturbine.jpg
+      path: /images/japan-topo/maruyama/windturbine.jpg
     - type: img 
-      path: /assets/img/japan-topo/maruyama/boulder1.jpg
+      path: /images/japan-topo/maruyama/boulder1.jpg
     - type: img 
-      path: /assets/img/japan-topo/maruyama/boulder2.jpg
+      path: /images/japan-topo/maruyama/boulder2.jpg
     - type: img 
-      path: /assets/img/japan-topo/maruyama/boulder3.jpg
+      path: /images/japan-topo/maruyama/boulder3.jpg
     - type: img 
-      path: /assets/img/japan-topo/maruyama/boulder4.jpg
+      path: /images/japan-topo/maruyama/boulder4.jpg
     - type: img 
-      path: /assets/img/japan-topo/maruyama/1.jpg
+      path: /images/japan-topo/maruyama/1.jpg
     - type: img 
-      path: /assets/img/japan-topo/maruyama/2.jpg
+      path: /images/japan-topo/maruyama/2.jpg
     - type: img 
-      path: /assets/img/japan-topo/maruyama/3.jpg
+      path: /images/japan-topo/maruyama/3.jpg
   kasama_boulder:
+    title: "Kasama Boulder"
+    media:
     - type: img 
-      path: /assets/img/japan-topo/kasama/kasama.jpg
+      path: /images/japan-topo/kasama/kasama.jpg
       caption: View from the top of Kasama bouldering area
 
 ---

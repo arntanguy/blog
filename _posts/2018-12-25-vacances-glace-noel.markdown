@@ -1,84 +1,89 @@
 ---
 layout: post
 title: Alpinisme Glace Noel 2018 - Vercors, Ecrins, Queyras 
-img: vacances-glace-noel-2018/cover.jpg # Add image post (optional)
+image: /images/vacances-glace-noel-2018/cover.jpg # Add image post (optional)
 date: 2018-12-25 12:00:00 +0000
 description: Escalade Mixte a la Cime de Tavels, goulotte "Au delà du rêve" # Add post description (optional)
-tag: [Vercors, Queyras, Ecrins, Winter, Ice Climbing, Mont Gerbier, Grand Laus, Ceillac, FR]
+tags: [vercors, queyras, ecrins, winter, ice climbing, mont gerbier, grand laus, ceillac, france]
 carousels:
   aiguilles:
+    media:
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/1.jpg
+      path: /images/vacances-glace-noel-2018/1.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/2.jpg
+      path: /images/vacances-glace-noel-2018/2.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/3.jpg
+      path: /images/vacances-glace-noel-2018/3.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/4.jpg
+      path: /images/vacances-glace-noel-2018/4.jpg
       alt: ""
   gerbier:
+    media:
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/gerbier/1.jpg
+      path: /images/vacances-glace-noel-2018/gerbier/1.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/gerbier/2.jpg
+      path: /images/vacances-glace-noel-2018/gerbier/2.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/gerbier/3.jpg
+      path: /images/vacances-glace-noel-2018/gerbier/3.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/gerbier/4.jpg
+      path: /images/vacances-glace-noel-2018/gerbier/4.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/gerbier/5.jpg
+      path: /images/vacances-glace-noel-2018/gerbier/5.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/gerbier/6.jpg
+      path: /images/vacances-glace-noel-2018/gerbier/6.jpg
       alt: ""
   ceillac:
+    media:
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/ceillac/arlesienne1.jpg
+      path: /images/vacances-glace-noel-2018/ceillac/arlesienne1.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/ceillac/arlesienne2.jpg
+      path: /images/vacances-glace-noel-2018/ceillac/arlesienne2.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/ceillac/easy_rider1.jpg
+      path: /images/vacances-glace-noel-2018/ceillac/easy_rider1.jpg
       alt: ""
   grand_laus:
+    media:
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/grand_laus/1.jpg
+      path: /images/vacances-glace-noel-2018/grand_laus/1.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/grand_laus/2.jpg
+      path: /images/vacances-glace-noel-2018/grand_laus/2.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/grand_laus/3.jpg
+      path: /images/vacances-glace-noel-2018/grand_laus/3.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/grand_laus/4.jpg
+      path: /images/vacances-glace-noel-2018/grand_laus/4.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/grand_laus/5.jpg
+      path: /images/vacances-glace-noel-2018/grand_laus/5.jpg
       alt: ""
     - type: mp4
-      path: /assets/img/vacances-glace-noel-2018/grand_laus/spindrift.mp4
+      path: /images/vacances-glace-noel-2018/grand_laus/spindrift.mp4
       alt: ""
   crevoux:
+    media:
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/crevoux/1.jpg
+      path: /images/vacances-glace-noel-2018/crevoux/1.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/crevoux/2.jpg
+      path: /images/vacances-glace-noel-2018/crevoux/2.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/crevoux/3.jpg
+      path: /images/vacances-glace-noel-2018/crevoux/3.jpg
       alt: ""
     - type: img 
-      path: /assets/img/vacances-glace-noel-2018/crevoux/4.jpg
+      path: /images/vacances-glace-noel-2018/crevoux/4.jpg
       alt: ""
 ---
 

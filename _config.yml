@@ -1,55 +1,89 @@
-logo: logo.png # add logo name
-title: Mountaineering around the world 
-description: > # this means to ignore newlines until "baseurl:"
-  Mountaineering blog
-permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#-------------------------------
+# General Site Settings
+title: Arnaud Tanguy
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Hi, my name is Arnaud Tanguy. I'm a Mountaineer, Photographer and Robotics Research Engineer currently based in Montpellier, France.
+baseurl: "/blog" # The subpath of your site, e.g. /blog
+url: "https://arntanguy.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
-# Banner settings
-video: frontpage.mp4 # add banner video. Add your video file to the folder video
-banner-title: "" # add banner title
-# add banner description
-banner-desc: “Any road followed precisely to its end leads precisely nowhere.<br/>Climb the mountain just a little bit to test that it's a mountain.<br/>From the top of the mountain, you cannot see the mountain.” — Franck Herbert 
+#-------------------------------
+# Author Settings
+author-name: Arnaud Tanguy 
 
-# Author settings
-author-pic: face.jpg # your photo
-author-name: Arnaud TANGUY # your name
-about-author: French Mountaineer, Robotics Engineer # about author
+#-------------------------------
+# Hero Settings
+hero:
+  image: '/images/header.jpg'
+  title: Arnaud TANGUY 
+  description: Mountaineering, Ice Climbing, Photography
 
-# Social link
-# google_url:    # add url link
-# twitter_url:   # add url link
-instagram_url: https://www.instagram.com/arntanguy # add url link
-# pinterest_url: # add url link
-# dribbble_url:  # add url link
-# facebook_url:  # add url link
-strava_url: https://www.strava.com/athletes/71520559
-github_url: https://github.com/arntanguy
+social:
+#- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+#- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/arntanguy"}
+- {icon: "ion-logo-github", link: "https://github.com/arntanguy"}
+- {icon: "ion-logo-youtube", link: "https://youtube.com/channel/UCv0xt9XhYJDzzOEhZQw2nXQ"}
+#- {icon: "ion-logo-strava", link: "https://www.strava.com/athletes/71520559"}
+#- {icon: "ion-logo-vimeo", link: "https://vimeo.com/"}
 
-# Disqus
-discus_identifier: arntanguy # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+# Example of adding a new link to the author section and footer - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+# Other icons can be found at https://ionicons.com/v4/
 
-# Contact form (encrypted email https://jumk.de/nospam/stopspam.html)
-formspree: meqeboja
 
+#-------------------------------
+# Contact Settings
+# NOTE
+# Sanara comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+contact:
+  email: meqeboja # Add your email for contact form
+  description: "" 
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: arntanguy # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
 # Newsletter
-# mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: false # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+mailchimp-title: Get Interesting News # Add your title.
+mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-# Tracker
-analytics:
 
-# Paginate
-paginate: 12
-paginate_path: /page:num/
-
+#-------------------------------
 # Build settings
 markdown: kramdown
-
+permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-srcset
+  - jekyll/tagging
 
-include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  /:title
+
+sass:
+  sass_dir: _sass
+  style: compressed

@@ -1,178 +1,190 @@
 ---
 layout: post
 title: Gassan-Hijiori Onsen Ski Traverse 
-img: gassan/day1/gassan_summit.jpg # Add image post (optional)
+image: /images/gassan/day1/gassan_summit.jpg
 date: 2021-04-12 12:00:00 +0000
 description: Two days ski traverse from Mt. Gassan to Hijiori Onsen
-tag: [Japan, Backcountry skiing]
+tags: [backcountry ski, ski, bivouac, japan]
 carousels:
   gassan_intro:
+    title: "Mount Gassan"
+    media:
     - type: img 
-      path: /assets/img/gassan/intro/parking.jpg
+      path: /images/gassan/intro/parking.jpg
       alt: ""
       caption: "Mount Gassan - Hiding in the clouds" 
       description: "Viewed from the parking of Gassan Ski Resort"
     - type: img 
-      path: /assets/img/gassan/intro/gassan_appears.jpg
+      path: /images/gassan/intro/gassan_appears.jpg
       alt: ""
       caption: "Mount Gassan appears" 
     - type: img 
-      path: /assets/img/gassan/intro/snow_wall.jpg
+      path: /images/gassan/intro/snow_wall.jpg
       alt: ""
       caption: "The reknowned meters of spring snow" 
     - type: img 
-      path: /assets/img/gassan/day1/sunset.jpg
+      path: /images/gassan/day1/sunset.jpg
       alt: ""
       caption: "Sunset on the parking lot" 
     - type: img 
-      path: /assets/img/gassan/day1/stars.jpg
+      path: /images/gassan/day1/stars.jpg
       alt: ""
       caption: "" 
     - type: img 
-      path: /assets/img/gassan/day1/stars2.jpg
+      path: /images/gassan/day1/stars2.jpg
       alt: ""
       caption: "" 
   gassan_ascent:
+    title: "Mount Gassan ascent"
+    media:
     - type: img 
-      path: /assets/img/gassan/day1/fogotten_mattress.jpg
+      path: /images/gassan/day1/fogotten_mattress.jpg
       alt: ""
       caption: "Ooops, I forgot my sleeping pad! Going back down!" 
     - type: img 
-      path: /assets/img/gassan/day1/gassan_ridge.jpg
+      path: /images/gassan/day1/gassan_ridge.jpg
       alt: ""
       caption: "Ridgeline to Gassan viewed from halfway up the south face of Gassan" 
     - type: img 
-      path: /assets/img/gassan/day1/gassan_summit.jpg 
+      path: /images/gassan/day1/gassan_summit.jpg 
       alt: ""
       caption: "Gassan summit" 
     - type: img 
-      path: /assets/img/gassan/day1/gassan_summit2.jpg
+      path: /images/gassan/day1/gassan_summit2.jpg
       alt: ""
       caption: "Gassan summit" 
     - type: img 
-      path: /assets/img/gassan/day1/summit_nap.jpg
+      path: /images/gassan/day1/summit_nap.jpg
       alt: ""
       caption: "Couldn't ask for a better spot for a nap" 
     - type: img 
-      path: /assets/img/gassan/day1/summit_bird.jpg
+      path: /images/gassan/day1/summit_bird.jpg
       alt: ""
       caption: "Little birdy showing us the way towards the east face of Gassan" 
       description: "The rest of the route takes place in the lower altitude hills at the bottom"
   gassan_descent:
+    title: "Ski descent of Mount Gassan"
+    media:
     - type: img 
-      path: /assets/img/gassan/day1/summit_wallpaper.jpg
+      path: /images/gassan/day1/summit_wallpaper.jpg
       alt: ""
       caption: "Stick to the hill to the skier's right" 
     - type: img 
-      path: /assets/img/gassan/day1/cornice.jpg
+      path: /images/gassan/day1/cornice.jpg
       caption: "Watch out for the large cornices and glide cracks. Go around to the ridge on the right." 
     - type: img 
-      path: /assets/img/gassan/day1/snow_break.jpg
+      path: /images/gassan/day1/snow_break.jpg
       alt: ""
       alt: ""
       caption: "Scary glide crack crossing" 
       description: "In hindsight, it might have been better to keep to the ridge on the leftside of this tempting face"
     - type: img 
-      path: /assets/img/gassan/day1/snow_break_crossing.jpg
+      path: /images/gassan/day1/snow_break_crossing.jpg
       alt: ""
       caption: "Scary glide crack crossing" 
     - type: img 
-      path: /assets/img/gassan/day1/snow_break_slope.jpg
+      path: /images/gassan/day1/snow_break_slope.jpg
       alt: ""
     - type: img 
-      path: /assets/img/gassan/day1/sawa_slope.jpg
+      path: /images/gassan/day1/sawa_slope.jpg
       alt: ""
       caption: "Slope down to the river" 
       description: "I went straight down the face, then skied on the riverbed. Fun route, but quite a lot of pretty scary glide cracks. It might be better to stick to the ridgeline on the left."
     - type: img 
-      path: /assets/img/gassan/day1/sawa_snow_bridge.jpg
+      path: /images/gassan/day1/sawa_snow_bridge.jpg
       alt: ""
       caption: "The river runs under meters of snow. Take the couloir up on the right (not visible in the picture)" 
   gassan_hut:
+    title: "Mountain hut"
+    media:
     - type: img 
-      path: /assets/img/gassan/day1/lone_tree.jpg
+      path: /images/gassan/day1/lone_tree.jpg
       alt: ""
       caption: "" 
     - type: img 
-      path: /assets/img/gassan/day1/gassan_sunset.jpg
+      path: /images/gassan/day1/gassan_sunset.jpg
       alt: ""
       caption: "" 
     - type: img 
-      path: /assets/img/gassan/day1/hut.jpg
+      path: /images/gassan/day1/hut.jpg
       alt: ""
       caption: "" 
     - type: img 
-      path: /assets/img/gassan/day1/hut_skis.jpg
+      path: /images/gassan/day1/hut_skis.jpg
       alt: ""
       caption: "" 
     - type: img 
-      path: /assets/img/gassan/day1/hut_inside.jpg
+      path: /images/gassan/day1/hut_inside.jpg
       alt: ""
       caption: "" 
     - type: img 
-      path: /assets/img/gassan/day1/hut_toilet_paper.jpg
+      path: /images/gassan/day1/hut_toilet_paper.jpg
       alt: ""
       caption: "" 
   gassan_day2:
+    title: "Second day"
+    media:
     - type: img 
-      path: /assets/img/gassan/day2/1.jpg
+      path: /images/gassan/day2/1.jpg
       alt: ""
       caption: "The route goes through many such small hills" 
     - type: img 
-      path: /assets/img/gassan/day2/2.jpg
+      path: /images/gassan/day2/2.jpg
       alt: ""
       caption: "Glide cracks everywhere" 
     - type: img 
-      path: /assets/img/gassan/day2/3.jpg
+      path: /images/gassan/day2/3.jpg
       alt: ""
       caption: "Glide cracks everywhere" 
     - type: img 
-      path: /assets/img/gassan/day2/4.jpg
+      path: /images/gassan/day2/4.jpg
       alt: ""
       caption: "Carrying up the final summit :(" 
     - type: img 
-      path: /assets/img/gassan/day2/5.jpg
+      path: /images/gassan/day2/5.jpg
       alt: ""
       caption: "Looks like they just started cleaning the road above the village" 
     - type: img 
-      path: /assets/img/gassan/day2/6.jpg
+      path: /images/gassan/day2/6.jpg
       alt: ""
       caption: "Setting up the bivy in the woods above the village" 
     - type: img 
-      path: /assets/img/gassan/day2/7.jpg
+      path: /images/gassan/day2/7.jpg
       alt: ""
       caption: "" 
     - type: img 
-      path: /assets/img/gassan/day2/8.jpg
+      path: /images/gassan/day2/8.jpg
       alt: ""
       caption: "Hijiori Onsen" 
   gassan_return:
+    title: "Return trip"
+    media:
     - type: img 
-      path: /assets/img/gassan/return/hijiori_bus.jpg
+      path: /images/gassan/return/hijiori_bus.jpg
       alt: ""
       caption: "Hijiori Onsen Bus Stop" 
     - type: img 
-      path: /assets/img/gassan/return/hijiori_timetable.jpg
+      path: /images/gassan/return/hijiori_timetable.jpg
       alt: ""
       caption: "Timetable for the Hijiori Onsen-Shinjo station bus" 
     - type: img 
-      path: /assets/img/gassan/return/nishikawa_carry_bag.jpg
+      path: /images/gassan/return/nishikawa_carry_bag.jpg
       alt: ""
       caption: "Aterzawa Station, ready for a 9km walk" 
     - type: img 
-      path: /assets/img/gassan/return/nishikawa_bus_ic_stop.jpg
+      path: /images/gassan/return/nishikawa_bus_ic_stop.jpg
       alt: ""
       caption: "Nishikawa IC local bus stop to Gassan. It is located up the road in front of the 7/11" 
     - type: img 
-      path: /assets/img/gassan/return/nishikawa_bus_ic_timetable.jpg
+      path: /images/gassan/return/nishikawa_bus_ic_timetable.jpg
       alt: ""
       caption: "Timetable for the Nishikawa IC bus stop to Gassan" 
     - type: img 
-      path: /assets/img/gassan/return/interchange_map.jpg
+      path: /images/gassan/return/interchange_map.jpg
       alt: ""
       caption: "Map of the interchange" 
     - type: img 
-      path: /assets/img/gassan/return/car.jpg
+      path: /images/gassan/return/car.jpg
       alt: ""
       caption: "Finally back to the car - in stormy weather" 
 

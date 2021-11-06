@@ -1,75 +1,83 @@
 ---
 layout: default
 ---
+
+{% if page.image %}
+<!-- begin hero -->
+<div class="hero">
+
+  <div class="hero__image">
+    <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+  </div>
+
+</div>
+<!-- begin hero -->
+{% endif %}
+
 {% include header.html %}
 
-<link rel= "stylesheet" href= "/public/css/flexslider.css" type= "text/css" >
+<div class="container">
 
-<main class="post_content">
-  <article class="post">
-    <header>
-      <div class="post_image">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-      </div>
-      <div class="post_description">
-        <p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>
-        <h1 class="post_title">{{page.title}}</h1>
-      </div>
-    </header> <!-- End Header -->
+  <div class="post-head">
 
-    <div class="entry_content">
-      {{page.content | markdownify}}
+    <div class="post__author">
+      <a href="{{site.baseurl}}/about/" class="post__author-link">{{site.author-name}}</a>
     </div>
-    
-    <div class="post_wrapper">
-      <footer class="post_footer cf">
-        <div class="post_share">
-          <span>Share:</span>
-          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
-        </div>
-        <div class="post_tag">
-          <span>Tags:</span>
-          {% for tag in page.tags %}
-          <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
-          {% endfor %}
-        </div>
-      </footer>
-    </div>
-  </article> <!-- End Section Post -->
 
-  <section class="author cf">
-    <div class="post_wrapper">
-      <div class="author_image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
-      </div>
-      <div class="author_info">
-        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Unknown Author{% endif %}</h2>
-        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% endif %}</p>
-      </div>
-    </div>
-  </section> <!-- End Section Author -->
+    <h1 class="post-title">{{ page.title | escape }}</h1>
 
-  <section class="recent_box">
-    <div class="post_wrapper">
-      <h2 class="recent_title">Recent post</h2>
-      <div class="recent_list">
-        {% for post in site.posts offset:0 limit:6 %}
-          {% if post.title %}
-            <a href="{{ post.url | prepend: site.baseurl }}"
-              class="recent_item"
-              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
-                <span>{{ post.title }}</span>
-            </a>
-          {% endif %}
+    <div class="post__meta">
+      {% if page.tags.size >= 1 %}
+      <div class="post-tags">
+        {% for tag in page.tags %}
+          <a href="{{ site.baseurl }}/tag/{{ tag }}" class="post-tags__tag">{{ tag }}</a>
         {% endfor %}
       </div>
+      {% endif %}
+      <span class="post__date">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
+      </span>
     </div>
-  </section> <!-- End Section Recent Box -->
-  
-  {% include disqus.html %}
-  
-</main> <!-- End Section Post Content -->
 
-{% include footer.html %}
+  </div>
+
+  <!-- begin post -->
+  <article class="post">
+
+    <div class="post__content">
+      {{ content }}
+    </div>
+
+    <div class="post__share">
+      <ul class="share__list list-reset">
+
+        <li class="share__item">
+          <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+        </li>
+
+        <li class="share__item">
+          <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+        </li>
+
+        <li class="share__item">
+          <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&amp;media={{ site.url }}{{ site.baseurl }}{{ page.image }}&amp;description={{ page.title | uri_escape }}"
+          onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+          rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+        </li>
+        
+      </ul>
+    </div>
+
+    {% if site.disqus-identifier %}
+      {% include disqus-comments.html %}
+    {% endif %}
+
+  </article>
+  <!-- end post -->
+</div>
+
+{% include related-posts.html %}

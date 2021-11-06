@@ -1,26 +1,28 @@
 ---
 layout: post
 title: Prenez les frappés - Vallon de Gialorgues
-img: prenez_les_frappes/cover.jpg # Add image post (optional)
+image: /images/prenez_les_frappes/cover.jpg # Add image post (optional)
 date: 2019-01-26 12:00:00 +0000
 description: Escalade Mixte a la Cime de Tavels, goulotte "Au delà du rêve" # Add post description (optional)
-tag: [Mercantour, Mountaineering, Winter, Mixed Climbing, Ice Climbing, FR]
+tags: [mercantour, mountaineering, winter, mixed climbing, ice climbing, france]
 carousels:
   carousel:
+    title: "Cascade Prenez-les frappés: escalade et rééquipement des relais de rappel"
+    media:
     - type: img 
-      path: /assets/img/prenez_les_frappes/1.jpeg
+      path: /images/prenez_les_frappes/1.jpeg
       alt: ""
     - type: img 
-      path: /assets/img/prenez_les_frappes/2.jpeg
+      path: /images/prenez_les_frappes/2.jpeg
       alt: ""
     - type: img 
-      path: /assets/img/prenez_les_frappes/3.jpeg
+      path: /images/prenez_les_frappes/3.jpeg
       alt: ""
     - type: img 
-      path: /assets/img/prenez_les_frappes/4.jpeg
+      path: /images/prenez_les_frappes/4.jpeg
       alt: ""
     - type: img 
-      path: /assets/img/prenez_les_frappes/5.jpeg
+      path: /images/prenez_les_frappes/5.jpeg
       alt: ""
 ---
 

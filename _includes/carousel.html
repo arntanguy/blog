@@ -21,75 +21,22 @@ carousels:
 
   The carousel will be selected from the include.name variable 
 -->
-<div id="carousel-container">
-<div id="{{include.name}}" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    {% for item in page.carousels[include.name] %}
-    <li data-target="#{{include.name}}" data-slide-to="{{forloop.index}}" {% if forloop.first == true %}class="active"{% endif %}></li>
-    {% endfor %}
-  </ol>
 
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-  {% for item in page.carousels[include.name] %}
-      <div class={% if forloop.first == true %}"carousel-item active"{% else %}"carousel-item"{% endif %}>
+<div class="gallery-box">
+  <div class="gallery">
+    {% for item in page.carousels[include.name].media %}
         {% if item.type == "img" %}
         <img src="{{ site.baseurl | append: item.path }}" alt="{{item.alt}}">
         <!-- Assume it's a video type -->
         {% else %}
-        <video width="100%" muted>
-          <source src="{{ site.baseurl | append: item.path }}" type="video/{{item.type}}" alt="{{item.alt}}">
-          Your browser does not support the video tag.
-        </video>
+        {% capture video_path %}{{item.path}}{% endcapture %}
+        {% capture video_type %}{{item.type}}{% endcapture %}
+        {% capture video_alt %}{{item.alt}}{% endcapture %}
+        {% include video.html path=video_path type=video_type alt=video_alt %}
         {% endif %}
-
-        <!-- Display caption -->
-        {% if item.caption|| item.description %}
-        <div class="carousel-caption d-none d-md-block">
-          {% if item.caption %}
-          <h3>{{item.caption}}</h3>
-          {% endif %}
-          {% if item.description %}
-          <p>{{item.description}}</p>
-          {% endif %}
-        </div>
-        {% endif %}
-      </div>
-  {% endfor %}
+    {% endfor %}
   </div>
-
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#{{include.name}}" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#{{include.name}}" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+  {% if page.carousels[include.name].title %}
+  <em>{{page.carousels[include.name].title}}</em>
+  {% endif %}
 </div>
-</div>
-<script>
-  $("#{{include.name}}").carousel({
-    interval: false
-  });
-  // On slide event, if carousel-item has a video tag, play it
-  $("#{{include.name}}").on('slide.bs.carousel', function(e) {
-    var children = e.relatedTarget.childNodes;
-    children.forEach(function(item){
-      if(item.nodeName == "VIDEO")
-      {
-        item.play();
-        // When the video starts playing, pause the carousel 
-        $(item).on('play', function (e) {
-          $('#{{include.name}}').carousel('pause');
-        });
-        // When the video finishes or is stopped, resume the carousel from the next slide
-        $(item).on('stop ended', function (e) {
-          $('#{{include.name}}').carousel('next');
-        });
-      }
-    });
-  });
-</script>

@@ -1,0 +1,8 @@
+{% if include.type == "youtube" %}
+<p><iframe src="https://www.youtube.com/embed/{{include.path}}" frameborder="0" allowfullscreen></iframe></p>
+{% else %}
+<video width="100%" controls>
+  <source src="{{ site.baseurl }}{{ include.path }}" type="video/{{include.type}}" alt="{{include.alt}}">
+  Your browser does not support the video tag.
+</video>
+{% endif %}

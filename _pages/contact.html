@@ -1,34 +1,30 @@
 ---
-layout: default
+layout: page
 title: Contact
 permalink: /contact/
+image: '/images/80.jpg'
 ---
-
-<section class="contact">
-  <a href="{{site.baseurl}}/" class="button_back"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>
-  
-  <div class="container_contact">
-  <h3 class="form_title">Send me message</h3>
-
-  <form action="https://formspree.io/{{site.formspree}}" method="post" class="form">
-    <div class="message js-form-messa   ge"></div>
-    <div class="form_group">            
-        <input type="text" placeholder="Your name*" name="name" class="form-input" required>
-    </div>                              
-    <div class="form_group">            
-        <input type="email" placeholder="Your e-mail*" name="_replyto" class="form-input" required>
-    </div>                              
-    <div class="form_group">            
-        <input type="tel" placeholder="Your phone" name="form_tel" class="form-input">
-    </div>                              
-    <div class="form_group">            
-        <textarea name="Message" placeholder="Message*" cols="25" rows="6" class="form-textarea" required></textarea>
-    </div>                              
-    <!-- Hidden field to prevent spam    -->
-    <input type="text" name="_gotcha" style="display:none" />
-    <div class="form_group">
-        <input type="submit" class="form_btn" value="Send">
+<div class="form-container">
+  {% if site.contact.description %}
+  <p class="contact-description">{{site.contact.description}}</p>
+  {% endif %}
+  <form class="form"
+    action="{% if site.contact.email %}https://formspree.io/{{site.contact.email}}{% else %}#{% endif %}" method="POST">
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name..." required>
     </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
+      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email..." required>
+    </div>
+    <div class="form__group">
+      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
+      <textarea class="form__input" id="form-text" name="text" rows="8" placeholder="Message..." required></textarea>
+    </div>
+    <div class="form__group">
+      <button class="button button--primary" type="submit">Send Message</button>
+    </div>
+    <input type="hidden" name="_next" value="{{ site.baseurl }}/contact/thanks/" />
   </form>
-  </div>
-</section>
+</div>

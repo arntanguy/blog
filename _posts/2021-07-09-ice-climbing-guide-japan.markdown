@@ -1,240 +1,249 @@
 ---
 layout: post
 title: Ice climbing guide to Japan
-img: japan-ice-topo/overview/cobra.jpg
+image: /images/japan-ice-topo/overview/cobra.jpg
 date: 2021-07-09 12:00:00 +0900
-description: Climbing guide on ice climbing areas around Japan
-tag: [Japan, Ice Climbing, Topo]
+description: Ice climbing guide to Japan
+tag: [japan, ice climbing, topo]
 carousels:
   overview_carousel:
     - type: img 
-      path: /assets/img/japan-ice-topo/overview/car.jpg
+      path: /images/japan-ice-topo/overview/car.jpg
       alt: "Suzuki Wagon with 4WD and winter tires"
       caption: "Winter car camping is common practice" 
       description: "Suzuki Wagon with 4WD and winter tires, used for most approaches in this article - Aomori Prefecture"
     - type: img 
-      path: /assets/img/japan-ice-topo/overview/bivy.jpg
+      path: /images/japan-ice-topo/overview/bivy.jpg
       alt: "Winter bivy"
       caption: "Winter bivy is the norm" 
       description: "Yonagofudo"
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/burried_car.jpg
+      path: /images/japan-ice-topo/hokkaido/burried_car.jpg
       alt: "Burried car in Hokkaido"
       caption: "Except snow fall, especially in Hokkaido" 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/day2_deep_snow.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_deep_snow.jpg
       alt: "Deep snow approach"
       caption: "Deep snow approaches are common" 
       description: "Sounkyo - Hokkaido"
     - type: img 
-      path: /assets/img/japan-ice-topo/overview/cobra.jpg
+      path: /images/japan-ice-topo/overview/cobra.jpg
       alt: "Cobra ice fall"
       caption: "Japan boasts some impressive ice falls" 
       description: "Cobra - WI5 - 120m - Yonagofudo"
-    - type: mp4 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/view.mp4
-      alt: "Mount Raiden"
-      caption: "" 
-      description: ""
   yatsugatake_carousel:
+    title: "Yatugatake"
+    media:
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/05.jpg
+      path: /images/japan-ice-topo/yatsugatake/05.jpg
       caption: Approach walk towards the hut (2h)
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/01_approach.jpg
+      path: /images/japan-ice-topo/yatsugatake/01_approach.jpg
       caption: Approach towards 大同心 (WI4)
       description: 25 January 2020
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/01.jpg
+      path: /images/japan-ice-topo/yatsugatake/01.jpg
       caption: 大同心 (WI4)
       description: 25 January 2020
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/02.jpg
+      path: /images/japan-ice-topo/yatsugatake/02.jpg
       caption: Japanese climber in 大同心 (WI4)
       description: 25 January 2020
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/03.jpg
+      path: /images/japan-ice-topo/yatsugatake/03.jpg
       description: 25 January 2020
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/04.jpg
+      path: /images/japan-ice-topo/yatsugatake/04.jpg
       caption: Riccardo following on the right side of 大同心 (WI4+)
       description: 25 January 2020
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/2021_01.jpg
+      path: /images/japan-ice-topo/yatsugatake/2021_01.jpg
       caption: Xiaoyang Cheng on the icy approach to 大同心 
       description: January 2021 - The previous year this whole section was entirely covered with snow and we didn't even notice this 3m section of vertical ice!
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/2021_02.jpg
+      path: /images/japan-ice-topo/yatsugatake/2021_02.jpg
       description: January 2021
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/ice_candy_december.jpg
+      path: /images/japan-ice-topo/yatsugatake/ice_candy_december.jpg
       caption: The Ice Candy artificial waterfall near the hut, not formed yet (January 2021)
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/kodoshin_crack.jpg
+      path: /images/japan-ice-topo/yatsugatake/kodoshin_crack.jpg
       caption: Left is Daidoshin (大同心稜), Right is Shodoushin Crack (小同心クラック)
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/kodoshin_crack_climb.jpg
+      path: /images/japan-ice-topo/yatsugatake/kodoshin_crack_climb.jpg
       caption: Riccardo in Shodoushin Crack
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/mixed.jpg
+      path: /images/japan-ice-topo/yatsugatake/mixed.jpg
       caption: Mixed climbing on the The West face Shu-ryo of Akadake (赤岳主稜)
     - type: img 
-      path: /assets/img/japan-ice-topo/yatsugatake/summit.jpg
+      path: /images/japan-ice-topo/yatsugatake/summit.jpg
       caption: Riccardo summiting Shu-ryo of Akadake (赤岳主稜) with horrible weather.
       description: This started out as a sunny day, only to be caught a few hours later in strong winds painfully blowing ice around us, and a full whiteout.
     - type: mp4 
-      path: /assets/img/japan-ice-topo/yatsugatake/bad_weather.mp4
+      path: /images/japan-ice-topo/yatsugatake/bad_weather.mp4
   yonagofudo_carousel:
+    title: "Yonagofudo"
+    media:
     - type: img 
-      path: /assets/img/japan-ice-topo/yonagofudo/bivy.jpg
+      path: /images/japan-ice-topo/yonagofudo/bivy.jpg
       caption: Bivy at the base of the climbs 
     - type: img 
-      path: /assets/img/japan-ice-topo/yonagofudo/cobra_03.jpg
+      path: /images/japan-ice-topo/yonagofudo/cobra_03.jpg
       caption: "Anaconda (WI4+) - Cobra Left (WI5+) - Cobra (WI5)"
       description: 13 February 2021
     - type: img 
-      path: /assets/img/japan-ice-topo/yonagofudo/cobra_01.jpg
+      path: /images/japan-ice-topo/yonagofudo/cobra_01.jpg
       caption: Cobra (WI5, 120m)
       description: Only the first two pitches are visible (~80m)
     - type: img 
-      path: /assets/img/japan-ice-topo/yonagofudo/cobra_02.jpg
+      path: /images/japan-ice-topo/yonagofudo/cobra_02.jpg
       caption: Cobra (WI5, 120m)
     - type: mp4
-      path: /assets/img/japan-ice-topo/yonagofudo/cobra_video.mp4
+      path: /images/japan-ice-topo/yonagofudo/cobra_video.mp4
     - type: img 
-      path: /assets/img/japan-ice-topo/yonagofudo/cobra_left.jpg
+      path: /images/japan-ice-topo/yonagofudo/cobra_left.jpg
       caption: Cobra Left (WI5+, rarely in condition)
     - type: img 
-      path: /assets/img/japan-ice-topo/yonagofudo/cobra_left_crux.jpg
+      path: /images/japan-ice-topo/yonagofudo/cobra_left_crux.jpg
       caption: Above the crux start of Cobra Left 
     - type: img 
-      path: /assets/img/japan-ice-topo/yonagofudo/dragon_01.jpg
+      path: /images/japan-ice-topo/yonagofudo/dragon_01.jpg
       caption: Dragon God (WI4)
     - type: img 
-      path: /assets/img/japan-ice-topo/yonagofudo/dragon_02.jpg
+      path: /images/japan-ice-topo/yonagofudo/dragon_02.jpg
       caption: Dragon God (WI4)
   oyafudo_carousel:
+    title: "Oyafudo"
+    media:
     - type: img 
-      path: /assets/img/japan-ice-topo/oyafudo/approach.jpg
+      path: /images/japan-ice-topo/oyafudo/approach.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/oyafudo/approach_map_check.jpg
+      path: /images/japan-ice-topo/oyafudo/approach_map_check.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/oyafudo/approach_map.jpg
+      path: /images/japan-ice-topo/oyafudo/approach_map.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/oyafudo/final_approach.jpg
+      path: /images/japan-ice-topo/oyafudo/final_approach.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/oyafudo/fall.jpg
+      path: /images/japan-ice-topo/oyafudo/fall.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/oyafudo/lead.jpg
+      path: /images/japan-ice-topo/oyafudo/lead.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/oyafudo/mixed.jpg
+      path: /images/japan-ice-topo/oyafudo/mixed.jpg
   arafuneyama_carousel:
+    title: "Arafuneyama"
+    media:
     - type: img 
-      path: /assets/img/japan-ice-topo/arafuneyama/approach.jpg
+      path: /images/japan-ice-topo/arafuneyama/approach.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/arafuneyama/dogkiller_02.jpg
+      path: /images/japan-ice-topo/arafuneyama/dogkiller_02.jpg
       caption: "Dog Killing Waterfall (犬殺しの滝 - Inukoroshi)"
     - type: img 
-      path: /assets/img/japan-ice-topo/arafuneyama/dogkiller_lead.jpg
+      path: /images/japan-ice-topo/arafuneyama/dogkiller_lead.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/arafuneyama/dogkiller_03.jpg
+      path: /images/japan-ice-topo/arafuneyama/dogkiller_03.jpg
       description: Pretty wet!
     - type: img 
-      path: /assets/img/japan-ice-topo/arafuneyama/dogkiller_04.jpg
+      path: /images/japan-ice-topo/arafuneyama/dogkiller_04.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/arafuneyama/aprils_fool_01.jpg
+      path: /images/japan-ice-topo/arafuneyama/aprils_fool_01.jpg
       caption: April's Fool - 3 pitches
       description: First lead for Aaron
     - type: img 
-      path: /assets/img/japan-ice-topo/arafuneyama/aprils_fool_02.jpg
+      path: /images/japan-ice-topo/arafuneyama/aprils_fool_02.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/arafuneyama/aprils_fool_mixed.jpg
+      path: /images/japan-ice-topo/arafuneyama/aprils_fool_mixed.jpg
       caption: Mixed routes
   sounkyo_carousel:
+    title: "Sounkyo"
+    media:
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/tents.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/tents.jpg
       caption: Winter bivy on the way to Sounkyo 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/kei_car_magic.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/kei_car_magic.jpg
       caption: When you can't decide between skiing, ice climbing and traveling 
       description: Fitting 3 people and all the gear in a kei car is a nice challenge. It's definitely bigger on the inside!
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/ice_festival.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/ice_festival.jpg
       caption: Sounkyo Ice Festival
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/ryu_sei_no_taki.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/ryu_sei_no_taki.jpg
       caption: Ryu Sei no Taki 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_1.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_1.jpg
       caption: Ginga no Taki 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/river_crossing_day.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/river_crossing_day.jpg
       caption: River crossing 
       description: "Picture: Gregor Neumann"
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_2.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_2.jpg
       caption: Ginga no Taki 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_3.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_3.jpg
       caption: Ginga no Taki 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_4.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_4.jpg
       caption: Ginga no Taki 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/river_crossing.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/river_crossing.jpg
       caption: River crossing by night 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/day2_deep_snow.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_deep_snow.jpg
       caption: Deep snow on the approach 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/day2_01.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_01.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/day2_02.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_02.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/sounkyo/day2_04.jpg
+      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_04.jpg
   mount_raiden_carousel:
+    title: "Mount Raiden"
+    media:
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/approach_parking.jpg
+      path: /images/japan-ice-topo/hokkaido/raiden/approach_parking.jpg
       caption: Kumamono falls (雲間の滝) viewed from the seaside parking 
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/approach_1.jpg
+      path: /images/japan-ice-topo/hokkaido/raiden/approach_1.jpg
       caption: Ski and snowshoe approach
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/approach_2.jpg
+      path: /images/japan-ice-topo/hokkaido/raiden/approach_2.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/approach_3.jpg
+      path: /images/japan-ice-topo/hokkaido/raiden/approach_3.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/raiden_ski_climb.jpg
+      path: /images/japan-ice-topo/hokkaido/raiden/raiden_ski_climb.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/climb_1.jpg
+      path: /images/japan-ice-topo/hokkaido/raiden/climb_1.jpg
     - type: mp4 
-      path: /assets/img/japan-ice-topo/hokkaido/raiden/view.mp4
+      path: /images/japan-ice-topo/hokkaido/raiden/view.mp4
   west_coast_carousel:
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/west_coast/sea.jpg
+      path: /images/japan-ice-topo/hokkaido/west_coast/sea.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/west_coast/sea2.jpg
+      path: /images/japan-ice-topo/hokkaido/west_coast/sea2.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/west_coast/shiroganeno_01.jpg
+      path: /images/japan-ice-topo/hokkaido/west_coast/shiroganeno_01.jpg
       caption: "Shiroganeno Falls - 白銀の滝"
     - type: img 
-      path: /assets/img/japan-ice-topo/hokkaido/west_coast/shiroganeno_02.jpg
+      path: /images/japan-ice-topo/hokkaido/west_coast/shiroganeno_02.jpg
       caption: "Shiroganeno Falls - 白銀の滝"
   unryukeikoku_carousel:
+    title: "Unryukeikoku"
+    media:
     - type: img 
-      path: /assets/img/japan-ice-topo/unryukeikoku/dec_2020_03.jpg
+      path: /images/japan-ice-topo/unryukeikoku/dec_2020_03.jpg
       caption: Unryukeikoku Falls not yet formed - 1 Dec 2020
     - type: img 
-      path: /assets/img/japan-ice-topo/unryukeikoku/dec_2020_01.jpg
+      path: /images/japan-ice-topo/unryukeikoku/dec_2020_01.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/unryukeikoku/dec_2020_02.jpg
+      path: /images/japan-ice-topo/unryukeikoku/dec_2020_02.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/unryukeikoku/dec_2020_04.jpg
+      path: /images/japan-ice-topo/unryukeikoku/dec_2020_04.jpg
     - type: img 
-      path: /assets/img/japan-ice-topo/unryukeikoku/tent2.jpg
+      path: /images/japan-ice-topo/unryukeikoku/tent2.jpg
       caption: Wild bivy next to the falls 
     - type: img 
-      path: /assets/img/japan-ice-topo/unryukeikoku/main_fall_feb.jpg
+      path: /images/japan-ice-topo/unryukeikoku/main_fall_feb.jpg
       caption: Main fall melting in the sun - 6 Feb 2021 
 
 ---
@@ -378,7 +387,7 @@ Mount Raiden (雷電山) is home to the Kumamono Falls (雲間の滝) and can on
   - [[GPX]](https://www.strava.com/activities/4552619370): Don't follow the same approach path we did as we went too far to the right and ended up having to traverse and do a short rappel to access the fall. Instead follow our descent path.
 - **Difficulty**: Very Hard. Multipitch, WI4+ to WI6 
 
-
+{% include video.html path="/images/japan-ice-topo/hokkaido/raiden/view.mp4" type="mp4" alt="Mount Raident" %}
 {% include carousel.html name="mount_raiden_carousel" %}
 
 ## West coast
