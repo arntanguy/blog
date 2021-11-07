@@ -1,0 +1,106 @@
+picture_path: ice-climbing-guide-japan-sounkyo
+pictures:
+- filename: 01-waterfall
+  original: 01-waterfall-800x1067.jpg
+  sizes:
+  - 01-waterfall-2000x2667.jpg
+  - 01-waterfall-800x1067.jpg
+  thumbnail: 01-waterfall-800x1067.jpg
+- filename: 02-waterfall
+  original: 02-waterfall-800x1067.jpg
+  sizes:
+  - 02-waterfall-2000x2667.jpg
+  - 02-waterfall-800x1067.jpg
+  thumbnail: 02-waterfall-800x1067.jpg
+  title: Ryu Sei no Taki 
+  caption: Sadly, not fully formed yet!
+- filename: 03-waterfall
+  original: 03-waterfall-800x1067.jpg
+  sizes:
+  - 03-waterfall-2000x2667.jpg
+  - 03-waterfall-800x1067.jpg
+  thumbnail: 03-waterfall-800x1067.jpg
+  title: Ginga no Taki 
+- filename: 04-waterfall
+  original: 04-waterfall-800x1067.jpg
+  sizes:
+  - 04-waterfall-2000x2667.jpg
+  - 04-waterfall-800x1067.jpg
+  thumbnail: 04-waterfall-800x1067.jpg
+  title: Ginga no Taki 
+- filename: 05-waterfall
+  original: 05-waterfall-800x600.jpg
+  sizes:
+  - 05-waterfall-2000x1500.jpg
+  - 05-waterfall-800x600.jpg
+  thumbnail: 05-waterfall-800x600.jpg
+  title: Ginga no Taki 
+- filename: 06-river crossing
+  original: 06-river crossing-800x600.jpg
+  sizes:
+  - 06-river crossing-2000x1500.jpg
+  - 06-river crossing-800x600.jpg
+  thumbnail: 06-river crossing-800x600.jpg
+  title: Xiaoyang crossing the icy river 
+- filename: 07-river crossing
+  original: 07-river crossing-800x534.jpg
+  sizes:
+  - 07-river crossing-2000x1333.jpg
+  - 07-river crossing-800x534.jpg
+  thumbnail: 07-river crossing-800x534.jpg
+  title: River crossing 
+  caption: "Picture: Gregor Neumann"
+- filename: 08-ice festival
+  original: 08-ice festival-800x334.jpg
+  sizes:
+  - 08-ice festival-2000x834.jpg
+  - 08-ice festival-800x334.jpg
+  thumbnail: 08-ice festival-800x334.jpg
+  title: Sounkyo Ice Festival
+- filename: 09-snow
+  original: 09-snow-800x534.jpg
+  sizes:
+  - 09-snow-2000x1334.jpg
+  - 09-snow-800x534.jpg
+  thumbnail: 09-snow-800x534.jpg
+  title: Xiaoyang plowing through snow on the approach 
+- filename: 10-waterfall
+  original: 10-waterfall-800x1200.jpg
+  sizes:
+  - 10-waterfall-2000x3001.jpg
+  - 10-waterfall-800x1200.jpg
+  thumbnail: 10-waterfall-800x1200.jpg
+- filename: 11-waterfall
+  original: 11-waterfall-800x534.jpg
+  sizes:
+  - 11-waterfall-2000x1333.jpg
+  - 11-waterfall-800x534.jpg
+  thumbnail: 11-waterfall-800x534.jpg
+- filename: 12-waterfall
+  original: 12-waterfall-800x534.jpg
+  sizes:
+  - 12-waterfall-2000x1333.jpg
+  - 12-waterfall-800x534.jpg
+  thumbnail: 12-waterfall-800x534.jpg
+- filename: 13-waterfall
+  original: 13-waterfall-800x534.jpg
+  sizes:
+  - 13-waterfall-2000x1333.jpg
+  - 13-waterfall-800x534.jpg
+  thumbnail: 13-waterfall-800x534.jpg
+- filename: 14-tents
+  original: 14-tents-800x534.jpg
+  sizes:
+  - 14-tents-2000x1333.jpg
+  - 14-tents-800x534.jpg
+  thumbnail: 14-tents-800x534.jpg
+  title: Winter bivy on the way to Sounkyo
+  caption: "It's only -18°C!"
+- filename: 15-car
+  original: 15-car-800x534.jpg
+  sizes:
+  - 15-car-2000x1333.jpg
+  - 15-car-800x534.jpg
+  thumbnail: 15-car-800x534.jpg
+  title: When you can't decide between skiing, ice climbing and traveling 
+  caption: Fitting 3 people and all the gear in a kei car is a nice challenge. It's definitely bigger on the inside!

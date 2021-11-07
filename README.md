@@ -39,6 +39,8 @@ When adding multiple times the same gallery in the same page, then use `id_numbe
 {% include gallery-layout.html gallery=site.data.galleries.gallery-test  id_number="2"  %}
 ```
 
+To resize the images in a gallery, edit the width of the `.gallery-sizer` element in `_sass/3-modules/gallery.scss`. (TODO this should be a parameter)
+
 # CV
 
 The CV page is based on [jekyll-cv](https://github.com/Stavrospanakakis/jekyll-cv).

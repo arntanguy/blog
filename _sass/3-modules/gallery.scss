@@ -1,4 +1,9 @@
-$default-width: 50%;
+// Controls the image width in the gallery grid
+// e.g the number of columns
+// 2-columns: 50%
+// 3-columns: 33%
+// ...
+$default-width: 33%;
 
 * {
   -webkit-box-sizing: border-box;
@@ -9,6 +14,10 @@ $default-width: 50%;
 /* force scrollbar, prevents initial gap */
 html {
   overflow-y: scroll;
+}
+
+.lg-hide-items .lg-sub-html {
+  display: none;
 }
 
 .image-wrapper,
@@ -39,7 +48,17 @@ html {
   }
 }
 
-.caption {
-  position: static;
-  color: #AAA;
+// Gallery legend
+.lg-sub-html
+{
+  h4
+  {
+    font-size: 20px;
+    color: $white;
+  }
+  p
+  {
+    font-size: 14px;
+    color: $gray-lightest;
+  }
 }

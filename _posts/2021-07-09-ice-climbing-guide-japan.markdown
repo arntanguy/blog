@@ -153,50 +153,6 @@ carousels:
     - type: img 
       path: /images/japan-ice-topo/arafuneyama/aprils_fool_mixed.jpg
       caption: Mixed routes
-  sounkyo_carousel:
-    title: "Sounkyo"
-    media:
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/tents.jpg
-      caption: Winter bivy on the way to Sounkyo 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/kei_car_magic.jpg
-      caption: When you can't decide between skiing, ice climbing and traveling 
-      description: Fitting 3 people and all the gear in a kei car is a nice challenge. It's definitely bigger on the inside!
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/ice_festival.jpg
-      caption: Sounkyo Ice Festival
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/ryu_sei_no_taki.jpg
-      caption: Ryu Sei no Taki 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_1.jpg
-      caption: Ginga no Taki 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/river_crossing_day.jpg
-      caption: River crossing 
-      description: "Picture: Gregor Neumann"
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_2.jpg
-      caption: Ginga no Taki 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_3.jpg
-      caption: Ginga no Taki 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/ginga_no_taki_4.jpg
-      caption: Ginga no Taki 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/river_crossing.jpg
-      caption: River crossing by night 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_deep_snow.jpg
-      caption: Deep snow on the approach 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_01.jpg
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_02.jpg
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_04.jpg
   mount_raiden_carousel:
     title: "Mount Raiden"
     media:
@@ -375,7 +331,7 @@ Located in the Daisetsuzan National Park, the Sounkyo Gorge is a world reknowned
   - Ginga Waterfall ([GPX](https://www.strava.com/activities/4581990704)): 3 pitches, WI4
   - Kumoino Falls ([GPX](https://www.strava.com/activities/4581993102) - *note: don't follow the same approach path that we did, instead prefer taking our return path along the road on the right river bank (parking side)*) - WI4
 
-{% include carousel.html name="sounkyo_carousel" %}
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-sounkyo %}
 
 ## Mount Raiden (雷電山)
 
