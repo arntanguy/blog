@@ -9,11 +9,16 @@ __license__ = 'BSD-3-Clause'
 import yaml, imagesize
 from os import listdir, rename
 from os.path import isfile, join
+import sys
+
+if len(sys.argv) < 2:
+    print("Usage: ./gallery_creator.py <gallery-name>")
+    exit(1)
 
 # configuration
-output_file = "gallery-test.yml"
+image_path = sys.argv[1]
+output_file = sys.argv[1] + ".yml"
 input_file = output_file
-image_path = "gallery-test"
 extensions= ['jpg']
 
 # set correct path

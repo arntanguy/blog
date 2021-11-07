@@ -22,20 +22,17 @@ images/galleries/<your-gallery>/image2-whatever-suffix.jpg
 
 ```sh
 cd _data/galleries
-# Then edit gallery_creator.py to set the correct gallery name
-# Run it
-./gallery_creator.py
-# This will modify /images/galleries/<your-gallery> to generate the set of images of multiple resolutions for the gallery
-# and create a <your-gallery>.yml file containting its configuration
+./gallery_creator.py <your-gallery>
+# This will rename the images in /images/galleries/<your-gallery> according to their resolution and create a <your-gallery>.yml file containting its configuration
 ```
 
-It can then be included with
+The gallery can then be included with:
 
 ```
 {% include gallery-layout.html gallery=site.data.galleries.gallery-test %}
 ```
 
-if there are multiple times the same gallery in the same page, then use `id_number` to distinguish them:
+When adding multiple times the same gallery in the same page, then use `id_number` to distinguish them:
 
 ```
 {% include gallery-layout.html gallery=site.data.galleries.gallery-test  id_number="1"  %}
