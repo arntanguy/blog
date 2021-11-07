@@ -1,12 +1,21 @@
 /* Post + Page */
 .post {
   position: relative;
-  max-width: 780px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
 .page {
-  max-width: 780px;
+  max-width: 900px;
+  margin: 0 auto 80px;
+
+  @media only screen and (max-width: $mobile) {
+    margin: 0 auto 60px;
+  }
+}
+
+.page-wide {
+  max-width: 90%;
   margin: 0 auto 80px;
 
   @media only screen and (max-width: $mobile) {

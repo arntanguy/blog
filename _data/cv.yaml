@@ -1,0 +1,130 @@
+name: Arnaud Tanguy 
+support_dark_mode: true
+fork: false
+
+# Sidebar
+contact:
+  email: arn.tanguy@gmail.com
+  github: arntanguy
+  linkedin: arnaud-tanguy
+  phone: 
+  gitlab: 
+  twitter: 
+
+languages:
+  - idiom: French
+  - idiom: English
+  - idiom: German
+
+education:
+  - degree: PhD in Robotics and Micro-electronics
+    time: 2014-2018
+    university: University of Montpellier
+
+  - degree: Engineering Degree in Computer Science (Master's degree)
+    time: 2011-2014
+    university: Polytech Nice-Sophia Antipolis<br/>Trinity College Dublin 
+
+skills:
+  - category: Robotics
+    skill: 
+      - C++ (11/14/17)
+      - ROS
+      - mc_rtc framework
+      - real time systems
+  - category: Robots
+    skill:
+      - HRP2-Kai
+      - HRP4, HRP4CR, HRP4J
+      - HRP5P
+      - Panda
+      - Sawyer
+      - NAO, Pepper
+      - ...
+  - category: DevOps
+    skill:
+      - CMake
+      - Github Action
+      - Gitlab CI
+      - Unit test
+
+# Profile
+profile: |
+  I'm a Research Engineer in Humanoid Robotics, with a strong background in Computer Vision and in particular Simulataneous Localization and Mapping (SLAM).
+
+# Experience
+experience:
+  - role: Research Engineer
+    time: 2021-Present
+    company: CNRS - Laboratoire d'Informatique et de Robotique de l'Université de Montpellier (LIRMM) - France
+    details: |
+      <ul>
+      <li>Maintainer of mc_rt framework</li>
+      <li>Supporting students and postdocs</li>
+      <li>Development and demonstrations for our industrial partners</li>
+      <li>Lead developper for the <a href="https://www.xprize.org/prizes/avatar">ANA Avatar XPrize</a> competition</li>
+      </ul>
+    technologies_used: |
+      C++, Python, mc_rtc framework, humanoid robots (HRP-4, etc.), manipulators (Panda, UR, etc.), augmented reality devices (Occulus, HTC Vive, X-Sens, etc.)
+  
+  - role: Research Engineer
+    time: 2019-2021
+    company: Advanced Institute of Science and Technology (AIST) - Japan
+    details: |
+      <ul>
+      <li>Responsible of unifying the mc_rtc framework developped by CNRS-LIRMM with the HMC framework developped by HRG-AIST</li>
+      <li>Maintainer of mc_rtc</li>
+      <li>Support for students and postdocs</li>
+      <li>Lead developper for the <a href="https://www.xprize.org/prizes/avatar">ANA Avatar XPrize</a> competition</li>
+      </ul>
+    technologies_used: |
+      C++, Python, mc_rtc framework, Unity, humanoid robots (HRP-4J, HRP-4CR, HRP5-P, HRP2-Kai, etc.), manipulators (Sawer), augmented reality devices (Occulus, HTC Vive, X-Sens, etc.)
+
+  - role: Research Engineer
+    time: 2018-2019
+    company: CNRS - Laboratoire d'Informatique et de Robotique de l'Université de Montpellier (LIRMM) - France
+    details: |
+      <ul>
+      <li>Maintainer of mc_rtc</li>
+      <li>Support for students and postdocs</li>
+      <li>Responsible for the integration of SLAM in the <a href="https://comanoid.cnrs.fr/project-overview">H2020 COMANOID Project</a> (Multi-Contact Collaborative Humanoids in Aircraft Manufacturing)<br /><a href="https://ieeexplore.ieee.org/ielx7/100/4600619/8889461/mra2943395-kheddar-mm.zip?tp=&arnumber=8889461">- Demonstration at the Airbus Saint-Nazaire factory</a></li>
+      </ul>
+    technologies_used: |
+      C++, SLAM, Python, mc_rtc framework, humanoid robots (HRP-4), Capacitive Sensors (Fogale)
+
+  - role: PhD Candidate 
+    time: 2014-2018
+    company: "Laboratoire d'Informatique et de Robotique de l'Université de Montpellier (LIRMM) - France<br/>Laboratoire d'Informatique, Signaux et Systèmes de Sophia Antipolis (I3S) - France<br/>Joint Robotics Laboratory (JRL, AIST) - Japan<br/>"
+    details: |
+      <ul>
+      <li>TITLE : <a href="http://theses.fr/2018MONTS082">“Visual SLAM for Localization and Closed-loop Control of Humanoid Robots”</a></li>
+      <li>KEYWORDS : Dense Visual SLAM; localization; state observation; planification and multi-contact control; whole-body calibration; quadratic programming (QP); model predictive control (MPC).</li>
+      <li>SUPERVISORS : Abderrahmane Kheddar, Andrew Comport</li>
+      </ul>
+    technologies_used: # 
+      Python, Tensorflow, Keras, Matlab
+
+publications:
+  - title: "Humanoid robots in aircraft manufacturing: the Airbus use cases <empth>[Best paper award]</empth>"
+    link: "#"
+    authors: A. KHEDDAR, S. CARON, P. GERGONDET, A. COMPORT, A. TANGUY, C. OTT, B. HENZE, G. MESESAN, J. ENGLSBERGER, M. A. ROA, P.-B. WIEBER, F. CHAUMETTE, F. SPINDLER, G. ORIOLO, L. LANARI, A. ESCANDE, K. CHAPPELLET, F. KANEHIRO, P. RABATE
+    conference: IEEE Robotics and Automation Magazine, Institute of Electrical and Electronics Engineers, 2019, best paper award
+
+  - title: Closed-loop RGB-D SLAM Multi-Contact Control for humanoid robots <emph>[best paper finalist award]</emph>
+    link: "#"
+    authors: A. TANGUY, P. GERGONDET, A. I. COMPORT, A. KHEDDAR
+    conference: IEEE/SICE International Symposium on System Integration (SII), 2016, Sapporo, Japan
+
+projects:
+  - title: mc_rtc 
+    link: https://jrl-umi3218.github.io/mc_rtc
+    details: |
+      mc_rtc is an interface for simulation and robot control systems. It implements task-space control expressed as a quadratic problem, and provides support for many state-of-the-art robots (the HRP robots, Franka Emika robots, NAO, Pepper, Sawyer, etc.).
+
+# Volunteering
+volunteering:
+  - time: 2018-Present
+    role: Ice Climbing Instructor, Trad Climbing Instructor 
+    company: Club Alpin Français de Montpellier (French Alpine Club) 
+    details: |
+      Sharing my mountaineering experience with other passionate people.

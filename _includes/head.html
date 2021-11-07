@@ -33,6 +33,9 @@
   <style>
   {% capture include_to_scssify %}
     {% include main.scss %}
+    {% if page.support contains 'cv' %}
+    {% include cv/cv.scss %}
+    {% endif %}
   {% endcapture %}
   {{ include_to_scssify | scssify }}
   </style>

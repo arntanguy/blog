@@ -1,0 +1,25 @@
+.publications {
+    .title {
+        @include cv-header;
+    }
+    .publication-items {
+        .publication-item {
+            margin-bottom: 20px;
+            .publication-title {
+                a {
+                    text-decoration: none;
+                    font-weight: bold;
+                    @include cv-body-text; 
+                }
+            }
+            .authors {
+                @include cv-body-text; 
+            }
+            .conference {
+                @include cv-body-text; 
+                color: var(--fg-color-title-sm);
+                font-weight: 100;
+            }
+        }
+    }
+}

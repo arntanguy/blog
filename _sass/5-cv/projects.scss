@@ -1,0 +1,14 @@
+.projects {
+    .title {
+        @include cv-header;
+    }
+    .project {
+        margin-bottom: 20px;
+        .project-link {
+            @include cv-body-text;
+        }
+        .details {
+            @include cv-body-text;
+        }
+    }
+}

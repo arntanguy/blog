@@ -1,0 +1,8 @@
+.career-profile {
+    .title {
+        @include cv-header;
+    }
+    .details {
+        @include cv-body-text;
+    }
+}
