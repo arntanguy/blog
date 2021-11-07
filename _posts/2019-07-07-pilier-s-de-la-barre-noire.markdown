@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pilier Sud de la Barre Noire - Écrins 
-image: /images/pilier-s-barre-noire/barre-des-ecrins.jpg
+image: pilier-s-barre-noire 
 date: 2019-07-07 12:00:00 +0000
 tags: [climbing, mountaineering, bivouac, ecrins, france]
 

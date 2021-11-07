@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cime de Tavels - Au delà du rêve"
-image: "/images/au_dela_du_reve/cover.jpg"
+image: au-dela-du-reve 
 date: 2019-01-27 12:00:00 +0000
 description: Escalade Mixte a la Cime de Tavels, goulotte "Au delà du rêve"
 tags: [mercantour, mountaineering, winter, mixed climbing, france]

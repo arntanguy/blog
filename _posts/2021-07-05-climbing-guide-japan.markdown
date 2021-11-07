@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rock climbing guide to Japan
-image: /images/japan-topo/mizugaki/toichimen.jpg # Add image post (optional)
+image: climbing-guide-japan
 date: 2021-07-05 12:00:00 +0900
 description: Climbing guide on Japanse climbing areas around Honshu
 tags: [japan, climbing, topo]

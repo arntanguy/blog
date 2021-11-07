@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gassan-Hijiori Onsen Ski Traverse 
-image: /images/gassan/day1/gassan_summit.jpg
+image: gassan-hijiori-traverse
 date: 2021-04-12 12:00:00 +0000
 description: Two days ski traverse from Mt. Gassan to Hijiori Onsen
 tags: [backcountry ski, ski, bivouac, japan]

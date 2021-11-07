@@ -8,7 +8,7 @@ layout: default
   <div class="hero__image">
   {% for post in site.tags[tag_name] %}
     {% if forloop.index == 1 and post.image %}
-      <img class="lazy" data-src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}">
+      <img class="lazy" data-src="{{site.baseurl}}/images/covers/{{post.image}}-cover.jpg" alt="{{post.title}}">
     {% endif %}
   {% endfor %}
   </div>

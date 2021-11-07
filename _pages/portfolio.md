@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
-image: '/images/portfolio/portfolio.jpg'
+image: climbing-guide-japan 
 carousels:
   wildlife:
     media:

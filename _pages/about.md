@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/about/arnaud_about.jpg'
+image: au-dela-du-reve 
 carousels:
   me:
     media:
