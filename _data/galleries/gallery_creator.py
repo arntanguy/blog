@@ -10,6 +10,7 @@ import yaml, imagesize
 from os import listdir, rename
 from os.path import isfile, join
 import sys
+from collections import OrderedDict
 
 if len(sys.argv) < 2:
     print("Usage: ./gallery_creator.py <gallery-name>")
@@ -28,6 +29,7 @@ path = join("../../images/galleries", image_path)
 print('Collecting files...')
 files = [f for f in listdir(path) if isfile(join(path, f))]
 files = [f for f in files if f[f.rfind('.')+1:] in extensions ]
+files.sort()
 
 # rename image files
 print('Renaming files...')
@@ -41,9 +43,11 @@ for f in files:
     new_files.append(newf)
 
 files = new_files
+for f in files:
+    print(f)
 
 # helper objects to store gallery data
-new_gallery = {}
+new_gallery = OrderedDict()
 thumbs = {}
 
 # group gallery data
