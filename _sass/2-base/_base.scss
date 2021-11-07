@@ -8,7 +8,7 @@ body {
   font-weight: $base-font-weight;
   line-height: $base-line-height;
   color: $text-color;
-  background-color: $background-color;
+  background-color: var(--bg-color); // $background-color;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
