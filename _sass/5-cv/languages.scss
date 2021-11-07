@@ -1,0 +1,9 @@
+.languages {
+    margin-bottom: 20px;
+    .title {
+        @include cv-sub-header;
+    }
+    .idiom {
+        @include cv-body-text;
+    }
+}

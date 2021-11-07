@@ -1,0 +1,25 @@
+.experiance {
+    .title {
+        @include cv-header;
+    }
+    .experience-item {
+        .role {
+            @include cv-sub-header;
+        }
+        .company {
+            @include cv-body-text;
+            font-weight: bold;
+            .time {
+                float: right;
+                color: var(--fg-color-title-sm);
+                font-weight: 100;
+            }
+        }
+        .details {
+            @include cv-body-text;
+        }
+        .technologies {
+            @include cv-body-text;
+        }
+    }
+}

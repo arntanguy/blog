@@ -38,3 +38,9 @@ When adding multiple times the same gallery in the same page, then use `id_numbe
 {% include gallery-layout.html gallery=site.data.galleries.gallery-test  id_number="1"  %}
 {% include gallery-layout.html gallery=site.data.galleries.gallery-test  id_number="2"  %}
 ```
+
+# CV
+
+The CV page is based on [jekyll-cv](https://github.com/Stavrospanakakis/jekyll-cv).
+
+To update the CV, simply edit the information in `_data/cv.yaml`.

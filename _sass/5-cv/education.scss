@@ -1,0 +1,19 @@
+.education {
+    margin-bottom: 20px;
+    .title {
+        @include cv-sub-header;
+    }
+    .education-item {
+        margin-bottom: 20px;
+        .degree {
+            @include cv-body-text;
+            font-weight: bold;
+        }
+        .university {
+            @include cv-body-text;
+        }
+        .time {
+            @include cv-body-text;
+        }
+    }
+}

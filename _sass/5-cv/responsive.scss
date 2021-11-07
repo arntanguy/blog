@@ -1,0 +1,33 @@
+@media screen and (max-width: 1024px) {
+    body {
+        background-color: var(--bg-color-cv);
+    }
+    .cv-container {
+        box-shadow: none;
+        .container-block {
+
+            .sidebar {
+                div {
+                    text-align: left;
+                }                
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        .container-block {
+            display: block;
+        }
+    }
+    .cv-header {
+        display: block;
+        .title {
+            margin:0 auto;
+        }
+        input, label {
+            display: none;
+        }
+    }
+}
