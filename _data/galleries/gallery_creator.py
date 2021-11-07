@@ -43,12 +43,10 @@ for f in files:
     new_files.append(newf)
 
 files = new_files
-for f in files:
-    print(f)
 
 # helper objects to store gallery data
 new_gallery = OrderedDict()
-thumbs = {}
+thumbs = OrderedDict()
 
 # group gallery data
 print('Grouping files...')
@@ -64,24 +62,27 @@ for f in files:
 
 # find largest image -> set as original
 print('Searching for originals and missing thumbnails...')
-originals = {}
+originals = OrderedDict()
+
+
 for image_set in new_gallery:
-    max_width, max_height = imagesize.get(join(path, new_gallery[image_set][0]))
-    min_width, min_height = imagesize.get(join(path, new_gallery[image_set][0]))
-    original = new_gallery[image_set][0]
-    thumbnail = new_gallery[image_set][0]
-    for image in new_gallery[image_set]:
-        width, height = imagesize.get(join(path, image))
-        if (width*height) > (max_width*max_height):
-            original = image
-        if (width*height) < (min_width*min_height):
-            thumbnail = image
-    # delete original from list to avoid double entries
-    del new_gallery[image_set][new_gallery[image_set].index(original)]
+    val = new_gallery[image_set]
+    max_surface = 0
+    min_surface = sys.maxint
+    original = ""
+    thumbnail = ""
+    for v in val:
+        width, height = imagesize.get(join(path, v))
+        if width * height > max_surface:
+            max_surface = width * height
+            original = v
+        if width * height < min_surface:
+            min_surface = width * height
+            thumbnail = v
+    print "thumbnail is ", thumbnail
+    print "original is ", original
     originals[image_set] = original
-    # add thumbnial if not yet in dict (not removed since might still be useful)
-    if image_set not in thumbs:
-        thumbs[image_set] = thumbnail
+    thumbs[image_set] = thumbnail
 
 # try to load YAML data
 print('Checking existing YAML data...')
@@ -104,6 +105,8 @@ for pic in new_gallery:
             # include thumbnail if present
             if pic in thumbs:
                 i["thumbnail"] = thumbs[pic]
+            if pic in originals:
+                i["original"] = originals[pic]
             found = True
     if not found:
         # create new entry
