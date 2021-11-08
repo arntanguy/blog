@@ -31,60 +31,6 @@ carousels:
       alt: "Cobra ice fall"
       caption: "Japan boasts some impressive ice falls" 
       description: "Cobra - WI5 - 120m - Yonagofudo"
-  arafuneyama_carousel:
-    title: "Arafuneyama"
-    media:
-    - type: img 
-      path: /images/japan-ice-topo/arafuneyama/approach.jpg
-    - type: img 
-      path: /images/japan-ice-topo/arafuneyama/dogkiller_02.jpg
-      caption: "Dog Killing Waterfall (犬殺しの滝 - Inukoroshi)"
-    - type: img 
-      path: /images/japan-ice-topo/arafuneyama/dogkiller_lead.jpg
-    - type: img 
-      path: /images/japan-ice-topo/arafuneyama/dogkiller_03.jpg
-      description: Pretty wet!
-    - type: img 
-      path: /images/japan-ice-topo/arafuneyama/dogkiller_04.jpg
-    - type: img 
-      path: /images/japan-ice-topo/arafuneyama/aprils_fool_01.jpg
-      caption: April's Fool - 3 pitches
-      description: First lead for Aaron
-    - type: img 
-      path: /images/japan-ice-topo/arafuneyama/aprils_fool_02.jpg
-    - type: img 
-      path: /images/japan-ice-topo/arafuneyama/aprils_fool_mixed.jpg
-      caption: Mixed routes
-  mount_raiden_carousel:
-    title: "Mount Raiden"
-    media:
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/raiden/approach_parking.jpg
-      caption: Kumamono falls (雲間の滝) viewed from the seaside parking 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/raiden/approach_1.jpg
-      caption: Ski and snowshoe approach
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/raiden/approach_2.jpg
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/raiden/approach_3.jpg
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/raiden/raiden_ski_climb.jpg
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/raiden/climb_1.jpg
-    - type: mp4 
-      path: /images/japan-ice-topo/hokkaido/raiden/view.mp4
-  west_coast_carousel:
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/west_coast/sea.jpg
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/west_coast/sea2.jpg
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/west_coast/shiroganeno_01.jpg
-      caption: "Shiroganeno Falls - 白銀の滝"
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/west_coast/shiroganeno_02.jpg
-      caption: "Shiroganeno Falls - 白銀の滝"
 
 ---
 
@@ -137,8 +83,6 @@ Here is a map of the approach to 大同心 waterfall passing by the Akadake Kose
 {% include video.html path="/images/japan-ice-topo/yatsugatake/bad_weather.mp4" type="mp4" %}
 
 {% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-yatsugatake id_number="123" %}
-<br />
-
 
 ## Yonagofudo
 
@@ -187,7 +131,7 @@ Gunma prefecture is not particularely known for ice climbing. Yet Arafuneyama ha
   - Aizawa (相沢) - April's Fool (エイプリルフール) ([GPX access](https://www.strava.com/activities/4633564769)) - WI4. Multiple possible lines, and about 3 pitch route.
   - There are also mixed routes and gullies, and some harder ice falls
 
-{% include carousel.html name="arafuneyama_carousel" %}
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-arafuneyama id_number="144334" %}
 
 ## Unryukeikoku Falls (雲竜渓谷)
 
@@ -236,10 +180,11 @@ Mount Raiden (雷電山) is home to the Kumamono Falls (雲間の滝) and can on
 - **Difficulty**: Very Hard. Multipitch, WI4+ to WI6 
 
 {% include video.html path="/images/japan-ice-topo/hokkaido/raiden/view.mp4" type="mp4" alt="Mount Raident" %}
-{% include carousel.html name="mount_raiden_carousel" %}
+
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-raiden id_number="12398" %}
 
 ## West coast
 
-When conditions are right, many ice falls can form along the west coastline of Hokkaido. Unfortunately for us, when we travelled around Hokkaido in January 2021, most falls weren't fully formed yet, or downright inexistant, with the exception of Mount Raiden described above. Here is an overview of the partially formed ones that we could find:
+When conditions are right, many ice falls can form along the west coastline of Hokkaido. Unfortunately for us, when we travelled around Hokkaido during the first week of January 2021, most falls weren't fully formed yet, or downright inexistant, with the exception of Mount Raiden described above. Here is an overview of the partially formed ones that we could find:
 
-{% include carousel.html name="west_coast_carousel" %}
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-hokkaido-west-coast id_number="321123" %}

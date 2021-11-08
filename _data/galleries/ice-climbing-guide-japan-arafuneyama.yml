@@ -1,0 +1,88 @@
+picture_path: ice-climbing-guide-japan-arafuneyama
+pictures:
+- filename: 01-approach
+  original: 01-approach-2000x2667.jpg
+  sizes:
+  - 01-approach-2000x2667.jpg
+  - 01-approach-400x534.jpg
+  - 01-approach-800x1067.jpg
+  thumbnail: 01-approach-400x534.jpg
+  title: Annoying approach through the forest
+- filename: 02-inu
+  original: 02-inu-2000x2667.jpg
+  sizes:
+  - 02-inu-2000x2667.jpg
+  - 02-inu-400x534.jpg
+  - 02-inu-800x1067.jpg
+  thumbnail: 02-inu-400x534.jpg
+  title: Dog Killing Waterfall
+  caption: "犬殺しの滝 - Inukoroshi no Taki - WI4 - ~50m"
+- filename: 03-inu-climbing
+  original: 03-inu-climbing-2000x2667.jpg
+  sizes:
+  - 03-inu-climbing-2000x2667.jpg
+  - 03-inu-climbing-400x534.jpg
+  - 03-inu-climbing-800x1067.jpg
+  thumbnail: 03-inu-climbing-400x534.jpg
+  title: Dog Killing Waterfall
+  caption: "犬殺しの滝 - Inukoroshi no Taki - WI4 - ~50m"
+- filename: 04-ice-axes
+  original: 04-ice-axes-2000x2667.jpg
+  sizes:
+  - 04-ice-axes-2000x2667.jpg
+  - 04-ice-axes-400x534.jpg
+  - 04-ice-axes-800x1067.jpg
+  thumbnail: 04-ice-axes-400x534.jpg
+  title: Dog Killing Waterfall
+  caption: "犬殺しの滝 - Inukoroshi no Taki - WI4 - ~50m"
+- filename: 05-khan
+  original: 05-khan-2000x1500.jpg
+  sizes:
+  - 05-khan-2000x1500.jpg
+  - 05-khan-400x300.jpg
+  - 05-khan-800x600.jpg
+  thumbnail: 05-khan-400x300.jpg
+  title: "April’s Fool (エイプリルフール)"
+  caption: "3 pitches: WI4 - WI3+ - WI3+"
+- filename: 06-aprils fool
+  original: 06-aprils fool-1824x2400.jpg
+  sizes:
+  - 06-aprils fool-1824x2400.jpg
+  - 06-aprils fool-400x527.jpg
+  - 06-aprils fool-800x1053.jpg
+  thumbnail: 06-aprils fool-400x527.jpg
+  title: "April’s Fool (エイプリルフール)"
+- filename: 07-aprils fool
+  original: 07-aprils fool-2000x2667.jpg
+  sizes:
+  - 07-aprils fool-2000x2667.jpg
+  - 07-aprils fool-400x534.jpg
+  - 07-aprils fool-800x1067.jpg
+  thumbnail: 07-aprils fool-400x534.jpg
+  title: "April’s Fool (エイプリルフール)"
+- filename: 08-aprils fool
+  original: 08-aprils fool-2000x2667.jpg
+  sizes:
+  - 08-aprils fool-2000x2667.jpg
+  - 08-aprils fool-400x534.jpg
+  - 08-aprils fool-800x1067.jpg
+  thumbnail: 08-aprils fool-400x534.jpg
+  title: "April’s Fool (エイプリルフール)"
+- filename: 09-aizawa-black-wall
+  original: 09-aizawa-black-wall-1080x1080.jpg
+  sizes:
+  - 09-aizawa-black-wall-1080x1080.jpg
+  - 09-aizawa-black-wall-400x400.jpg
+  - 09-aizawa-black-wall-800x800.jpg
+  thumbnail: 09-aizawa-black-wall-400x400.jpg
+  title: "Aizawa Black Wall (相沢奥壁大氷柱)"
+  caption: "WI4+, 50m - Copyright: @gen_yamatani"
+- filename: 10-shoes
+  original: 10-shoes-2000x2667.jpg
+  sizes:
+  - 10-shoes-2000x2667.jpg
+  - 10-shoes-400x534.jpg
+  - 10-shoes-800x1067.jpg
+  thumbnail: 10-shoes-400x534.jpg
+  title: "Drying shoes"
+  caption: "When you don't have double boots and need to climb the following day"

@@ -1,0 +1,53 @@
+picture_path: ice-climbing-guide-japan-raiden
+pictures:
+- caption: Just after the tunnel, ice falls visible
+  filename: 01-car
+  original: 01-car-2000x2667.jpg
+  sizes:
+  - 01-car-2000x2667.jpg
+  - 01-car-400x534.jpg
+  - 01-car-800x1067.jpg
+  thumbnail: 01-car-400x534.jpg
+  title: Car park next to the sea
+- filename: 02-approach
+  original: 02-approach-2000x1500.jpg
+  sizes:
+  - 02-approach-2000x1408.jpg
+  - 02-approach-2000x1500.jpg
+  - 02-approach-400x282.jpg
+  - 02-approach-400x300.jpg
+  - 02-approach-800x563.jpg
+  - 02-approach-800x600.jpg
+  thumbnail: 02-approach-400x282.jpg
+  title: Ski or snowshoes approach
+- filename: 03-approach
+  original: 03-approach-2000x1500.jpg
+  sizes:
+  - 03-approach-2000x1500.jpg
+  - 03-approach-400x300.jpg
+  - 03-approach-800x600.jpg
+  thumbnail: 03-approach-400x300.jpg
+  title: Ski or snowshoes approach
+- filename: 04-approach
+  original: 04-approach-2000x2784.jpg
+  sizes:
+  - 04-approach-2000x2784.jpg
+  - 04-approach-400x557.jpg
+  - 04-approach-800x1114.jpg
+  thumbnail: 04-approach-400x557.jpg
+- caption: Skiing, Ice Climbing, and the Sea, what could be better?
+  filename: 05-ski-climbing
+  original: 05-ski-climbing-1280x1600.jpg
+  sizes:
+  - 05-ski-climbing-1280x1600.jpg
+  - 05-ski-climbing-400x500.jpg
+  - 05-ski-climbing-800x1000.jpg
+  thumbnail: 05-ski-climbing-400x500.jpg
+  title: "Kumamono falls (\u96F2\u9593\u306E\u6EDD) - WI4+ - WI5"
+- filename: 06-view-down
+  original: 06-view-down-1352x2227.jpg
+  sizes:
+  - 06-view-down-1352x2227.jpg
+  - 06-view-down-400x659.jpg
+  - 06-view-down-800x1318.jpg
+  thumbnail: 06-view-down-400x659.jpg

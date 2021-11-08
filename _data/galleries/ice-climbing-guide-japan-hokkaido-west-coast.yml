@@ -1,0 +1,36 @@
+picture_path: ice-climbing-guide-japan-hokkaido-west-coast
+pictures:
+- filename: 01-sea
+  original: 01-sea-2000x1500.jpg
+  sizes:
+  - 01-sea-2000x1500.jpg
+  - 01-sea-400x300.jpg
+  - 01-sea-800x600.jpg
+  thumbnail: 01-sea-400x300.jpg
+  title: Somewhere between Sapporo and Rumoi
+- filename: 02-sea
+  original: 02-sea-2000x1501.jpg
+  sizes:
+  - 02-sea-2000x1501.jpg
+  - 02-sea-400x300.jpg
+  - 02-sea-800x600.jpg
+  thumbnail: 02-sea-400x300.jpg
+  title: Somewhere between Sapporo and Rumoi
+- filename: 03-shiroganeno
+  original: 03-shiroganeno-2000x1500.jpg
+  sizes:
+  - 03-shiroganeno-2000x1500.jpg
+  - 03-shiroganeno-400x300.jpg
+  - 03-shiroganeno-800x600.jpg
+  thumbnail: 03-shiroganeno-400x300.jpg
+  title: "Shirogane Falls (白銀の滝)"
+  caption: "Right next to the road, perfect approach!"
+- filename: 04-shiroganeno
+  original: 04-shiroganeno-2000x2667.jpg
+  sizes:
+  - 04-shiroganeno-2000x2667.jpg
+  - 04-shiroganeno-400x534.jpg
+  - 04-shiroganeno-800x1067.jpg
+  thumbnail: 04-shiroganeno-400x534.jpg
+  title: "Shirogane Falls (白銀の滝)"
+  caption: "There are many similar falls in the area, however none were in condition (1st week of January 2021)"
