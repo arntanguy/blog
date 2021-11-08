@@ -1,0 +1,101 @@
+picture_path: ice-climbing-guide-japan-unryukeikoku
+pictures:
+- filename: 01 - car
+  original: 01 - car-2000x2667.jpg
+  sizes:
+  - 01 - car-2000x2667.jpg
+  - 01 - car-400x534.jpg
+  - 01 - car-800x1067.jpg
+  thumbnail: 01 - car-400x534.jpg
+  title: Leaving alone from the car with a heavy bag
+- filename: 02 - dam
+  original: 02 - dam-2000x1500.jpg
+  sizes:
+  - 02 - dam-2000x1500.jpg
+  - 02 - dam-400x300.jpg
+  - 02 - dam-800x600.jpg
+  thumbnail: 02 - dam-400x300.jpg
+  title: Dam
+- filename: 03 - bivy
+  original: 03 - bivy-2000x1500.jpg
+  sizes:
+  - 03 - bivy-2000x1500.jpg
+  - 03 - bivy-400x300.jpg
+  - 03 - bivy-800x600.jpg
+  thumbnail: 03 - bivy-400x300.jpg
+  title: Night bivy next to the falls
+- filename: 04 - temperature
+  original: 04 - temperature-2000x2667.jpg
+  sizes:
+  - 04 - temperature-2000x2667.jpg
+  - 04 - temperature-400x534.jpg
+  - 04 - temperature-800x1067.jpg
+  thumbnail: 04 - temperature-400x534.jpg
+  title: Cold, but not cold enough!
+- filename: 05 - melting snoiw
+  original: 05 - melting snoiw-2000x2667.jpg
+  sizes:
+  - 05 - melting snoiw-2000x2667.jpg
+  - 05 - melting snoiw-400x534.jpg
+  - 05 - melting snoiw-800x1067.jpg
+  thumbnail: 05 - melting snoiw-400x534.jpg
+  title: "Melting snow" 
+- filename: 06 - unryukeikoku
+  original: 06 - unryukeikoku-2000x1500.jpg
+  sizes:
+  - 06 - unryukeikoku-2000x1500.jpg
+  - 06 - unryukeikoku-400x300.jpg
+  - 06 - unryukeikoku-800x600.jpg
+  thumbnail: 06 - unryukeikoku-400x300.jpg
+- filename: 07 - unryukeikoky
+  original: 07 - unryukeikoky-2000x2667.jpg
+  sizes:
+  - 07 - unryukeikoky-2000x2667.jpg
+  - 07 - unryukeikoky-400x534.jpg
+  - 07 - unryukeikoky-800x1067.jpg
+  thumbnail: 07 - unryukeikoky-400x534.jpg
+- filename: 08 - melting
+  original: 08 - melting-2000x2672.jpg
+  sizes:
+  - 08 - melting-2000x2672.jpg
+  - 08 - melting-400x535.jpg
+  - 08 - melting-800x1069.jpg
+  thumbnail: 08 - melting-400x535.jpg
+  title: "Februrary, and already melting!"
+  caption: 06 February 2021
+- filename: 09 - Japan Guide
+  original: 09 - Japan Guide-840x560.jpg
+  sizes:
+  - 09 - Japan Guide-840x560.jpg
+  - 09 - Japan Guide-400x267.jpg
+  - 09 - Japan Guide-800x534.jpg
+  thumbnail: 09 - Japan Guide-400x267.jpg
+  title: "Unryukeikoky: when in good conditions!"
+  caption: Copyright japan-guide.com
+- filename: 10 - Japan guide
+  original: 10 - Japan guide-840x1260.jpg
+  sizes:
+  - 10 - Japan guide-840x1260.jpg
+  - 10 - Japan guide-400x600.jpg
+  - 10 - Japan guide-800x1200.jpg
+  thumbnail: 10 - Japan guide-400x600.jpg
+  title: "Unryukeikoky: when in good conditions!"
+  caption: Copyright japan-guide.com
+- filename: 11 - Japan guide
+  original: 11 - Japan guide-840x560.jpg
+  sizes:
+  - 11 - Japan guide-840x560.jpg
+  - 11 - Japan guide-400x267.jpg
+  - 11 - Japan guide-800x534.jpg
+  thumbnail: 11 - Japan guide-400x267.jpg
+  title: "Unryukeikoky: when in good conditions!"
+  caption: Copyright japan-guide.com
+- filename: 12 - Japan guide
+  original: 12 - Japan guide-840x560.jpg
+  sizes:
+  - 12 - Japan guide-840x560.jpg
+  - 12 - Japan guide-400x267.jpg
+  - 12 - Japan guide-800x534.jpg
+  thumbnail: 12 - Japan guide-400x267.jpg
+  title: "Unryukeikoky: when in good conditions!"
+  caption: Copyright japan-guide.com

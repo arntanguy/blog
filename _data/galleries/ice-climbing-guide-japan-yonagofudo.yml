@@ -1,0 +1,77 @@
+picture_path: ice-climbing-guide-japan-yonagofudo
+pictures:
+- filename: 01 - approach bivy
+  original: 01 - approach bivy-3000x2250.jpg
+  sizes:
+  - 01 - approach bivy-2000x1500.jpg
+  - 01 - approach bivy-3000x2250.jpg
+  - 01 - approach bivy-400x300.jpg
+  - 01 - approach bivy-800x600.jpg
+  thumbnail: 01 - approach bivy-400x300.jpg
+  title: "Bivouac with icefalls in the background"
+- filename: 02 - dragon god approach
+  original: 02 - dragon god approach-3000x4000.jpg
+  sizes:
+  - 02 - dragon god approach-2000x2667.jpg
+  - 02 - dragon god approach-3000x4000.jpg
+  - 02 - dragon god approach-400x534.jpg
+  - 02 - dragon god approach-800x1067.jpg
+  thumbnail: 02 - dragon god approach-400x534.jpg
+  title: "Approach to Dragon God" 
+- filename: 03 - dragon god icefall
+  original: 03 - dragon god icefall-3000x4000.jpg
+  sizes:
+  - 03 - dragon god icefall-2000x2667.jpg
+  - 03 - dragon god icefall-3000x4000.jpg
+  - 03 - dragon god icefall-400x534.jpg
+  - 03 - dragon god icefall-800x1067.jpg
+  thumbnail: 03 - dragon god icefall-400x534.jpg
+  title: "Dragon God Icefall - WI4"
+  caption: "Cobra and Anaconda are 50m to the right"
+- filename: 04 - cobra
+  original: 04 - cobra-3000x4000.jpg
+  sizes:
+  - 04 - cobra-2000x2667.jpg
+  - 04 - cobra-3000x4000.jpg
+  - 04 - cobra-400x534.jpg
+  - 04 - cobra-800x1067.jpg
+  thumbnail: 04 - cobra-400x534.jpg
+  title: "Cobra - WI5"
+- filename: 05 - cobra
+  original: 05 - cobra-3000x4000.jpg
+  sizes:
+  - 05 - cobra-2000x2667.jpg
+  - 05 - cobra-3000x4000.jpg
+  - 05 - cobra-400x534.jpg
+  - 05 - cobra-800x1067.jpg
+  thumbnail: 05 - cobra-400x534.jpg
+  title: "Cobra - WI5"
+- filename: 06 - cobra exit
+  original: 06 - cobra exit-1944x2592.jpg
+  sizes:
+  - 06 - cobra exit-1944x2592.jpg
+  - 06 - cobra exit-1944x2592.jpg
+  - 06 - cobra exit-400x534.jpg
+  - 06 - cobra exit-800x1067.jpg
+  thumbnail: 06 - cobra exit-400x534.jpg
+  title: "Exiting on the snow slopes above Cobra"
+  caption: "Another two pitches are further up the slope"
+- filename: 07 - cobra left
+  original: 07 - cobra left-3000x4000.jpg
+  sizes:
+  - 07 - cobra left-2000x2667.jpg
+  - 07 - cobra left-3000x4000.jpg
+  - 07 - cobra left-400x534.jpg
+  - 07 - cobra left-800x1067.jpg
+  thumbnail: 07 - cobra left-400x534.jpg
+  title: "Cobra Left - WI5+"
+  caption: "The crux is crossing the gap between the base and the detached pillar. This icefall is rarely in condition, we were lucky."
+- filename: 08 - cobra crux
+  original: 08 - cobra crux-3000x2250.jpg
+  sizes:
+  - 08 - cobra crux-2000x1500.jpg
+  - 08 - cobra crux-3000x2250.jpg
+  - 08 - cobra crux-400x300.jpg
+  - 08 - cobra crux-800x600.jpg
+  thumbnail: 08 - cobra crux-400x300.jpg
+  title: "Above the crux of Cobra Left"

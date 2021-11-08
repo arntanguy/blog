@@ -1,0 +1,51 @@
+picture_path: ice-climbing-guide-japan-oyafudo
+pictures:
+- filename: 01 - approach
+  original: 01 - approach-2000x1500.jpg
+  sizes:
+  - 01 - approach-2000x1500.jpg
+  - 01 - approach-400x300.jpg
+  - 01 - approach-800x600.jpg
+  thumbnail: 01 - approach-400x300.jpg
+- filename: 02 - map
+  original: 02 - map-2000x1500.jpg
+  sizes:
+  - 02 - map-2000x1500.jpg
+  - 02 - map-400x300.jpg
+  - 02 - map-800x600.jpg
+  thumbnail: 02 - map-400x300.jpg
+- filename: 03 - map
+  original: 03 - map-2000x1500.jpg
+  sizes:
+  - 03 - map-2000x1500.jpg
+  - 03 - map-400x300.jpg
+  - 03 - map-800x600.jpg
+  thumbnail: 03 - map-400x300.jpg
+- filename: 04 - icefall
+  original: 04 - icefall-2000x2667.jpg
+  sizes:
+  - 04 - icefall-2000x2667.jpg
+  - 04 - icefall-400x534.jpg
+  - 04 - icefall-800x1067.jpg
+  thumbnail: 04 - icefall-400x534.jpg
+- filename: 05 - icefall
+  original: 05 - icefall-2000x2667.jpg
+  sizes:
+  - 05 - icefall-2000x2667.jpg
+  - 05 - icefall-400x534.jpg
+  - 05 - icefall-800x1067.jpg
+  thumbnail: 05 - icefall-400x534.jpg
+- filename: 06 - mixed
+  original: 06 - mixed-2000x2667.jpg
+  sizes:
+  - 06 - mixed-2000x2667.jpg
+  - 06 - mixed-400x534.jpg
+  - 06 - mixed-800x1067.jpg
+  thumbnail: 06 - mixed-400x534.jpg
+- filename: 07 - snow machine
+  original: 07 - snow machine-2000x1500.jpg
+  sizes:
+  - 07 - snow machine-2000x1500.jpg
+  - 07 - snow machine-400x300.jpg
+  - 07 - snow machine-800x600.jpg
+  thumbnail: 07 - snow machine-400x300.jpg

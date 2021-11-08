@@ -31,104 +31,6 @@ carousels:
       alt: "Cobra ice fall"
       caption: "Japan boasts some impressive ice falls" 
       description: "Cobra - WI5 - 120m - Yonagofudo"
-  yatsugatake_carousel:
-    title: "Yatugatake"
-    media:
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/05.jpg
-      caption: Approach walk towards the hut (2h)
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/01_approach.jpg
-      caption: Approach towards 大同心 (WI4)
-      description: 25 January 2020
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/01.jpg
-      caption: 大同心 (WI4)
-      description: 25 January 2020
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/02.jpg
-      caption: Japanese climber in 大同心 (WI4)
-      description: 25 January 2020
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/03.jpg
-      description: 25 January 2020
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/04.jpg
-      caption: Riccardo following on the right side of 大同心 (WI4+)
-      description: 25 January 2020
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/2021_01.jpg
-      caption: Xiaoyang Cheng on the icy approach to 大同心 
-      description: January 2021 - The previous year this whole section was entirely covered with snow and we didn't even notice this 3m section of vertical ice!
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/2021_02.jpg
-      description: January 2021
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/ice_candy_december.jpg
-      caption: The Ice Candy artificial waterfall near the hut, not formed yet (January 2021)
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/kodoshin_crack.jpg
-      caption: Left is Daidoshin (大同心稜), Right is Shodoushin Crack (小同心クラック)
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/kodoshin_crack_climb.jpg
-      caption: Riccardo in Shodoushin Crack
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/mixed.jpg
-      caption: Mixed climbing on the The West face Shu-ryo of Akadake (赤岳主稜)
-    - type: img 
-      path: /images/japan-ice-topo/yatsugatake/summit.jpg
-      caption: Riccardo summiting Shu-ryo of Akadake (赤岳主稜) with horrible weather.
-      description: This started out as a sunny day, only to be caught a few hours later in strong winds painfully blowing ice around us, and a full whiteout.
-    - type: mp4 
-      path: /images/japan-ice-topo/yatsugatake/bad_weather.mp4
-  yonagofudo_carousel:
-    title: "Yonagofudo"
-    media:
-    - type: img 
-      path: /images/japan-ice-topo/yonagofudo/bivy.jpg
-      caption: Bivy at the base of the climbs 
-    - type: img 
-      path: /images/japan-ice-topo/yonagofudo/cobra_03.jpg
-      caption: "Anaconda (WI4+) - Cobra Left (WI5+) - Cobra (WI5)"
-      description: 13 February 2021
-    - type: img 
-      path: /images/japan-ice-topo/yonagofudo/cobra_01.jpg
-      caption: Cobra (WI5, 120m)
-      description: Only the first two pitches are visible (~80m)
-    - type: img 
-      path: /images/japan-ice-topo/yonagofudo/cobra_02.jpg
-      caption: Cobra (WI5, 120m)
-    - type: mp4
-      path: /images/japan-ice-topo/yonagofudo/cobra_video.mp4
-    - type: img 
-      path: /images/japan-ice-topo/yonagofudo/cobra_left.jpg
-      caption: Cobra Left (WI5+, rarely in condition)
-    - type: img 
-      path: /images/japan-ice-topo/yonagofudo/cobra_left_crux.jpg
-      caption: Above the crux start of Cobra Left 
-    - type: img 
-      path: /images/japan-ice-topo/yonagofudo/dragon_01.jpg
-      caption: Dragon God (WI4)
-    - type: img 
-      path: /images/japan-ice-topo/yonagofudo/dragon_02.jpg
-      caption: Dragon God (WI4)
-  oyafudo_carousel:
-    title: "Oyafudo"
-    media:
-    - type: img 
-      path: /images/japan-ice-topo/oyafudo/approach.jpg
-    - type: img 
-      path: /images/japan-ice-topo/oyafudo/approach_map_check.jpg
-    - type: img 
-      path: /images/japan-ice-topo/oyafudo/approach_map.jpg
-    - type: img 
-      path: /images/japan-ice-topo/oyafudo/final_approach.jpg
-    - type: img 
-      path: /images/japan-ice-topo/oyafudo/fall.jpg
-    - type: img 
-      path: /images/japan-ice-topo/oyafudo/lead.jpg
-    - type: img 
-      path: /images/japan-ice-topo/oyafudo/mixed.jpg
   arafuneyama_carousel:
     title: "Arafuneyama"
     media:
@@ -183,24 +85,6 @@ carousels:
     - type: img 
       path: /images/japan-ice-topo/hokkaido/west_coast/shiroganeno_02.jpg
       caption: "Shiroganeno Falls - 白銀の滝"
-  unryukeikoku_carousel:
-    title: "Unryukeikoku"
-    media:
-    - type: img 
-      path: /images/japan-ice-topo/unryukeikoku/dec_2020_03.jpg
-      caption: Unryukeikoku Falls not yet formed - 1 Dec 2020
-    - type: img 
-      path: /images/japan-ice-topo/unryukeikoku/dec_2020_01.jpg
-    - type: img 
-      path: /images/japan-ice-topo/unryukeikoku/dec_2020_02.jpg
-    - type: img 
-      path: /images/japan-ice-topo/unryukeikoku/dec_2020_04.jpg
-    - type: img 
-      path: /images/japan-ice-topo/unryukeikoku/tent2.jpg
-      caption: Wild bivy next to the falls 
-    - type: img 
-      path: /images/japan-ice-topo/unryukeikoku/main_fall_feb.jpg
-      caption: Main fall melting in the sun - 6 Feb 2021 
 
 ---
 
@@ -250,7 +134,11 @@ Here is a map of the approach to 大同心 waterfall passing by the Akadake Kose
   - West face Shu-ryo of Akadake (赤岳主稜) ([route description](https://climbjapan.blogspot.com/2018/01/the-west-face-shu-ryo-of-akadake.html)). Easy mixed climbing leading to the ridge just short of the summit of Akadake.
   - There is another popular waterfall at [35°58'37.5"N 138°20'52.3"E](https://goo.gl/maps/gYF8m3tNQhHbVSJC9). From Akadake Kosen, walk to the next hut [行者小屋](https://goo.gl/maps/sTJwE1WC4YaC4pJn6). Just after the hut, take the path leading down on your right until you reach the river. From there follow the river until you reach the waterfall, about a hundred meters up on your left accross the river. 
 
-{% include carousel.html name="yatsugatake_carousel" %}
+{% include video.html path="/images/japan-ice-topo/yatsugatake/bad_weather.mp4" type="mp4" %}
+
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-yatsugatake id_number="123" %}
+<br />
+
 
 ## Yonagofudo
 
@@ -268,8 +156,12 @@ Yonagofudo is known for its hard multipitch ice falls, some of which boasting ov
   - Anaconda (WI4+, 3 pitches) [left of Cobra Left]
   - Dragon God (WI4, ~60m) [left of Anaconda ~50m walk]
 
-{% include carousel.html name="yonagofudo_carousel" %}
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-yonagofudo id_number="13" %}
 
+<center>
+{% include video.html path="/images/japan-ice-topo/yonagofudo/cobra_video.mp4" type="mp4" width="50%" %}
+</center>
+<br />
 
 ## Oyafudo
 
@@ -279,7 +171,7 @@ Yonagofudo is known for its hard multipitch ice falls, some of which boasting ov
 
 **Difficulty**: Hard. WI4 and above, with a majority of very hard climbs.
 
-{% include carousel.html name="oyafudo_carousel" %}
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-oyafudo id_number="10" %}
 
 ## Arafuneyama
 
@@ -307,7 +199,7 @@ The area around Nikko has the poptential for many interesting waterfall. Unfortu
   - [Nikko's frozen waterfalls: Unryu Keikoku [japan-guide.com]](https://www.japan-guide.com/blog/peaks/180223.html): Excellent source of information and beautiful pictures (and I'm not just saying that just because the article was written by my good friend *Joe Mignano*).
   - My own [post]({{site.baseurl}}/mt-nantai) written before winter 
 
-{% include carousel.html name="unryukeikoku_carousel" %}
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-unryukeikoku id_number="42" %}
 
 
 ## Kaikomagatake

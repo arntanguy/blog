@@ -1,0 +1,127 @@
+picture_path: ice-climbing-guide-japan-yatsugatake
+pictures:
+- filename: 01 - Approach
+  original: 01 - Approach-3000x2250.jpg
+  sizes:
+  - 01 - Approach-2000x1500.jpg
+  - 01 - Approach-3000x2250.jpg
+  - 01 - Approach-400x300.jpg
+  - 01 - Approach-800x600.jpg
+  thumbnail: 01 - Approach-400x300.jpg
+  title: "Approach towards the Akadake Kosen Hut"
+  caption: "About 2h"
+- filename: 02 - Hut
+  original: 02 - Hut-2848x1664.jpg
+  sizes:
+  - 02 - Hut-2000x1169.jpg
+  - 02 - Hut-2848x1664.jpg
+  - 02 - Hut-400x234.jpg
+  - 02 - Hut-800x468.jpg
+  thumbnail: 02 - Hut-400x234.jpg
+  title: "Akadake Kosen"
+- filename: 03 - Bivy
+  original: 03 - Bivy-3000x2250.jpg
+  sizes:
+  - 03 - Bivy-2000x1500.jpg
+  - 03 - Bivy-3000x2250.jpg
+  - 03 - Bivy-400x300.jpg
+  - 03 - Bivy-800x600.jpg
+  thumbnail: 03 - Bivy-400x300.jpg
+  title: "Cold tent bivy"
+  caption: "I owned neither a nice insulated mattress nor a proper winter tent. With only a thermarest closed-cell foam and 600g down sleeping bag, let's just say I slept on the ropes!"
+- filename: 04 - Approach Ice
+  original: 04 - Approach Ice-3000x2250.jpg
+  sizes:
+  - 04 - Approach Ice-2000x1500.jpg
+  - 04 - Approach Ice-3000x2250.jpg
+  - 04 - Approach Ice-400x300.jpg
+  - 04 - Approach Ice-800x600.jpg
+  thumbnail: 04 - Approach Ice-400x300.jpg
+  title: "Approach towards 大同心"
+- filename: 05 - Icefall far
+  original: 05 - Icefall far-3000x2250.jpg
+  sizes:
+  - 05 - Icefall far-2000x1500.jpg
+  - 05 - Icefall far-3000x2250.jpg
+  - 05 - Icefall far-400x300.jpg
+  - 05 - Icefall far-800x600.jpg
+  thumbnail: 05 - Icefall far-400x300.jpg
+  title: "大同心 (WI4, 50m)"
+  caption: "25 January 2020"
+- filename: 06 - Ice fall close
+  original: 06 - Ice fall close-3000x2250.jpg
+  sizes:
+  - 06 - Ice fall close-2000x1500.jpg
+  - 06 - Ice fall close-3000x2250.jpg
+  - 06 - Ice fall close-400x300.jpg
+  - 06 - Ice fall close-800x600.jpg
+  thumbnail: 06 - Ice fall close-400x300.jpg
+  title: "大同心 (WI4, 50m)"
+  caption: "The snow slope above leads to the classic Shodoushin Crack (小同心クラック)"
+- filename: 07 - japanese climber
+  original: 07 - japanese climber-3000x4000.jpg
+  sizes:
+  - 07 - japanese climber-2000x2667.jpg
+  - 07 - japanese climber-3000x4000.jpg
+  - 07 - japanese climber-400x534.jpg
+  - 07 - japanese climber-800x1067.jpg
+  thumbnail: 07 - japanese climber-400x534.jpg
+  title: "Japanse climber in 大同心"
+  caption: "25 January 2020"
+- filename: 08 - japanese climber
+  original: 08 - japanese climber-3000x2250.jpg
+  sizes:
+  - 08 - japanese climber-2000x1500.jpg
+  - 08 - japanese climber-3000x2250.jpg
+  - 08 - japanese climber-400x300.jpg
+  - 08 - japanese climber-800x600.jpg
+  thumbnail: 08 - japanese climber-400x300.jpg
+  title: "Japanse climber in 大同心"
+  caption: "25 January 2020"
+- filename: 09 - kodoshin crack
+  original: 09 - kodoshin crack-3000x2250.jpg
+  sizes:
+  - 09 - kodoshin crack-2000x1500.jpg
+  - 09 - kodoshin crack-3000x2250.jpg
+  - 09 - kodoshin crack-400x300.jpg
+  - 09 - kodoshin crack-800x600.jpg
+  thumbnail: 09 - kodoshin crack-400x300.jpg
+  title: "Left: Daidoshin (大同心稜), Right: Shodoushin Crack (小同心クラック)"
+- filename: 10 - kodoshin crack
+  original: 10 - kodoshin crack-3000x2250.jpg
+  sizes:
+  - 10 - kodoshin crack-2000x1500.jpg
+  - 10 - kodoshin crack-3000x2250.jpg
+  - 10 - kodoshin crack-400x300.jpg
+  - 10 - kodoshin crack-800x600.jpg
+  thumbnail: 10 - kodoshin crack-400x300.jpg
+  title: "Shodoushin Crack (小同心クラック)"
+- filename: 11 - mixed summit
+  original: 11 - mixed summit-3000x2250.jpg
+  sizes:
+  - 11 - mixed summit-2000x1500.jpg
+  - 11 - mixed summit-3000x2250.jpg
+  - 11 - mixed summit-400x300.jpg
+  - 11 - mixed summit-800x600.jpg
+  thumbnail: 11 - mixed summit-400x300.jpg
+  title: "Reaching the summit of Shodoushin Crack (小同心クラック)"
+  caption: "It was sunny one hour earlier, but we summited in a wind and ice storm!"
+- filename: 12 - Mount Akadake
+  original: 12 - Mount Akadake-3000x2250.jpg
+  sizes:
+  - 12 - Mount Akadake-2000x1500.jpg
+  - 12 - Mount Akadake-3000x2250.jpg
+  - 12 - Mount Akadake-400x300.jpg
+  - 12 - Mount Akadake-800x600.jpg
+  thumbnail: 12 - Mount Akadake-400x300.jpg
+  title: "Mount Akadake"
+- filename: 13 - ice candy
+  original: 13 - ice candy-3000x4000.jpg
+  sizes:
+  - 13 - ice candy-2000x2667.jpg
+  - 13 - ice candy-3000x4000.jpg
+  - 13 - ice candy-400x534.jpg
+  - 13 - ice candy-800x1067.jpg
+  thumbnail: 13 - ice candy-400x534.jpg
+  title: "The Ice Candy artificial icefall next to Akadake Kosen"
+  caption: "... not formed yet (January 2021)"
