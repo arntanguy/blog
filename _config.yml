@@ -61,21 +61,21 @@ mailchimp-identifier: # Add your MailChimp form identifier. For example - blogen
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: /:title
+permalink: /:title/
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
 
 paginate: 9
-paginate_path: "/page/:num"
+paginate_path: "/page/:num/"
 
 # Pages Path
 defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:basename:output_ext
+      permalink: /:basename:output_ext/
 
 include:
   - _pages
