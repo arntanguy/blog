@@ -5,33 +5,6 @@ image: ice-climbing-guide-japan
 date: 2021-07-09 12:00:00 +0900
 description: Ice climbing guide to Japan
 tag: [japan, ice climbing, topo]
-carousels:
-  overview_carousel:
-    - type: img 
-      path: /images/japan-ice-topo/overview/car.jpg
-      alt: "Suzuki Wagon with 4WD and winter tires"
-      caption: "Winter car camping is common practice" 
-      description: "Suzuki Wagon with 4WD and winter tires, used for most approaches in this article - Aomori Prefecture"
-    - type: img 
-      path: /images/japan-ice-topo/overview/bivy.jpg
-      alt: "Winter bivy"
-      caption: "Winter bivy is the norm" 
-      description: "Yonagofudo"
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/burried_car.jpg
-      alt: "Burried car in Hokkaido"
-      caption: "Except snow fall, especially in Hokkaido" 
-    - type: img 
-      path: /images/japan-ice-topo/hokkaido/sounkyo/day2_deep_snow.jpg
-      alt: "Deep snow approach"
-      caption: "Deep snow approaches are common" 
-      description: "Sounkyo - Hokkaido"
-    - type: img 
-      path: /images/japan-ice-topo/overview/cobra.jpg
-      alt: "Cobra ice fall"
-      caption: "Japan boasts some impressive ice falls" 
-      description: "Cobra - WI5 - 120m - Yonagofudo"
-
 ---
 
 Finding information about ice climbing in Japan can be a daunting task to say the least. Where to go? When? How to get there? What about guidebooks? How about weather? The list goes on...
@@ -42,7 +15,8 @@ Finding information about ice climbing in Japan can be a daunting task to say th
 
 Japan is a great country for ice climbing, due to its cold winter. Unfortunately (or fortunately), these winter typically come loaded with insane amounts of snowfall, often making access difficult. The best period is typically from december to february, although some rare falls might be formed earlier and last slightly longer. Ice falls can be found here and there throughout north Japan, with some well-known areas such as Yatsugatake, Yonagofudo, Sounkyo (Hokkaido) to name but a few. Access by public transport is usually hard, or downright impossible (except to at least add a significant taxi fare). Car is pretty much the only reasonable way of getting to most places. Beware that Japan tends to get insane amount of snowfall during winter, and you will need winter tires and 4 wheel drive. I've personally managed to get everywhere, including Hokkaido in January, with a 4WD Suzuki Wagon Kei-car. More often than not, expect a significant approach hike through snow. Some approaches are best done on skis. Due to this difficult access, it is very common to go for multiple days and winter bivy.
 
-{% include carousel.html name="overview_carousel" %}
+{% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-intro id_number="1234355" %}
+
 
 **Guidebook**: Ice climbing and mountaineering guidebooks are somewhat lacking. Your best bet is the *新版 アイスクライミング 全国版 (クライミング・ガイドブックス) (Ice Climbing - National Edition - Climbing Guidebooks)* book  [[amazon link]](https://www.amazon.co.jp/%E6%96%B0%E7%89%88-%E3%82%A2%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0-%E5%85%A8%E5%9B%BD%E7%89%88-%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%AC%E3%82%A4%E3%83%89%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9-%E5%BB%A3%E5%B7%9D%E5%81%A5%E5%A4%AA%E9%83%8E/dp/4894752018/ref=asc_df_4894752018/?tag=jpgo-22&linkCode=df0&hvadid=296058934787&hvpos=&hvnetw=g&hvrand=11404252570438744122&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009129&hvtargid=pla-527234489265&psc=1&th=1&psc=1) that covers all of Japan. Unfotunately it is in Japanese only and heavily relies on text descriptions. It has black on white pictures of most falls, and a few color ones at the begining.
 

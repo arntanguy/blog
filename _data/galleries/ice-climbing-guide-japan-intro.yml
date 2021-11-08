@@ -1,0 +1,61 @@
+picture_path: ice-climbing-guide-japan-intro
+pictures:
+- filename: 01-car
+  original: 01-car-2000x1500.jpg
+  sizes:
+  - 01-car-2000x1500.jpg
+  - 01-car-400x300.jpg
+  - 01-car-800x600.jpg
+  thumbnail: 01-car-400x300.jpg
+  title: "Winter car camping is common practice" 
+  caption: "Suzuki Wagon with 4WD and winter tires, used for most approaches in this article - Aomori Prefecture"
+- filename: 02-car-bivy
+  original: 02-car-bivy-2000x2667.jpg
+  sizes:
+  - 02-car-bivy-2000x2667.jpg
+  - 02-car-bivy-400x534.jpg
+  - 02-car-bivy-800x1067.jpg
+  thumbnail: 02-car-bivy-400x534.jpg
+  title: "It's bigger on the inside!"
+- filename: 02b-car-bivy
+  original: 02b-car-bivy-842x842.jpg
+  sizes:
+  - 02b-car-bivy-842x842.jpg
+  - 02b-car-bivy-400x400.jpg
+  - 02b-car-bivy-800x800.jpg
+  thumbnail: 02b-car-bivy-400x400.jpg
+  title: "A good sleeping bag is a must!"
+- filename: 03-bivy-tent
+  original: 03-bivy-tent-2000x1500.jpg
+  sizes:
+  - 03-bivy-tent-2000x1500.jpg
+  - 03-bivy-tent-400x300.jpg
+  - 03-bivy-tent-800x600.jpg
+  thumbnail: 03-bivy-tent-400x300.jpg
+  title: "Oh, and tent bivy is also common..."
+- filename: 04-deep-snow
+  original: 04-deep-snow-2000x1334.jpg
+  sizes:
+  - 04-deep-snow-2000x1334.jpg
+  - 04-deep-snow-400x267.jpg
+  - 04-deep-snow-800x534.jpg
+  thumbnail: 04-deep-snow-400x267.jpg
+  title: "... and deep snow!"
+- filename: 05-cobra
+  original: 05-cobra-1920x1792.jpg
+  sizes:
+  - 05-cobra-1920x1792.jpg
+  - 05-cobra-400x374.jpg
+  - 05-cobra-800x747.jpg
+  thumbnail: 05-cobra-400x374.jpg
+  title: "... but it's all worth it!"
+  caption: "Yonagofudo - Cobra - WI5"
+- filename: 06-sounkyo
+  original: 06-sounkyo-2000x1333.jpg
+  sizes:
+  - 06-sounkyo-2000x1333.jpg
+  - 06-sounkyo-400x267.jpg
+  - 06-sounkyo-800x534.jpg
+  thumbnail: 06-sounkyo-400x267.jpg
+  title: "... cause you get to climb ice!"
+  caption: "Hokkaido - Sounkyo Gorge"
