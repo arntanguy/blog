@@ -1,0 +1,66 @@
+picture_path: climbing-guide-japan-mizugaki
+pictures:
+- filename: 01-mizugaki
+  original: 01-mizugaki-3000x2047.jpg
+  sizes:
+  - 01-mizugaki-2000x1365.jpg
+  - 01-mizugaki-3000x2047.jpg
+  - 01-mizugaki-400x273.jpg
+  - 01-mizugaki-800x546.jpg
+  thumbnail: 01-mizugaki-400x273.jpg
+- filename: 02-mizugaki
+  original: 02-mizugaki-3000x2000.jpg
+  sizes:
+  - 02-mizugaki-2000x1333.jpg
+  - 02-mizugaki-3000x2000.jpg
+  - 02-mizugaki-400x267.jpg
+  - 02-mizugaki-800x534.jpg
+  thumbnail: 02-mizugaki-400x267.jpg
+- filename: 04-boulder
+  original: 04-boulder-3000x2000.jpg
+  sizes:
+  - 04-boulder-2000x1334.jpg
+  - 04-boulder-3000x2000.jpg
+  - 04-boulder-400x267.jpg
+  - 04-boulder-800x534.jpg
+  thumbnail: 04-boulder-400x267.jpg
+- filename: joe-joyful-moment
+  original: joe-joyful-moment-3000x2006.jpg
+  sizes:
+  - joe-joyful-moment-2000x1338.jpg
+  - joe-joyful-moment-3000x2006.jpg
+  - joe-joyful-moment-400x268.jpg
+  - joe-joyful-moment-800x535.jpg
+  thumbnail: joe-joyful-moment-400x268.jpg
+- filename: joe-joyful-moment2
+  original: joe-joyful-moment2-3000x4487.jpg
+  sizes:
+  - joe-joyful-moment2-2000x2992.jpg
+  - joe-joyful-moment2-3000x4487.jpg
+  - joe-joyful-moment2-400x599.jpg
+  - joe-joyful-moment2-800x1197.jpg
+  thumbnail: joe-joyful-moment2-400x599.jpg
+- filename: joe-razor-blade
+  original: joe-razor-blade-2786x3352.jpg
+  sizes:
+  - joe-razor-blade-2000x2407.jpg
+  - joe-razor-blade-2786x3352.jpg
+  - joe-razor-blade-400x482.jpg
+  - joe-razor-blade-800x963.jpg
+  thumbnail: joe-razor-blade-400x482.jpg
+- filename: yang
+  original: yang-3000x2006.jpg
+  sizes:
+  - yang-2000x1338.jpg
+  - yang-3000x2006.jpg
+  - yang-400x268.jpg
+  - yang-800x535.jpg
+  thumbnail: yang-400x268.jpg
+- filename: yang2
+  original: yang2-2887x4315.jpg
+  sizes:
+  - yang2-2000x2990.jpg
+  - yang2-2887x4315.jpg
+  - yang2-400x598.jpg
+  - yang2-800x1196.jpg
+  thumbnail: yang2-400x598.jpg

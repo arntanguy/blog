@@ -1,0 +1,45 @@
+picture_path: climbing-guide-japan-futagoyama
+pictures:
+- filename: 01-candle-rock
+  original: 01-candle-rock-2000x2667.jpg
+  sizes:
+  - 01-candle-rock-2000x2667.jpg
+  - 01-candle-rock-400x534.jpg
+  - 01-candle-rock-800x1067.jpg
+  thumbnail: 01-candle-rock-400x534.jpg
+  title: "Candle Rock - Futagoyama"
+  caption: "Photo: Joe Mignano"
+- filename: 02-candle-rock
+  original: 02-candle-rock-666x888.jpg
+  sizes:
+  - 02-candle-rock-666x888.jpg
+  - 02-candle-rock-400x534.jpg
+  - 02-candle-rock-666x888.jpg
+  thumbnail: 02-candle-rock-400x534.jpg
+  title: "Candle Rock - Futagoyama"
+  caption: "Photo: Joe Mignano"
+- filename: 03-central-arrete
+  original: 03-central-arrete-2000x2992.jpg
+  sizes:
+  - 03-central-arrete-2000x2992.jpg
+  - 03-central-arrete-400x599.jpg
+  - 03-central-arrete-800x1197.jpg
+  thumbnail: 03-central-arrete-400x599.jpg
+  title: "Candle Rock - Futagoyama"
+  caption: "Photo: Joe Mignano"
+- filename: 04-central arrete
+  original: 04-central arrete-2000x1337.jpg
+  sizes:
+  - 04-central arrete-2000x1337.jpg
+  - 04-central arrete-400x268.jpg
+  - 04-central arrete-800x535.jpg
+  thumbnail: 04-central arrete-400x268.jpg
+  title: "Candle Rock - Futagoyama"
+- filename: 05-misty
+  original: 05-misty-540x960.jpg
+  sizes:
+  - 05-misty-540x960.jpg
+  - 05-misty-400x711.jpg
+  - 05-misty-540x960.jpg
+  thumbnail: 05-misty-400x711.jpg
+  title: "Misty Day in the overhangs at Futagoyama"

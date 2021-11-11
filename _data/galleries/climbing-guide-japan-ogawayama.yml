@@ -1,0 +1,144 @@
+picture_path: climbing-guide-japan-ogawayama
+pictures:
+- filename: fire
+  original: fire-2048x1536.jpg
+  sizes:
+  - fire-2000x1500.jpg
+  - fire-2048x1536.jpg
+  - fire-400x300.jpg
+  - fire-800x600.jpg
+  thumbnail: fire-400x300.jpg
+  title: "Campfire at Mawarimedaira Camping Ground"
+- filename: godzilla-iwa-01
+  original: godzilla-iwa-01-1666x2194.jpg
+  sizes:
+  - godzilla-iwa-01-1666x2194.jpg
+  - godzilla-iwa-01-1666x2194.jpg
+  - godzilla-iwa-01-400x527.jpg
+  - godzilla-iwa-01-800x1054.jpg
+  thumbnail: godzilla-iwa-01-400x527.jpg
+  title: "Francesco trying hard in a 5.13b in Godzilla Iwa" 
+- filename: godzilla-iwa-02
+  original: godzilla-iwa-02-3000x2008.jpg
+  sizes:
+  - godzilla-iwa-02-2000x1339.jpg
+  - godzilla-iwa-02-3000x2008.jpg
+  - godzilla-iwa-02-400x268.jpg
+  - godzilla-iwa-02-800x536.jpg
+  thumbnail: godzilla-iwa-02-400x268.jpg
+- filename: godzilla-iwa-03
+  original: godzilla-iwa-03-3000x4483.jpg
+  sizes:
+  - godzilla-iwa-03-2000x2989.jpg
+  - godzilla-iwa-03-3000x4483.jpg
+  - godzilla-iwa-03-400x598.jpg
+  - godzilla-iwa-03-800x1196.jpg
+  thumbnail: godzilla-iwa-03-400x598.jpg
+- filename: godzilla-iwa-04
+  original: godzilla-iwa-04-3000x4487.jpg
+  sizes:
+  - godzilla-iwa-04-2000x2992.jpg
+  - godzilla-iwa-04-3000x4487.jpg
+  - godzilla-iwa-04-400x599.jpg
+  - godzilla-iwa-04-800x1197.jpg
+  thumbnail: godzilla-iwa-04-400x599.jpg
+- filename: godzilla-iwa-05
+  original: godzilla-iwa-05-3000x4487.jpg
+  sizes:
+  - godzilla-iwa-05-2000x2992.jpg
+  - godzilla-iwa-05-3000x4487.jpg
+  - godzilla-iwa-05-400x599.jpg
+  - godzilla-iwa-05-800x1197.jpg
+  thumbnail: godzilla-iwa-05-400x599.jpg
+  title: "Mara Budgen on a classic 5.12a in Godzilla Iwa"
+- filename: godzilla-iwa-06
+  original: godzilla-iwa-06-3000x3000.jpg
+  sizes:
+  - godzilla-iwa-06-2000x2000.jpg
+  - godzilla-iwa-06-3000x3000.jpg
+  - godzilla-iwa-06-400x400.jpg
+  - godzilla-iwa-06-800x800.jpg
+  thumbnail: godzilla-iwa-06-400x400.jpg
+- filename: godzilla-iwa-07
+  original: godzilla-iwa-07-3000x3000.jpg
+  sizes:
+  - godzilla-iwa-07-2000x2000.jpg
+  - godzilla-iwa-07-3000x3000.jpg
+  - godzilla-iwa-07-400x400.jpg
+  - godzilla-iwa-07-800x800.jpg
+  thumbnail: godzilla-iwa-07-400x400.jpg
+- filename: helicopter
+  original: helicopter-2048x1536.jpg
+  sizes:
+  - helicopter-2000x1500.jpg
+  - helicopter-2048x1536.jpg
+  - helicopter-400x300.jpg
+  - helicopter-800x600.jpg
+  thumbnail: helicopter-400x300.jpg
+  title: "Helicopter rescue in Maraiwa"
+- filename: mara-iwa-02
+  original: mara-iwa-02-3000x2006.jpg
+  sizes:
+  - mara-iwa-02-2000x1338.jpg
+  - mara-iwa-02-3000x2006.jpg
+  - mara-iwa-02-400x268.jpg
+  - mara-iwa-02-800x535.jpg
+  thumbnail: mara-iwa-02-400x268.jpg
+- filename: mara-iwa-03
+  original: mara-iwa-03-3000x2006.jpg
+  sizes:
+  - mara-iwa-03-2000x1338.jpg
+  - mara-iwa-03-3000x2006.jpg
+  - mara-iwa-03-400x268.jpg
+  - mara-iwa-03-800x535.jpg
+  thumbnail: mara-iwa-03-400x268.jpg
+- filename: mara-iwa
+  original: mara-iwa-3000x2006.jpg
+  sizes:
+  - mara-iwa-2000x1338.jpg
+  - mara-iwa-3000x2006.jpg
+  - mara-iwa-400x268.jpg
+  - mara-iwa-800x535.jpg
+  thumbnail: mara-iwa-400x268.jpg
+- filename: nap
+  original: nap-1536x2048.jpg
+  sizes:
+  - nap-1536x2048.jpg
+  - nap-1536x2048.jpg
+  - nap-400x534.jpg
+  - nap-800x1067.jpg
+  thumbnail: nap-400x534.jpg
+  title: "Nap time in Mara-iwa"
+- filename: ogawayama-layback
+  original: ogawayama-layback-3000x4500.jpg
+  sizes:
+  - ogawayama-layback-2000x3000.jpg
+  - ogawayama-layback-3000x4500.jpg
+  - ogawayama-layback-400x600.jpg
+  - ogawayama-layback-800x1200.jpg
+  thumbnail: ogawayama-layback-400x600.jpg
+  title: "The classic Ogawayama Layback"
+- filename: snake
+  original: snake-3000x2001.jpg
+  sizes:
+  - snake-2000x1334.jpg
+  - snake-3000x2001.jpg
+  - snake-400x267.jpg
+  - snake-800x534.jpg
+  thumbnail: snake-400x267.jpg
+- filename: spire
+  original: spire-1536x2048.jpg
+  sizes:
+  - spire-1536x2048.jpg
+  - spire-1536x2048.jpg
+  - spire-400x534.jpg
+  - spire-800x1067.jpg
+  thumbnail: spire-400x534.jpg
+- filename: spire2
+  original: spire2-1536x2048.jpg
+  sizes:
+  - spire2-1536x2048.jpg
+  - spire2-1536x2048.jpg
+  - spire2-400x534.jpg
+  - spire2-800x1067.jpg
+  thumbnail: spire2-400x534.jpg

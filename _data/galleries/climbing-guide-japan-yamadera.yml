@@ -1,0 +1,74 @@
+picture_path: climbing-guide-japan-yamadera
+pictures:
+- filename: 00-parking
+  original: 00-parking-3000x2006.jpg
+  sizes:
+  - 00-parking-2000x1338.jpg
+  - 00-parking-3000x2006.jpg
+  - 00-parking-400x268.jpg
+  - 00-parking-800x535.jpg
+  thumbnail: 00-parking-400x268.jpg
+- filename: 00-yamadera
+  original: 00-yamadera-3000x2006.jpg
+  sizes:
+  - 00-yamadera-2000x1338.jpg
+  - 00-yamadera-3000x2006.jpg
+  - 00-yamadera-400x268.jpg
+  - 00-yamadera-800x535.jpg
+  thumbnail: 00-yamadera-400x268.jpg
+- filename: 02-mind-game-dragonfly
+  original: 02-mind-game-dragonfly-2937x3671.jpg
+  sizes:
+  - 02-mind-game-dragonfly-2000x2500.jpg
+  - 02-mind-game-dragonfly-2937x3671.jpg
+  - 02-mind-game-dragonfly-400x500.jpg
+  - 02-mind-game-dragonfly-800x1000.jpg
+  thumbnail: 02-mind-game-dragonfly-400x500.jpg
+- filename: 13a
+  original: 13a-3000x4487.jpg
+  sizes:
+  - 13a-2000x2992.jpg
+  - 13a-3000x4487.jpg
+  - 13a-400x599.jpg
+  - 13a-800x1197.jpg
+  thumbnail: 13a-400x599.jpg
+- filename: joe-black-and-blue
+  original: joe-black-and-blue-3000x4487.jpg
+  sizes:
+  - joe-black-and-blue-2000x2992.jpg
+  - joe-black-and-blue-3000x4487.jpg
+  - joe-black-and-blue-400x599.jpg
+  - joe-black-and-blue-800x1197.jpg
+  thumbnail: joe-black-and-blue-400x599.jpg
+- filename: lisa
+  original: lisa-3000x4487.jpg
+  sizes:
+  - lisa-2000x2992.jpg
+  - lisa-3000x4487.jpg
+  - lisa-400x599.jpg
+  - lisa-800x1197.jpg
+  thumbnail: lisa-400x599.jpg
+- filename: mind-game-hijikata-01
+  original: mind-game-hijikata-01-3000x4487.jpg
+  sizes:
+  - mind-game-hijikata-01-2000x2992.jpg
+  - mind-game-hijikata-01-3000x4487.jpg
+  - mind-game-hijikata-01-400x599.jpg
+  - mind-game-hijikata-01-800x1197.jpg
+  thumbnail: mind-game-hijikata-01-400x599.jpg
+- filename: mind-game-hijikata-02
+  original: mind-game-hijikata-02-3000x4487.jpg
+  sizes:
+  - mind-game-hijikata-02-2000x2992.jpg
+  - mind-game-hijikata-02-3000x4487.jpg
+  - mind-game-hijikata-02-400x599.jpg
+  - mind-game-hijikata-02-800x1197.jpg
+  thumbnail: mind-game-hijikata-02-400x599.jpg
+- filename: mind-game-hijikata-03
+  original: mind-game-hijikata-03-3000x2400.jpg
+  sizes:
+  - mind-game-hijikata-03-2000x1600.jpg
+  - mind-game-hijikata-03-3000x2400.jpg
+  - mind-game-hijikata-03-400x320.jpg
+  - mind-game-hijikata-03-800x640.jpg
+  thumbnail: mind-game-hijikata-03-400x320.jpg

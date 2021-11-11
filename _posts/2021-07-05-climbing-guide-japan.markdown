@@ -6,187 +6,6 @@ date: 2021-07-05 12:00:00 +0900
 description: Climbing guide on Japanse climbing areas around Honshu
 tags: [japan, climbing, topo]
 carousels:
-  overview:
-    title: "Mizugaki"
-    media:
-    - type: img 
-      path: /images/japan-topo/mizugaki/overview.jpg
-      alt: ""
-      caption: "Mizugaki" 
-      description: "Known for its big multipitch routes (sport and trad). Also has a lot sport and trad climbing"
-    - type: img 
-      path: /images/japan-topo/mizugaki/panorama.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-  mizugaki:
-    title: "Mizugaki"
-    media:
-    - type: img 
-      path: /images/japan-topo/mizugaki/overview.jpg
-      alt: ""
-      caption: "Mizugaki" 
-      description: "Known for its big multipitch routes (sport and trad). Also has a lot sport and trad climbing"
-    - type: img 
-      path: /images/japan-topo/mizugaki/overview2.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/mizugaki/panorama.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/mizugaki/parking.jpg
-      alt: ""
-      caption: "Main Parking" 
-      description: "Perfect place for car bivy"
-    - type: img 
-      path: /images/japan-topo/mizugaki/ozuraiwa.jpg
-      alt: ""
-      caption: "From the top of Ozura Iwa" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/mizugaki/party-climbing.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/mizugaki/toichimen.jpg
-      alt: ""
-      caption: "Toichimen Wall" 
-    - type: img 
-      path: /images/japan-topo/mizugaki/toichimen2.jpg
-      alt: ""
-      caption: "Toichimen Wall" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/mizugaki/joyful_moment.jpg
-      alt: ""
-      caption: "Joyful Moment" 
-      description: "Joe Mignano conquering his first offwidth"
-    - type: img 
-      path: /images/japan-topo/mizugaki/razor_edge.jpg
-      caption: "Razor Edge - 5.10d" 
-      description: "Climber: Joe Mignano"
-    - type: img 
-      path: /images/japan-topo/mizugaki/aki_ichiban.jpg
-      caption: "Aki Ichiban - Crux Pitch - 5.10c (?!)" 
-      description: "Climber: Tao Ui"
-  ogawayama:
-    title: "Ogawayama"
-    media:
-    - type: img 
-      path: /images/japan-topo/ogawayama/overview2.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/ogawayama/gojiraiwa.jpg
-      alt: ""
-      caption: "Francesco trying hard in a 5.13b in Godzilla Iwa" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/ogawayama/gojiraiwa2.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/ogawayama/gojiraiwa3.jpg
-      alt: ""
-      caption: "Godzilla Iwa - 5.12a" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/ogawayama/gojiraiwa4.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/ogawayama/maraiwa_xiaoyang.jpg
-      alt: ""
-      caption: "On top of Mara Iwa" 
-    - type: img 
-      path: /images/japan-topo/ogawayama/maraiwa_foot.jpg
-      alt: ""
-      caption: "Looking down from the top of Maraiwa" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/ogawayama/maraiwa_simon2.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/ogawayama/maraiwa_simon.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/ogawayama/helicopter.jpg
-      alt: ""
-      caption: "Helicopter rescue in Maraiwa" 
-      description: "October 2015 - A climber fell on the tricky approach path and and was recued by helicopter. Luckyly he only suffered minor injuries."
-    - type: img 
-      path: /images/japan-topo/ogawayama/bonfire.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-  futagoyama:
-    title: "Futagoyama"
-    media:
-    - type: img 
-      path: /images/japan-topo/futagoyama/candle_rock.jpg
-      alt: ""
-      caption: "Candle rock" 
-      description: "Photo credit Joe Mignano"
-    - type: img 
-      path: /images/japan-topo/futagoyama/candle_rock2.jpg
-      alt: ""
-      caption: "Candle rock" 
-      description: "Photo credit Joe Mignano"
-    - type: img 
-      path: /images/japan-topo/futagoyama/central_arete.jpg
-      alt: ""
-      caption: "Central Arete - Multipitch" 
-      description: "Photo credit Joe Mignano"
-    - type: img 
-      path: /images/japan-topo/futagoyama/central_arete.jpg
-      alt: ""
-      caption: "Central Arete - Multipitch" 
-      description: "Photo credit Joe Mignano"
-    - type: img 
-      path: /images/japan-topo/futagoyama/misty.jpg
-      alt: ""
-      caption: "Main overhang on a misty day" 
-      description: ""
-  yamadera_area:
-    title: "Yamadera"
-    media:
-    - type: img 
-      path: /images/japan-topo/yamadera/ichiban_overview.jpg
-      alt: ""
-      caption: "View from the base of Ichiban route - 5.11b" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/yamadera/ichiban.jpg
-      alt: ""
-      caption: "Ichiban - 5.11b" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/yamadera/route.jpg
-      alt: ""
-      caption: "Camel - 5.11c" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/yamadera/12b.jpg
-      alt: ""
-      caption: "Mind Game - 5.12b" 
-      description: "Climber: Toshihiko Hijikata"
-    - type: img 
-      path: /images/japan-topo/yamadera/12b2.jpg
-      alt: ""
-      caption: "" 
-      description: ""
   misaki:
     title: "Misaki"
     media:
@@ -322,6 +141,8 @@ Finding information about climbing in Japan can be a daunting task. Where to go?
 
 I've always found it hard to get a good overview of what climbing Japan has to offer. If you ask about climbing in Japan, most people will happily point you in the direction of Ogawayama, which is undeniably one of the best sport climbing area in the country. But this can't be the only crag worth visiting now, can it? Of course not, but unfortunaltely discovering climbing areas relies mostly on the set of 4 guidebooks "フリークライミング 日本100岩場" (Free climbing japan, 100 rocks), that do nothing to inspire you to actually go climbing. These books, available in Japanese only, only contain vague descriptions of the climbing areas, and poorly drawn access maps and sketches of the main routes in each area. This information is often out-of-date, and missing a lot of recent developments. Still it remains the most comprehensive overview of most Japanese sport and trad climbing crags. This article compiles a list of some of the main climbing crags, along with pictures to hopefully inspire you to go and visit them!
 
+{% include img-fullwidth.html src="/images/japan-topo/mizugaki/panorama.jpg" caption="Mizugaki is teeming with huge granite pillars full of cracks, roofs and hard face climbs. Here looking out towards Toichimen from the summit of Ozura Iwa." %}
+
 ## Guidebooks
 
 Here is a list (non-comprehensive) of the main guidebooks. Most of them can be found at the [Calafate shop](https://www.calafate.jp/) near Ogawayama/Mizugaki. If you're in the area, I invite you to visit them as they are very knowledgeable and friendly towards foreigners.
@@ -346,8 +167,6 @@ Here is a list (non-comprehensive) of the main guidebooks. Most of them can be f
 
 ## Mizugaki (みずがき山)
 
-{% include img-fullwidth.html src="/images/covers/climbing-guide-japan-cover.jpg" caption="Mizugaki is teeming with huge granite pillars full of cracks, roofs and hard face climbs. Here looking out towards Toichimen from the summit of Ozura Iwa." %}
-
 Mizugaki is one of the largest climbing areas of Japan, with a rich climbing history. It has it all, bouldering, sport and trad, multipitch, and no matter how much you climb there you won't ever run out of things to climb. Mizugaki's multipich routes are a true heaven for granite and offwidth lovers!
 
 - **Prefecture**: Yamanashi
@@ -359,7 +178,9 @@ Mizugaki is one of the largest climbing areas of Japan, with a rich climbing his
 - **Guidebook**: The Mizugaki guidebook is excellent, please refer to it for futher inspiration and all the information you will ever need for climbing in Mizugaki!
 - **Best period**: Spring and Autumn. However due to its high elevation above 1600m, it is one of the best areas to survive climbing during the hot summer months. Winter is tricky, as temperatures are cold, and the access road to the main parking area is closed due to snow, which adds about a kilometer of walking. 
 
-{% include carousel.html name="mizugaki" %}
+{% include img-fullwidth.html src="/images/posts/climbing-guide-japan/razor_blade-2400.jpg" caption="Joe Mignano climbing <em>Razor's Edge</em> - 5.10d" %}
+
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-mizugaki id_number="1234355" %}
 
 ## Ogawayama (小川山)
 
@@ -374,7 +195,9 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 - **Guidebook**: Unfortunately there is no dedicated guidebook to Ogawayama's sport climbing yet, although one is rumored to be under development. Refer to the "free climbing japan vol 2" or [ogawayama.online](https://ogawayama.online/). For bouldering: [Ogawayama Bouldering Area Guide](https://www.calafate.jp/esp/prdJA0214_OgawayamaBoulderingAreaGuide.html)
 - **Best period**: Same as Mizugaki. In the winter the campground is closed and the road is proabably inaccessible (at least from the lower campground gate). 
 
-{% include carousel.html name="ogawayama" %}
+{% include img-fullwidth.html src="/images/posts/climbing-guide-japan/godzilla-iwa-2400.jpg" caption="Mara Budgen climbing the classic 5.12a route in Godzilla Iwa - Ogawayama - 05 June 2021" %}
+
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-ogawayama id_number="091" %}
 
 ## Futagoyama (二子山)
 
@@ -387,7 +210,7 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 - **Guidebook**: "free climbing japan vol 2", althought it is missing a lot of the recently developed routes.
 - **Best period**: Spring and Autumn. Also suitable for rainy days. 
 
-{% include carousel.html name="futagoyama" %}
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-futagoyama id_number="992355" %}
 
 ## Yamadera
 
@@ -402,7 +225,9 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 - **Guidebook**: "free climbing japan vol 1"
 - **Best period**: Spring and Autumn. Inacessible in winter due to snow (the long logging road is not cleared) 
 
-{% include carousel.html name="yamadera_area" %}
+{% include img-fullwidth.html src="/images/posts/climbing-guide-japan/yamadera-hijikata-2400.jpg" caption="The lengedary Tosihiko Hijikata climbing Mind Game - 5.12b in Yamadera" %}
+
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-yamadera id_number="1292355" %}
 
 ## Misaki (三崎公)
 
