@@ -9,7 +9,7 @@ tag: [japan, ice climbing, topo]
 
 Finding information about ice climbing in Japan can be a daunting task to say the least. Where to go? When? How to get there? What about guidebooks? How about weather? The list goes on...
 
-{% include img-fullwidth.html src="/images/posts/ice-climbing-guide-japan/snow_tent-2400.jpg" caption="Winter camping near Sounkyo by -18°C - Hokkaido - Japan" %}
+{% include img-fullwidth.html src="/images/posts/ice-climbing-guide-japan/snow_tent-2400.jpg" caption="Winter camping near Sounkyo by -18°C - Hokkaido - Japan" credits="Gregor Neumann" %}
 
 
 # Overview of ice climbing in Japan 
@@ -147,7 +147,7 @@ Located in the Daisetsuzan National Park, the Sounkyo Gorge is a world reknowned
 
 {% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-sounkyo %}
 
-{% include img-fullwidth.html src="/images/posts/ice-climbing-guide-japan/sounkyo-river-crossing-2400.jpg" caption="River crossing on the approach to Ginga Waterfall - 07 January 2021" %}
+{% include img-fullwidth.html src="/images/posts/ice-climbing-guide-japan/sounkyo-river-crossing-2400.jpg" credits="Gregor Neumann" caption="River crossing on the approach to Ginga Waterfall - 07 January 2021" %}
 
 ## Mount Raiden (雷電山)
 

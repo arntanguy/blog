@@ -172,7 +172,7 @@ div.fullwidth-img{
     {
       color: #666;
       font-size: 0.9rem;
-      font-style: italic;
+      font-style: oblique;
       margin-left: 10px;
       @media screen and (min-width: 800px) {
         margin-top: 20px;
@@ -183,6 +183,11 @@ div.fullwidth-img{
         margin-top: 20px;
         margin-bottom: 80px;
         margin-left: 80px;
+      }
+
+      .credits
+      {
+        font-size: 0.8rem;
       }
 
     }

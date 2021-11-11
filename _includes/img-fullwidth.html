@@ -4,6 +4,9 @@
 <figcaption class="fullwidth-caption">
 <span class="caption-text">
 {{include.caption}}
+{% if include.credits %}
+<p class="credits">Credits: {{include.credits}}</p>
+{% endif %}
 </span>
 </figcaption>
 </figure>
