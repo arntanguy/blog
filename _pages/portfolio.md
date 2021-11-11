@@ -50,7 +50,7 @@ Hi, my name is Arnaud Tanguy. I'm an enthousiast Climber, Mountaineer and Outdoo
 
 # Landscapes
 
-<img src="{{ site.baseurl }}/images/portfolio/landscape/fuji_crater.jpg" alt="Fuji crater" />
+{% include img-fullwidth.html src="/images/portfolio/landscape/fuji_crater.jpg" caption="Mount Fuji Crater - April 2021" alt="Fuji Crater"%}
 
 {% include carousel.html name="landscape" %}
 

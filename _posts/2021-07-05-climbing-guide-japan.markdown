@@ -346,6 +346,8 @@ Here is a list (non-comprehensive) of the main guidebooks. Most of them can be f
 
 ## Mizugaki (みずがき山)
 
+{% include img-fullwidth.html src="/images/covers/climbing-guide-japan-cover.jpg" caption="Mizugaki is teeming with huge granite pillars full of cracks, roofs and hard face climbs. Here looking out towards Toichimen from the summit of Ozura Iwa." %}
+
 Mizugaki is one of the largest climbing areas of Japan, with a rich climbing history. It has it all, bouldering, sport and trad, multipitch, and no matter how much you climb there you won't ever run out of things to climb. Mizugaki's multipich routes are a true heaven for granite and offwidth lovers!
 
 - **Prefecture**: Yamanashi
