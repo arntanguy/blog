@@ -9,7 +9,8 @@ tag: [japan, ice climbing, topo]
 
 Finding information about ice climbing in Japan can be a daunting task to say the least. Where to go? When? How to get there? What about guidebooks? How about weather? The list goes on...
 
-*Disclaimer: none of the links in this article are affiliated, they are merely provided for convenience. Pictures in this article are mine unless stated otherwise, please inquire for commercial use.*
+{% include img-fullwidth.html src="/images/posts/ice-climbing-guide-japan/snow_tent-2400.jpg" caption="Winter camping near Sounkyo by -18°C - Hokkaido - Japan" %}
+
 
 # Overview of ice climbing in Japan 
 
@@ -111,6 +112,8 @@ Gunma prefecture is not particularely known for ice climbing. Yet Arafuneyama ha
 
 The area around Nikko has the poptential for many interesting waterfall. Unfortunately good ice conditions are hard to come by. The best period generally seems to be late-january. The most well-known climbable area is Unryukeikoku Falls (雲竜渓谷). It also happens to be a popular hike, and on good sunny days you can expect a crowd there (litteraly hundreds of people when we went there in the weekend in early February 2021).
 
+{% include img-fullwidth.html src="/images/posts/ice-climbing-guide-japan/unryukeikoku-2400.jpg" caption="Unryukeikoku Ice Falls slowly forming - 20 December 2020" %}
+
 - **Access**: From the trailhead parking [Unryukeikokutozanguchi Parking Lot - 雲竜渓谷登山口駐車場](https://goo.gl/maps/RTU7ei6j6j8aByDw6), walk for about 2h until you reach the [Unryu Keikoky Falls](https://goo.gl/maps/5Esep8upTf9an6qy7). Note that if the river is not frozen, the falls are very difficult to access as you have to walk above the river bed for a few hundred meters at the end (but in that case they probably aren't formed anyways).
 - **Best period**: Might be in condition for a short amount of time around late January. The main fall takes the sun from around mid-day. The smaller pillars are somewhat more protected from the sun, but being freestanding structures they need consistent low temperatures. I tried going twice last year: 1 december 2020 (not fully formed yet) and 6th February 2021 (already melting). It seems that around the week of 15th January conditions were good.
 - **Information**:
@@ -124,6 +127,7 @@ The area around Nikko has the poptential for many interesting waterfall. Unfortu
 
 See the [Kaikomagatake - Pachinko Climbing post]({{site.baseurl}}/kaikomagatake).
 
+{% include img-fullwidth.html src="/images/posts/ice-climbing-guide-japan/hokkaido-west-sunset-2400.jpg" caption="Sunset along the west coast of Hokkaido - January 2021" %}
 
 # Hokkaido
 
@@ -142,6 +146,8 @@ Located in the Daisetsuzan National Park, the Sounkyo Gorge is a world reknowned
   - Kumoino Falls ([GPX](https://www.strava.com/activities/4581993102) - *note: don't follow the same approach path that we did, instead prefer taking our return path along the road on the right river bank (parking side)*) - WI4
 
 {% include gallery-layout.html gallery=site.data.galleries.ice-climbing-guide-japan-sounkyo %}
+
+{% include img-fullwidth.html src="/images/posts/ice-climbing-guide-japan/sounkyo-river-crossing-2400.jpg" caption="River crossing on the approach to Ginga Waterfall - 07 January 2021" %}
 
 ## Mount Raiden (雷電山)
 
