@@ -2,7 +2,7 @@
 # General Site Settings
 title: Arnaud Tanguy
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hi, my name is Arnaud Tanguy. I'm a Mountaineer, Photographer and Robotics Research Engineer currently based in Montpellier, France.
+description: Mountaineer, Photographer and Robotics Research Engineer currently based in Montpellier, France.
 baseurl: "/blog" # The subpath of your site, e.g. /blog
 url: "https://arntanguy.github.io" # The base hostname & protocol for your site, e.g. http://example.com
   #url: "http://localhost:4000" # The base hostname & protocol for your site, e.g. http://example.com
@@ -85,7 +85,8 @@ exclude: []
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
-tag_permalink_style:  /:title
+tag_permalink_style: pretty
+
 
 sass:
   sass_dir: _sass
