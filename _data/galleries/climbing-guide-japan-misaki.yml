@@ -1,0 +1,83 @@
+picture_path: climbing-guide-japan-misaki
+pictures:
+- filename: 00-overview
+  original: 00-overview-3000x2000.jpg
+  sizes:
+  - 00-overview-2000x1333.jpg
+  - 00-overview-3000x2000.jpg
+  - 00-overview-400x267.jpg
+  - 00-overview-800x534.jpg
+  thumbnail: 00-overview-400x267.jpg
+  title: Evening light over Misaki area
+- filename: 01-sea
+  original: 01-sea-3000x2109.jpg
+  sizes:
+  - 01-sea-2000x1406.jpg
+  - 01-sea-3000x2109.jpg
+  - 01-sea-400x281.jpg
+  - 01-sea-800x563.jpg
+  thumbnail: 01-sea-400x281.jpg
+  title: Waves crashing on the shoreline right next to the cliffs!
+- filename: 02-sea-sunset
+  original: 02-sea-sunset-3000x2000.jpg
+  sizes:
+  - 02-sea-sunset-2000x1333.jpg
+  - 02-sea-sunset-3000x2000.jpg
+  - 02-sea-sunset-400x267.jpg
+  - 02-sea-sunset-800x534.jpg
+  thumbnail: 02-sea-sunset-400x267.jpg
+  title: Lighthouse watching over Misaki
+- filename: 03-climbing
+  original: 03-climbing-3000x4501.jpg
+  sizes:
+  - 03-climbing-2000x3001.jpg
+  - 03-climbing-3000x4501.jpg
+  - 03-climbing-400x600.jpg
+  - 03-climbing-800x1200.jpg
+  thumbnail: 03-climbing-400x600.jpg
+  title: Hakucho - 11a
+- filename: 04-nap
+  original: 04-nap-3000x2127.jpg
+  sizes:
+  - 04-nap-2000x1418.jpg
+  - 04-nap-3000x2127.jpg
+  - 04-nap-400x284.jpg
+  - 04-nap-800x567.jpg
+  thumbnail: 04-nap-400x284.jpg
+  title: Nap time!
+- filename: 05-overview
+  original: 05-overview-3000x2000.jpg
+  sizes:
+  - 05-overview-2000x1333.jpg
+  - 05-overview-3000x2000.jpg
+  - 05-overview-400x267.jpg
+  - 05-overview-800x534.jpg
+  thumbnail: 05-overview-400x267.jpg
+  title: Overview of the cliff
+- filename: 06-overview
+  original: 06-overview-3000x2000.jpg
+  sizes:
+  - 06-overview-2000x1333.jpg
+  - 06-overview-3000x2000.jpg
+  - 06-overview-400x267.jpg
+  - 06-overview-800x534.jpg
+  thumbnail: 06-overview-400x267.jpg
+  title: Overview of the cliff
+- filename: 07-overview
+  original: 07-overview-3000x1674.jpg
+  sizes:
+  - 07-overview-2000x1116.jpg
+  - 07-overview-3000x1674.jpg
+  - 07-overview-400x223.jpg
+  - 07-overview-800x447.jpg
+  thumbnail: 07-overview-400x223.jpg
+  title: Overview of the cliff
+- filename: 08-overview
+  original: 08-overview-3000x4501.jpg
+  sizes:
+  - 08-overview-2000x3001.jpg
+  - 08-overview-3000x4501.jpg
+  - 08-overview-400x600.jpg
+  - 08-overview-800x1200.jpg
+  thumbnail: 08-overview-400x600.jpg
+  title: Overview of the cliff

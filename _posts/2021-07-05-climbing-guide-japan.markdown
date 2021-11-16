@@ -5,132 +5,6 @@ image: climbing-guide-japan
 date: 2021-07-05 12:00:00 +0900
 description: Climbing guide on Japanse climbing areas around Honshu
 tags: [japan, climbing, topo]
-carousels:
-  misaki:
-    title: "Misaki"
-    media:
-    - type: img 
-      path: /images/japan-topo/misaki/sunset.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/misaki/lighthouse.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/misaki/sea_sunset.jpg
-      alt: ""
-      caption: "" 
-      description: ""
-    - type: img 
-      path: /images/japan-topo/misaki/overview2.jpg
-    - type: img 
-      path: /images/japan-topo/misaki/panorama.jpg
-    - type: img 
-      path: /images/japan-topo/misaki/overview3.jpg
-    - type: img 
-      path: /images/japan-topo/misaki/cave.jpg
-    - type: img 
-      path: /images/japan-topo/misaki/11a.jpg
-      caption: "Hakucho - 11a"
-      description: "Nice short route with a very hard crux" 
-    - type: img 
-      path: /images/japan-topo/misaki/rest.jpg
-      description: Nobuyuki Suzuki resting between attempts
-    - type: img 
-      path: /images/japan-topo/misaki/approach.jpg
-      description: Approach path to reach the cliff bottom.  
-  samuraihama:
-    title: "Samuraihama"
-    media:
-    - type: img 
-      path: /images/japan-topo/samuraihama/overview.jpg
-    - type: img 
-      path: /images/japan-topo/samuraihama/cliff.jpg
-    - type: img 
-      path: /images/japan-topo/samuraihama/cliff2.jpg
-    - type: img 
-      path: /images/japan-topo/samuraihama/11a_crack.jpg
-      caption: "5.11a crack, trad (toprope)"
-    - type: img 
-      path: /images/japan-topo/samuraihama/lead.jpg
-    - type: img 
-      path: /images/japan-topo/samuraihama/nap.jpg
-  hyoutan_cave:
-    title: "Hyoutan Cave"
-    media:
-    - type: img 
-      path: /images/japan-topo/hyoutan_cave/overview.jpg
-    - type: img 
-      path: /images/japan-topo/hyoutan_cave/second_cave.jpg
-    - type: img 
-      path: /images/japan-topo/hyoutan_cave/kameya.jpg
-      caption: "Kameya - 5.11c"
-    - type: img 
-      path: /images/japan-topo/hyoutan_cave/11d.jpg
-      caption: "5.11d"
-    - type: img 
-      path: /images/japan-topo/hyoutan_cave/12b.jpg
-      caption: "5.12b"
-  shiobara_boulder:
-    title: "Shiobara Boulder"
-    media:
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/highball.jpg
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/highball2.jpg
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/highball3.jpg
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/boulders.jpg
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/boulders2.jpg
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/joe_4Q.jpg
-      caption: "Joe Mignano on a non-official 4Q"
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/area.jpg
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/eagle.jpg
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/eagles.jpg
-    - type: img 
-      path: /images/japan-topo/shiobara_boulder/snake.jpg
-  shimonita_boulder:
-    title: "Shimonita Boulder"
-    media:
-    - type: img 
-      path: /images/japan-topo/shimonita_boulder/boulder1.jpg
-    - type: mp4 
-      path: /images/japan-topo/shimonita_boulder/video.mp4
-  maruyama:
-    title: "Maruyama"
-    media:
-    - type: img 
-      path: /images/japan-topo/maruyama/windturbine.jpg
-    - type: img 
-      path: /images/japan-topo/maruyama/boulder1.jpg
-    - type: img 
-      path: /images/japan-topo/maruyama/boulder2.jpg
-    - type: img 
-      path: /images/japan-topo/maruyama/boulder3.jpg
-    - type: img 
-      path: /images/japan-topo/maruyama/boulder4.jpg
-    - type: img 
-      path: /images/japan-topo/maruyama/1.jpg
-    - type: img 
-      path: /images/japan-topo/maruyama/2.jpg
-    - type: img 
-      path: /images/japan-topo/maruyama/3.jpg
-  kasama_boulder:
-    title: "Kasama Boulder"
-    media:
-    - type: img 
-      path: /images/japan-topo/kasama/kasama.jpg
-      caption: View from the top of Kasama bouldering area
-
 ---
 
 Finding information about climbing in Japan can be a daunting task. Where to go? How to find the guidebook? What about gear and anchors? How about local etiquette?
@@ -141,7 +15,7 @@ Finding information about climbing in Japan can be a daunting task. Where to go?
 
 I've always found it hard to get a good overview of what climbing Japan has to offer. If you ask about climbing in Japan, most people will happily point you in the direction of Ogawayama, which is undeniably one of the best sport climbing area in the country. But this can't be the only crag worth visiting now, can it? Of course not, but unfortunaltely discovering climbing areas relies mostly on the set of 4 guidebooks "フリークライミング 日本100岩場" (Free climbing japan, 100 rocks), that do nothing to inspire you to actually go climbing. These books, available in Japanese only, only contain vague descriptions of the climbing areas, and poorly drawn access maps and sketches of the main routes in each area. This information is often out-of-date, and missing a lot of recent developments. Still it remains the most comprehensive overview of most Japanese sport and trad climbing crags. This article compiles a list of some of the main climbing crags, along with pictures to hopefully inspire you to go and visit them!
 
-{% include img-fullwidth.html src="/images/japan-topo/mizugaki/panorama.jpg" caption="Mizugaki is teeming with huge granite pillars full of cracks, roofs and hard face climbs. Here looking out towards Toichimen from the summit of Ozura Iwa." %}
+{% include img-fullwidth.html src="/images/posts/climbing-guide-japan/mizugaki-pano-2400.jpg" caption="Mizugaki is teeming with huge granite pillars full of cracks, roofs and hard face climbs. Here looking out towards Toichimen from the summit of Ozura Iwa." %}
 
 ## Guidebooks
 
@@ -225,7 +99,7 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 - **Guidebook**: "free climbing japan vol 1"
 - **Best period**: Spring and Autumn. Inacessible in winter due to snow (the long logging road is not cleared) 
 
-{% include img-fullwidth.html src="/images/posts/climbing-guide-japan/yamadera-hijikata-2400.jpg" caption="The lengedary Tosihiko Hijikata climbing Mind Game - 5.12b in Yamadera" %}
+{% include img-fullwidth.html src="/images/posts/climbing-guide-japan/yamadera-hijikata-2400.jpg" caption="The legendary Tosihiko Hijikata climbing Mind Game - 5.12b in Yamadera" %}
 
 {% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-yamadera id_number="1292355" %}
 
@@ -241,7 +115,7 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 - **Guidebook**: "free climbing japan vol 1"
 - **Best period**: Spring and Autumn. During the rainy season and summer months it is far too humid for climbing (great for swimming though). In winter rough sea typically prevents access.
 
-{% include carousel.html name="misaki" %}
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-misaki id_number="21234355" %}
 
 ## Samuraihama (侍浜)
 
@@ -255,7 +129,7 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 - **Guidebook**: "free climbing japan vol 1"
 - **Best period**: Spring and Autumn. Less humid than Misaki. In winter rough sea typically prevents access.
 
-{% include carousel.html name="samuraihama" %}
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-samuraihama id_number="2127855" %}
 
 ## Hyoutan Cave (ひょうたんケイブ)
 
@@ -270,7 +144,7 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 - **Guidebook**: "free climbing japan vol 1"
 - **Best period**: Spring and Autumn. Suitable for rainy days, although water will eventually sip through the roof.
 
-{% include carousel.html name="hyoutan_cave" %}
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-hyoutan-cave id_number="567855" %}
 
 ## Shiobara Boulder
 
@@ -284,10 +158,9 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 
 Mostly hard limestone bouldering next to the river. It is world-reknowned for its hard roof boulder problems (HYDRA V13, CARTHARSIS V14 and HYDRANGIA V15). See for youself ;)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ycP_uEBjJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video.html path="4ycP_uEBjJM" type="youtube" %}
 
-
-{% include carousel.html name="shiobara_boulder" %}
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-shiobara id_number="5678" %}
 
 ## Shimonita boulder
 
@@ -296,7 +169,9 @@ Mostly hard limestone bouldering next to the river. It is world-reknowned for it
 - **Style**: Easy to hard limestone bouldering with good flat landing.
 - **Guidebook**: "free climbing japan vol 2". You can find more information and an online topo [here](http://genbu2008.web.fc2.com/Free-climbing/110612/newpage8.html) (Japanese only)
 
-{% include carousel.html name="shimonita_boulder" %}
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-shimonita id_number="678" %}
+
+{% include video.html path="/images/japan-topo/shimonita_boulder/video.mp4" type="mp4" %}
 
 ## Maruyama (Toaru)
 
@@ -309,7 +184,7 @@ Maruyama is a climbing area near Mount Tsukuba, small but seeing active developm
 - **Rock type**: Granite
 - **Best period**: Spring, Autumn, Winter. Too warm and humid in the summer, and mosquitoes are annoying.
 
-{% include carousel.html name="maruyama" %}
+{% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-maruyama id_number="78" %}
 
 ## Kasama Boulder
 
@@ -318,7 +193,7 @@ Maruyama is a climbing area near Mount Tsukuba, small but seeing active developm
 - **Guidebook**: There is a great [online guidebook](https://www.yumpu.com/nl/document/read/7686490/kasama). Alternatively you can try using "free climbing japan vol 2" (good luck).
 - **Best period**: Spring, Autumn, Winter. Too warm and humid in the summer, and mosquitoes/spiders are annoying.
 
-{% include carousel.html name="kasama_boulder" %}
+{% include img-fullwidth.html src="/images/japan-topo/kasama/kasama.jpg" caption="From the top of Kasama Bouldering Area" %}
 
 ## Other interesting areas
 

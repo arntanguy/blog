@@ -1,0 +1,82 @@
+picture_path: climbing-guide-japan-shiobara
+pictures:
+- filename: '00'
+  original: 00-1110x888.jpg
+  sizes:
+  - 00-1110x888.jpg
+  - 00-1110x888.jpg
+  - 00-400x320.jpg
+  - 00-800x640.jpg
+  thumbnail: 00-400x320.jpg
+- filename: '01'
+  original: 01-1329x888.jpg
+  sizes:
+  - 01-1329x888.jpg
+  - 01-1329x888.jpg
+  - 01-400x268.jpg
+  - 01-800x535.jpg
+  thumbnail: 01-400x268.jpg
+- filename: '02'
+  original: 02-3000x2006.jpg
+  sizes:
+  - 02-2000x1337.jpg
+  - 02-3000x2006.jpg
+  - 02-400x268.jpg
+  - 02-800x535.jpg
+  thumbnail: 02-400x268.jpg
+- filename: '03'
+  original: 03-3000x2006.jpg
+  sizes:
+  - 03-2000x1337.jpg
+  - 03-3000x2006.jpg
+  - 03-400x268.jpg
+  - 03-800x535.jpg
+  thumbnail: 03-400x268.jpg
+- filename: '04'
+  original: 04-3000x2006.jpg
+  sizes:
+  - 04-2000x1338.jpg
+  - 04-3000x2006.jpg
+  - 04-400x268.jpg
+  - 04-800x535.jpg
+  thumbnail: 04-400x268.jpg
+- filename: '05'
+  original: 05-3000x2006.jpg
+  sizes:
+  - 05-2000x1337.jpg
+  - 05-3000x2006.jpg
+  - 05-400x268.jpg
+  - 05-800x535.jpg
+  thumbnail: 05-400x268.jpg
+- filename: '06'
+  original: 06-3000x2006.jpg
+  sizes:
+  - 06-2000x1337.jpg
+  - 06-3000x2006.jpg
+  - 06-400x268.jpg
+  - 06-800x535.jpg
+  thumbnail: 06-400x268.jpg
+- filename: '07'
+  original: 07-3000x2008.jpg
+  sizes:
+  - 07-2000x1339.jpg
+  - 07-3000x2008.jpg
+  - 07-400x268.jpg
+  - 07-800x536.jpg
+  thumbnail: 07-400x268.jpg
+- filename: 08
+  original: 08-1774x1187.jpg
+  sizes:
+  - 08-1774x1187.jpg
+  - 08-1774x1187.jpg
+  - 08-400x268.jpg
+  - 08-800x536.jpg
+  thumbnail: 08-400x268.jpg
+- filename: 09
+  original: 09-3000x4486.jpg
+  sizes:
+  - 09-2000x2991.jpg
+  - 09-3000x4486.jpg
+  - 09-400x598.jpg
+  - 09-800x1197.jpg
+  thumbnail: 09-400x598.jpg

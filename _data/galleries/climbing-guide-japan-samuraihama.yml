@@ -1,0 +1,50 @@
+picture_path: climbing-guide-japan-samuraihama
+pictures:
+- filename: '01'
+  original: 01-3000x2000.jpg
+  sizes:
+  - 01-2000x1333.jpg
+  - 01-3000x2000.jpg
+  - 01-400x267.jpg
+  - 01-800x534.jpg
+  thumbnail: 01-400x267.jpg
+- filename: '02'
+  original: 02-3000x4501.jpg
+  sizes:
+  - 02-2000x3001.jpg
+  - 02-3000x4501.jpg
+  - 02-400x600.jpg
+  - 02-800x1200.jpg
+  thumbnail: 02-400x600.jpg
+- filename: '03'
+  original: 03-750x1000.jpg
+  sizes:
+  - 03-750x1000.jpg
+  - 03-750x1000.jpg
+  - 03-400x534.jpg
+  - 03-750x1000.jpg
+  thumbnail: 03-400x534.jpg
+- filename: '04'
+  original: 04-3000x2000.jpg
+  sizes:
+  - 04-2000x1333.jpg
+  - 04-3000x2000.jpg
+  - 04-400x267.jpg
+  - 04-800x534.jpg
+  thumbnail: 04-400x267.jpg
+- filename: '05'
+  original: 05-3000x2000.jpg
+  sizes:
+  - 05-2000x1333.jpg
+  - 05-3000x2000.jpg
+  - 05-400x267.jpg
+  - 05-800x534.jpg
+  thumbnail: 05-400x267.jpg
+- filename: '06'
+  original: 06-3000x1215.jpg
+  sizes:
+  - 06-2000x810.jpg
+  - 06-3000x1215.jpg
+  - 06-400x162.jpg
+  - 06-800x324.jpg
+  thumbnail: 06-400x162.jpg

@@ -1,0 +1,74 @@
+picture_path: climbing-guide-japan-maruyama
+pictures:
+- filename: '00'
+  original: 00-3000x2250.jpg
+  sizes:
+  - 00-2000x1500.jpg
+  - 00-3000x2250.jpg
+  - 00-400x300.jpg
+  - 00-800x600.jpg
+  thumbnail: 00-400x300.jpg
+- filename: '01'
+  original: 01-3000x4000.jpg
+  sizes:
+  - 01-2000x2667.jpg
+  - 01-3000x4000.jpg
+  - 01-400x534.jpg
+  - 01-800x1067.jpg
+  thumbnail: 01-400x534.jpg
+- filename: '02'
+  original: 02-3000x4000.jpg
+  sizes:
+  - 02-2000x2667.jpg
+  - 02-3000x4000.jpg
+  - 02-400x534.jpg
+  - 02-800x1067.jpg
+  thumbnail: 02-400x534.jpg
+- filename: '03'
+  original: 03-3000x2250.jpg
+  sizes:
+  - 03-2000x1500.jpg
+  - 03-3000x2250.jpg
+  - 03-400x300.jpg
+  - 03-800x600.jpg
+  thumbnail: 03-400x300.jpg
+- filename: '04'
+  original: 04-3000x4000.jpg
+  sizes:
+  - 04-2000x2667.jpg
+  - 04-3000x4000.jpg
+  - 04-400x534.jpg
+  - 04-800x1067.jpg
+  thumbnail: 04-400x534.jpg
+- filename: '05'
+  original: 05-3000x2000.jpg
+  sizes:
+  - 05-2000x1334.jpg
+  - 05-3000x2000.jpg
+  - 05-400x267.jpg
+  - 05-800x534.jpg
+  thumbnail: 05-400x267.jpg
+- filename: '06'
+  original: 06-3000x2000.jpg
+  sizes:
+  - 06-2000x1334.jpg
+  - 06-3000x2000.jpg
+  - 06-400x267.jpg
+  - 06-800x534.jpg
+  thumbnail: 06-400x267.jpg
+- filename: '07'
+  original: 07-3000x2000.jpg
+  sizes:
+  - 07-2000x1334.jpg
+  - 07-3000x2000.jpg
+  - 07-400x267.jpg
+  - 07-800x534.jpg
+  thumbnail: 07-400x267.jpg
+- filename: 08
+  original: 08-3000x2000.jpg
+  sizes:
+  - 08-2000x1334.jpg
+  - 08-3000x2000.jpg
+  - 08-400x267.jpg
+  - 08-800x534.jpg
+  thumbnail: 08-400x267.jpg

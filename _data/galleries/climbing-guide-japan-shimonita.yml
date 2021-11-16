@@ -1,0 +1,10 @@
+picture_path: climbing-guide-japan-shimonita
+pictures:
+- filename: '00'
+  original: 00-3000x2250.jpg
+  sizes:
+  - 00-2000x1500.jpg
+  - 00-3000x2250.jpg
+  - 00-400x300.jpg
+  - 00-800x600.jpg
+  thumbnail: 00-400x300.jpg

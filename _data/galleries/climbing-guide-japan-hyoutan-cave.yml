@@ -1,0 +1,46 @@
+picture_path: climbing-guide-japan-hyoutan-cave
+pictures:
+- filename: '00'
+  original: 00-3000x2250.jpg
+  sizes:
+  - 00-2000x1500.jpg
+  - 00-3000x2250.jpg
+  - 00-400x300.jpg
+  - 00-800x600.jpg
+  thumbnail: 00-400x300.jpg
+  title: "Hyoutan Cave"
+- filename: '01'
+  original: 01-3000x4000.jpg
+  sizes:
+  - 01-2000x2667.jpg
+  - 01-3000x4000.jpg
+  - 01-400x534.jpg
+  - 01-800x1067.jpg
+  thumbnail: 01-400x534.jpg
+  title: "5.12b"
+- filename: '02'
+  original: 02-750x1000.jpg
+  sizes:
+  - 02-750x1000.jpg
+  - 02-750x1000.jpg
+  - 02-400x534.jpg
+  - 02-750x1000.jpg
+  thumbnail: 02-400x534.jpg
+- filename: '03'
+  original: 03-3000x4000.jpg
+  sizes:
+  - 03-2000x2667.jpg
+  - 03-3000x4000.jpg
+  - 03-400x534.jpg
+  - 03-800x1067.jpg
+  thumbnail: 03-400x534.jpg
+  title: "Kameya - 5.11c"
+- filename: '04'
+  original: 04-3000x4000.jpg
+  sizes:
+  - 04-2000x2667.jpg
+  - 04-3000x4000.jpg
+  - 04-400x534.jpg
+  - 04-800x1067.jpg
+  thumbnail: 04-400x534.jpg
+  title: "5.11d"
