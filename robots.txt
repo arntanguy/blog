@@ -1,4 +1,4 @@
-Sitemap: https://arntanguy.github.io/sitemap.xml
+Sitemap: https://arntanguy.github.io/blog/sitemap.xml
 
 User-agent: *
 Disallow:
