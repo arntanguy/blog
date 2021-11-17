@@ -4,8 +4,8 @@ title: Arnaud Tanguy
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Mountaineer, Photographer and Robotics Research Engineer currently based in Montpellier, France.
 baseurl: "/blog" # The subpath of your site, e.g. /blog
-url: "https://arntanguy.github.io" # The base hostname & protocol for your site, e.g. http://example.com
-  #url: "http://localhost:4000" # The base hostname & protocol for your site, e.g. http://example.com
+  #url: "https://arntanguy.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:4000" # The base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings

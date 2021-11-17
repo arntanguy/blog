@@ -62,8 +62,8 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 
 - **Prefecture**: Yamanashi/Nagano border
 - **Access**: [Mawarimedaira Camping Ground](https://goo.gl/maps/hbQzR7BE35B4sYpr6)
-- **Accomodation**: Campground ([website](http://w2.avis.ne.jp/~mawarime/))
-- **Access fee**: 500yen/day for parking (you can use the campground facilities)
+- **Accomodation**: Campground ([website](http://w2.avis.ne.jp/~mawarime/)). No need for reservation there is more than enough space for everyone. You can arrive at anytime, simply take a ticket at the automated gate, set up your tent and go pay the next morning with your ticket. Be careful that if you wish to leave the campground and come back (for a supermarket run for instance), you'll need to get the staff at the hut to validate your ticket so that you can get out. If for some reason you need to leave during the night, be sure you've asked them beforehand or you'll be stuck inside!
+- **Access fee**: 500yen/day/person to be paid at the Hut at the entrance (you can use the basic campground facilities such as water). 
 - **Style**: Single-pitch sport and trad, multipitch, bouldering
 - **Rock type**: Granite
 - **Guidebook**: Unfortunately there is no dedicated guidebook to Ogawayama's sport climbing yet, although one is rumored to be under development. Refer to the "free climbing japan vol 2" or [ogawayama.online](https://ogawayama.online/). For bouldering: [Ogawayama Bouldering Area Guide](https://www.calafate.jp/esp/prdJA0214_OgawayamaBoulderingAreaGuide.html)
@@ -146,13 +146,37 @@ Ogawayama is a world-reknowned sport climbing and bouldering area, and is, along
 
 {% include gallery-layout.html gallery=site.data.galleries.climbing-guide-japan-hyoutan-cave id_number="567855" %}
 
+{% include img-fullwidth.html src="/images/posts/climbing-guide-japan/suzuriiwa-2400.jpg" caption="Looking out towards Lake Haruna from the top of Suzuriiwa crag. Be sure to also check out Kuroiwa while you are there. - Gunma Prefecture" %}
+
+## Kuroiwa
+
+- **Prefecture**: Gunma, close to Lake Haruna.
+- **Access**: Park in the small parking lot next to a big hairpin curve of the road ([here](https://goo.gl/maps/YifpKXhBesiXS89t6)). Walk up the slope at the apex of the hairpin towards the visible cliff.
+- **Accomodation**: I highly recommend the nearby ["Climber's Chalet" of the Kokusai Climbing Club](http://japanclimbing.com) ([location](https://goo.gl/maps/n2amjpbgyoDQHtiN6)) managed by my good friend and rock climbing guide James Miller.
+- **Best period**: Spring and Autumn. Accessible but cold in winter.
+- **Style**: Mostly sport climbing, some trad, possibility of multipitch (although currently poorly developped).
+
+{% include video.html path="901kF9hdA98" type="youtube" alt="Kuroiwa" %}
+
+## Suzuri-iwa
+
+- **Prefecture**: Gunma, close to Lake Haruna and Kuroiwa crag.
+- **Access**: Park at the [無料駐車場](https://goo.gl/maps/DNp7ymRwRbLP8sjQ8) parking lot. The trailhead is about 50m further up the road on the left. Follow the path for about 200-300m to reach the top of the cliff. If you cut accross the slope to the right just before the wooden steps of the final climb, you'll reach the bottom of the cliff instead.
+- **Accomodation**: Same as for Kuroiwa 
+- **Best period**: Spring and Autumn. Accessible but cold in winter.
+- **Style**: This crag hasn't seen much activity for quite a long while, and being in the woods, it is generally quite mossy/dirty. Still there are some interesting lines to be done, in particular some enjoyable trad crack climbs, such as Close the Door (5.10b), see for yourself:
+
+{% include video.html path="6aVT2V6_dx0" type="youtube" alt="Suzuriiwa" %}
+
+
+
 ## Shiobara Boulder
 
 - **Prefecture**: Tochigi
 - **Access**: Park at the [観光無料駐車場](https://goo.gl/maps/A48JNLoC6PEkTDKw7) parking lot. Walk past the ENEOS gas station and find a way down to the left above the road barriers before the highball with a bridge.
 - **Accomodation**: You can sleep in your car in the parking lot. Restroom available.
 - **Access fee**: Free
-- **Style**: Hard limestone bouldering
+- **Style**: Face climbing 
 - **Guidebook**: "free climbing japan vol 2"
 - **Best period**: Spring and Autumn. Accessible but cold in winter.
 
