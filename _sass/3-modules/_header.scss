@@ -42,9 +42,8 @@
 /* Nav */
 ion-icon
 {
-  color: $white;
+  pointer-events: none;
 }
-
 .main-nav {
   width: 100%;
   max-width: 1300px;
