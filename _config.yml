@@ -18,14 +18,16 @@ hero:
   title: Arnaud TANGUY 
   description: Mountaineering, Ice Climbing, Photography
 
+# Uses ion-icons
 social:
 #- {icon: "ion-logo-twitter", link: "https://twitter.com"}
 #- {icon: "ion-logo-facebook", link: "https://facebook.com"}
 #- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com/arntanguy"}
-- {icon: "ion-logo-github", link: "https://github.com/arntanguy"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com/channel/UCv0xt9XhYJDzzOEhZQw2nXQ"}
-- {icon: "ion-logo-rss", link: "feed.xml"}
+- {icon: "logo-instagram", link: "https://instagram.com/arntanguy"}
+- {icon: "logo-github", link: "https://github.com/arntanguy"}
+- {icon: "logo-youtube", link: "https://youtube.com/channel/UCv0xt9XhYJDzzOEhZQw2nXQ"}
+- {icon: "logo-rss", link: "feed.xml"}
+- {icon: "logo-paypal", link: "https://www.paypal.com/donate/?hosted_button_id=U8E39BD4ZD6ZN"}
 #- {icon: "ion-logo-strava", link: "https://www.strava.com/athletes/71520559"}
 #- {icon: "ion-logo-vimeo", link: "https://vimeo.com/"}
 
@@ -58,6 +60,10 @@ mailchimp-title: Get Interesting News # Add your title.
 mailchimp-text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
+donations:
+  paypal:
+    text:           Donate      # Button text
+    id:             U8E39BD4ZD6ZN # PayPal button ID
 
 #-------------------------------
 # Build settings

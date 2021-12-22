@@ -40,6 +40,11 @@
 }
 
 /* Nav */
+ion-icon
+{
+  color: $white;
+}
+
 .main-nav {
   width: 100%;
   max-width: 1300px;
@@ -67,12 +72,20 @@
     text-align: center;
     line-height: 40px;
     color: $gray;
+    ion-icon
+    {
+      color: $gray;
+    }
     transition: all .25s ease;
     cursor: pointer;
 
     &:hover {
       transform: rotate(90deg);
       color: $white;
+      ion-icon
+      {
+        color: $white;
+      }
     }
   }
 
