@@ -1,0 +1,449 @@
+picture_path: camp-hiver-2022-grand-pic-de-belledone
+pictures:
+- filename: 01-depart-tom-alex
+  original: 01-depart-tom-alex-3000x4000.jpg
+  sizes:
+  - 01-depart-tom-alex-2000x2667.jpg
+  - 01-depart-tom-alex-3000x4000.jpg
+  - 01-depart-tom-alex-400x534.jpg
+  - 01-depart-tom-alex-800x1067.jpg
+  thumbnail: 01-depart-tom-alex-400x534.jpg
+  title: "Tom-Alex prêt au départ"
+- filename: 02-depart-sophie
+  original: 02-depart-sophie-3000x4000.jpg
+  sizes:
+  - 02-depart-sophie-2000x2667.jpg
+  - 02-depart-sophie-3000x4000.jpg
+  - 02-depart-sophie-400x534.jpg
+  - 02-depart-sophie-800x1067.jpg
+  thumbnail: 02-depart-sophie-400x534.jpg
+  title: "Sophie prête au départ"
+- filename: 03-sophie-montee
+  original: 03-sophie-montee-3000x2006.jpg
+  sizes:
+  - 03-sophie-montee-2000x1338.jpg
+  - 03-sophie-montee-3000x2006.jpg
+  - 03-sophie-montee-400x268.jpg
+  - 03-sophie-montee-800x535.jpg
+  thumbnail: 03-sophie-montee-400x268.jpg
+  title: "Sophie au début de la montée"
+- filename: 03b-approche-riviere
+  original: 03b-approche-riviere-3000x2250.jpg
+  sizes:
+  - 03b-approche-riviere-2000x1500.jpg
+  - 03b-approche-riviere-3000x2250.jpg
+  - 03b-approche-riviere-400x300.jpg
+  - 03b-approche-riviere-800x600.jpg
+  thumbnail: 03b-approche-riviere-400x300.jpg
+  title: "Petit passage délicat"
+  caption: "Certains optent pour l'escalade de barrage, d'autres pour la traversée de rivière et les arbres..."
+- filename: 04-couloir-terre
+  original: 04-couloir-terre-3000x4487.jpg
+  sizes:
+  - 04-couloir-terre-2000x2992.jpg
+  - 04-couloir-terre-3000x4487.jpg
+  - 04-couloir-terre-400x599.jpg
+  - 04-couloir-terre-800x1197.jpg
+  thumbnail: 04-couloir-terre-400x599.jpg
+  title: "Mais où est donc passée la neige?"
+  caption: "Remontée fastidieuse d'un long couloir de terre raide, skis et bivouac sur le dos!"
+- filename: 05-couloir-terre
+  original: 05-couloir-terre-3000x4000.jpg
+  sizes:
+  - 05-couloir-terre-2000x2667.jpg
+  - 05-couloir-terre-3000x4000.jpg
+  - 05-couloir-terre-400x534.jpg
+  - 05-couloir-terre-800x1067.jpg
+  thumbnail: 05-couloir-terre-400x534.jpg
+  title: "Mais où est donc passée la neige?"
+  caption: "Remontée fastidieuse d'un long couloir de terre raide, skis et bivouac sur le dos!"
+- filename: 06-amjad-saut
+  original: 06-amjad-saut-3000x2250.jpg
+  sizes:
+  - 06-amjad-saut-2000x1500.jpg
+  - 06-amjad-saut-3000x2250.jpg
+  - 06-amjad-saut-400x300.jpg
+  - 06-amjad-saut-800x600.jpg
+  thumbnail: 06-amjad-saut-400x300.jpg
+  title: "Amine s'amuse dans la neige"
+- filename: 07-amjad-saut
+  original: 07-amjad-saut-3000x2250.jpg
+  sizes:
+  - 07-amjad-saut-2000x1500.jpg
+  - 07-amjad-saut-3000x2250.jpg
+  - 07-amjad-saut-400x300.jpg
+  - 07-amjad-saut-800x600.jpg
+  thumbnail: 07-amjad-saut-400x300.jpg
+  title: "Amine s'amuse dans la neige"
+- filename: 08-amjad-saut
+  original: 08-amjad-saut-3000x2250.jpg
+  sizes:
+  - 08-amjad-saut-2000x1500.jpg
+  - 08-amjad-saut-3000x2250.jpg
+  - 08-amjad-saut-400x300.jpg
+  - 08-amjad-saut-800x600.jpg
+  thumbnail: 08-amjad-saut-400x300.jpg
+  title: "Amine s'amuse dans la neige"
+- filename: 09-amjad-saut
+  original: 09-amjad-saut-3000x2250.jpg
+  sizes:
+  - 09-amjad-saut-2000x1500.jpg
+  - 09-amjad-saut-3000x2250.jpg
+  - 09-amjad-saut-400x300.jpg
+  - 09-amjad-saut-800x600.jpg
+  thumbnail: 09-amjad-saut-400x300.jpg
+  title: "Amine s'amuse dans la neige"
+- filename: 10-tom-alex
+  original: 10-tom-alex-3000x4000.jpg
+  sizes:
+  - 10-tom-alex-2000x2667.jpg
+  - 10-tom-alex-3000x4000.jpg
+  - 10-tom-alex-400x534.jpg
+  - 10-tom-alex-800x1067.jpg
+  thumbnail: 10-tom-alex-400x534.jpg
+  title: "Tom-Alex"
+- filename: 11-pic-nic
+  original: 11-pic-nic-3000x2250.jpg
+  sizes:
+  - 11-pic-nic-2000x1500.jpg
+  - 11-pic-nic-3000x2250.jpg
+  - 11-pic-nic-400x300.jpg
+  - 11-pic-nic-800x600.jpg
+  thumbnail: 11-pic-nic-400x300.jpg
+  title: "Petit repos bien mérité après l'épopée du couloir de terre"
+- filename: 12-tom-alex-conversion
+  original: 12-tom-alex-conversion-3000x2250.jpg
+  sizes:
+  - 12-tom-alex-conversion-2000x1500.jpg
+  - 12-tom-alex-conversion-3000x2250.jpg
+  - 12-tom-alex-conversion-400x300.jpg
+  - 12-tom-alex-conversion-800x600.jpg
+  thumbnail: 12-tom-alex-conversion-400x300.jpg
+  title: "Les conversions c'est..."
+- filename: 12-tom-alex-conversion-fail
+  original: 12-tom-alex-conversion-fail-3000x2250.jpg
+  sizes:
+  - 12-tom-alex-conversion-fail-2000x1500.jpg
+  - 12-tom-alex-conversion-fail-3000x2250.jpg
+  - 12-tom-alex-conversion-fail-400x300.jpg
+  - 12-tom-alex-conversion-fail-800x600.jpg
+  thumbnail: 12-tom-alex-conversion-fail-400x300.jpg
+  title: "... pas si simple!"
+- filename: 13-lea-foret
+  original: 13-lea-foret-3000x2006.jpg
+  sizes:
+  - 13-lea-foret-2000x1338.jpg
+  - 13-lea-foret-3000x2006.jpg
+  - 13-lea-foret-400x268.jpg
+  - 13-lea-foret-800x535.jpg
+  thumbnail: 13-lea-foret-400x268.jpg
+  title: "Lea remontant la fin de la pente inskiable"
+- filename: 14-montee
+  original: 14-montee-3000x2006.jpg
+  sizes:
+  - 14-montee-2000x1338.jpg
+  - 14-montee-3000x2006.jpg
+  - 14-montee-400x268.jpg
+  - 14-montee-800x535.jpg
+  thumbnail: 14-montee-400x268.jpg
+  title: "Le groupe approche enfin de la cabane"
+- filename: 15-objectif
+  original: 15-objectif-3000x2006.jpg
+  sizes:
+  - 15-objectif-2000x1338.jpg
+  - 15-objectif-3000x2006.jpg
+  - 15-objectif-400x268.jpg
+  - 15-objectif-800x535.jpg
+  thumbnail: 15-objectif-400x268.jpg
+  title: "Objectif en vue - Grand Pic de Belledone"
+- filename: 16-approche-finale
+  original: 16-approche-finale-3000x2006.jpg
+  sizes:
+  - 16-approche-finale-2000x1338.jpg
+  - 16-approche-finale-3000x2006.jpg
+  - 16-approche-finale-400x268.jpg
+  - 16-approche-finale-800x535.jpg
+  thumbnail: 16-approche-finale-400x268.jpg
+  title: "Un dernier petit effort!"
+- filename: 17-preparation-bivouac
+  original: 17-preparation-bivouac-3000x1688.jpg
+  sizes:
+  - 17-preparation-bivouac-2000x1125.jpg
+  - 17-preparation-bivouac-3000x1688.jpg
+  - 17-preparation-bivouac-400x225.jpg
+  - 17-preparation-bivouac-800x450.jpg
+  thumbnail: 17-preparation-bivouac-400x225.jpg
+  title: "Préparatifs du bivouac"
+  caption: "On creuse des plateformes pour monter les tentes à l'abris du vent"
+- filename: 18-cabanes
+  original: 18-cabanes-3000x2250.jpg
+  sizes:
+  - 18-cabanes-2000x1500.jpg
+  - 18-cabanes-3000x2250.jpg
+  - 18-cabanes-400x300.jpg
+  - 18-cabanes-800x600.jpg
+  thumbnail: 18-cabanes-400x300.jpg
+  title: "Cabane du Rif Premier"
+  caption: "Pendant que d'autres profitent du luxe de la cabane"
+- filename: 19-contemplative
+  original: 19-contemplative-3000x2250.jpg
+  title: "Contemplatifs"
+  caption: "Amine et Léa profitent des dernières lueurs du jour"
+  sizes:
+  - 19-contemplative-2000x1500.jpg
+  - 19-contemplative-3000x2250.jpg
+  - 19-contemplative-400x300.jpg
+  - 19-contemplative-800x600.jpg
+  thumbnail: 19-contemplative-400x300.jpg
+- filename: 20-decoupe-bois
+  original: 20-decoupe-bois-3000x4000.jpg
+  sizes:
+  - 20-decoupe-bois-2000x2667.jpg
+  - 20-decoupe-bois-3000x4000.jpg
+  - 20-decoupe-bois-400x534.jpg
+  - 20-decoupe-bois-800x1067.jpg
+  thumbnail: 20-decoupe-bois-400x534.jpg
+  title: "Découpe de bois pour le poele"
+- filename: 21-bivouac-nuit
+  original: 21-bivouac-nuit-3000x1991.jpg
+  sizes:
+  - 21-bivouac-nuit-2000x1327.jpg
+  - 21-bivouac-nuit-3000x1991.jpg
+  - 21-bivouac-nuit-400x266.jpg
+  - 21-bivouac-nuit-800x531.jpg
+  thumbnail: 21-bivouac-nuit-400x266.jpg
+  title: "Rien ne vaut un bon bivouac par beau temps!"
+- filename: 22-bivouac-nuit
+  original: 22-bivouac-nuit-3000x2006.jpg
+  sizes:
+  - 22-bivouac-nuit-2000x1338.jpg
+  - 22-bivouac-nuit-3000x2006.jpg
+  - 22-bivouac-nuit-400x268.jpg
+  - 22-bivouac-nuit-800x535.jpg
+  thumbnail: 22-bivouac-nuit-400x268.jpg
+  title: "Tente Zelt 2 - Un grand classique du bivouac Japonais pour seulement 360g!"
+- filename: 23-bivouac-nuit
+  original: 23-bivouac-nuit-3000x2006.jpg
+  sizes:
+  - 23-bivouac-nuit-2000x1338.jpg
+  - 23-bivouac-nuit-3000x2006.jpg
+  - 23-bivouac-nuit-400x268.jpg
+  - 23-bivouac-nuit-800x535.jpg
+  thumbnail: 23-bivouac-nuit-400x268.jpg
+- filename: 24-bivouac-nuit
+  original: 24-bivouac-nuit-3000x2006.jpg
+  sizes:
+  - 24-bivouac-nuit-2000x1338.jpg
+  - 24-bivouac-nuit-3000x2006.jpg
+  - 24-bivouac-nuit-400x268.jpg
+  - 24-bivouac-nuit-800x535.jpg
+  thumbnail: 24-bivouac-nuit-400x268.jpg
+  title: "Bivouac face au Grand Pic de Belledone"
+- filename: 25-cabane
+  original: 25-cabane-3000x2006.jpg
+  sizes:
+  - 25-cabane-2000x1338.jpg
+  - 25-cabane-3000x2006.jpg
+  - 25-cabane-400x268.jpg
+  - 25-cabane-800x535.jpg
+  thumbnail: 25-cabane-400x268.jpg
+  title: "Repas à la cabane du Rif Premier"
+- filename: 26-cabane-matin
+  original: 26-cabane-matin-3000x2006.jpg
+  sizes:
+  - 26-cabane-matin-2000x1338.jpg
+  - 26-cabane-matin-3000x2006.jpg
+  - 26-cabane-matin-400x268.jpg
+  - 26-cabane-matin-800x535.jpg
+  thumbnail: 26-cabane-matin-400x268.jpg
+  title: "Petit déjeuner: on fond de la neige pour la journée"
+- filename: 27-tent-morning
+  original: 27-tent-morning-3000x1389.jpg
+  sizes:
+  - 27-tent-morning-2000x926.jpg
+  - 27-tent-morning-3000x1389.jpg
+  - 27-tent-morning-400x185.jpg
+  - 27-tent-morning-800x371.jpg
+  thumbnail: 27-tent-morning-400x185.jpg
+  title: "Belle vue matinale!"
+- filename: 28-approche-matinale
+  original: 28-approche-matinale-3000x2006.jpg
+  sizes:
+  - 28-approche-matinale-2000x1338.jpg
+  - 28-approche-matinale-3000x2006.jpg
+  - 28-approche-matinale-400x268.jpg
+  - 28-approche-matinale-800x535.jpg
+  thumbnail: 28-approche-matinale-400x268.jpg
+  title: "Approche vers le Grand Pic de Belldone"
+- filename: 29-approche
+  original: 29-approche-3000x2006.jpg
+  sizes:
+  - 29-approche-2000x1338.jpg
+  - 29-approche-3000x2006.jpg
+  - 29-approche-400x268.jpg
+  - 29-approche-800x535.jpg
+  thumbnail: 29-approche-400x268.jpg
+  title: "Approche vers le Grand Pic de Belldone"
+- filename: 30-approche
+  original: 30-approche-3000x2006.jpg
+  sizes:
+  - 30-approche-2000x1338.jpg
+  - 30-approche-3000x2006.jpg
+  - 30-approche-400x268.jpg
+  - 30-approche-800x535.jpg
+  thumbnail: 30-approche-400x268.jpg
+  title: "Approche vers le Grand Pic de Belldone"
+- filename: 31-premieres-lueurs-pic-de-belledone
+  original: 31-premieres-lueurs-pic-de-belledone-3000x2006.jpg
+  sizes:
+  - 31-premieres-lueurs-pic-de-belledone-2000x1338.jpg
+  - 31-premieres-lueurs-pic-de-belledone-3000x2006.jpg
+  - 31-premieres-lueurs-pic-de-belledone-400x268.jpg
+  - 31-premieres-lueurs-pic-de-belledone-800x535.jpg
+  thumbnail: 31-premieres-lueurs-pic-de-belledone-400x268.jpg
+  title: "Premières lueurs du jour sur le Grand Pic de Belldone"
+- filename: 32-devant-pic-de-belledone
+  original: 32-devant-pic-de-belledone-3000x4487.jpg
+  sizes:
+  - 32-devant-pic-de-belledone-2000x2992.jpg
+  - 32-devant-pic-de-belledone-3000x4487.jpg
+  - 32-devant-pic-de-belledone-400x599.jpg
+  - 32-devant-pic-de-belledone-800x1197.jpg
+  thumbnail: 32-devant-pic-de-belledone-400x599.jpg
+  title: "Premières lueurs du jour sur le Grand Pic de Belldone"
+- filename: 33-reperage-couloir
+  original: 33-reperage-couloir-3000x2006.jpg
+  sizes:
+  - 33-reperage-couloir-2000x1338.jpg
+  - 33-reperage-couloir-3000x2006.jpg
+  - 33-reperage-couloir-400x268.jpg
+  - 33-reperage-couloir-800x535.jpg
+  thumbnail: 33-reperage-couloir-400x268.jpg
+  title: "Repérage d'un couloir de descente pour passer sur le versant N"
+- filename: 34-descente-couloir
+  original: 34-descente-couloir-3000x1685.jpg
+  sizes:
+  - 34-descente-couloir-2000x1123.jpg
+  - 34-descente-couloir-3000x1685.jpg
+  - 34-descente-couloir-400x225.jpg
+  - 34-descente-couloir-800x450.jpg
+  thumbnail: 34-descente-couloir-400x225.jpg
+  title: "Descente du petit couloir"
+- filename: 35-descente-couloir
+  original: 35-descente-couloir-3000x4000.jpg
+  sizes:
+  - 35-descente-couloir-2000x2667.jpg
+  - 35-descente-couloir-3000x4000.jpg
+  - 35-descente-couloir-400x534.jpg
+  - 35-descente-couloir-800x1067.jpg
+  thumbnail: 35-descente-couloir-400x534.jpg
+  title: "Descente du petit couloir"
+- filename: 36-brassage-traversee
+  original: 36-brassage-traversee-3000x2250.jpg
+  sizes:
+  - 36-brassage-traversee-2000x1500.jpg
+  - 36-brassage-traversee-3000x2250.jpg
+  - 36-brassage-traversee-400x300.jpg
+  - 36-brassage-traversee-800x600.jpg
+  thumbnail: 36-brassage-traversee-400x300.jpg
+  title: "Ça brasse dans la traversée!"
+- filename: 37-approche-finale
+  original: 37-approche-finale-3000x2006.jpg
+  sizes:
+  - 37-approche-finale-2000x1338.jpg
+  - 37-approche-finale-3000x2006.jpg
+  - 37-approche-finale-400x268.jpg
+  - 37-approche-finale-800x535.jpg
+  thumbnail: 37-approche-finale-400x268.jpg
+- filename: 38-premier-pas-mixte
+  original: 38-premier-pas-mixte-3000x2006.jpg
+  sizes:
+  - 38-premier-pas-mixte-2000x1338.jpg
+  - 38-premier-pas-mixte-3000x2006.jpg
+  - 38-premier-pas-mixte-400x268.jpg
+  - 38-premier-pas-mixte-800x535.jpg
+  thumbnail: 38-premier-pas-mixte-400x268.jpg
+  title: "Amine négocie le premier pas mixte de la voie - Arrête NW du Grand Pic de Belledone"
+- filename: 39-sophie-escalade-mixte
+  original: 39-sophie-escalade-mixte-3000x2250.jpg
+  sizes:
+  - 39-sophie-escalade-mixte-2000x1500.jpg
+  - 39-sophie-escalade-mixte-3000x2250.jpg
+  - 39-sophie-escalade-mixte-400x300.jpg
+  - 39-sophie-escalade-mixte-800x600.jpg
+  thumbnail: 39-sophie-escalade-mixte-400x300.jpg
+  title: "Escalade mixte pour Sophie"
+- filename: 40-arrete
+  original: 40-arrete-3000x4000.jpg
+  sizes:
+  - 40-arrete-2000x2667.jpg
+  - 40-arrete-3000x4000.jpg
+  - 40-arrete-400x534.jpg
+  - 40-arrete-800x1067.jpg
+  thumbnail: 40-arrete-400x534.jpg
+  title: "Et un peu d'arrête"
+- filename: 41-sophie
+  original: 41-sophie-3000x4000.jpg
+  sizes:
+  - 41-sophie-2000x2667.jpg
+  - 41-sophie-3000x4000.jpg
+  - 41-sophie-400x534.jpg
+  - 41-sophie-800x1067.jpg
+  thumbnail: 41-sophie-400x534.jpg
+  title: "Sophie sur l'arrête"
+- filename: 42-lea
+  original: 42-lea-3000x2006.jpg
+  sizes:
+  - 42-lea-2000x1338.jpg
+  - 42-lea-3000x2006.jpg
+  - 42-lea-400x268.jpg
+  - 42-lea-800x535.jpg
+  thumbnail: 42-lea-400x268.jpg
+  title: "Léa sur l'arrête"
+- filename: 43-preparation-rechappe
+  original: 43-preparation-rechappe-2460x1968.jpg
+  sizes:
+  - 43-preparation-rechappe-2000x1600.jpg
+  - 43-preparation-rechappe-2460x1968.jpg
+  - 43-preparation-rechappe-400x320.jpg
+  - 43-preparation-rechappe-800x640.jpg
+  thumbnail: 43-preparation-rechappe-400x320.jpg
+  title: "Préparatifs de réchappe sur becquet"
+  caption: "Nous avançons trop lentement pour tenir l'horraire, les conditions sur l'arrête sont délicates, la décision est prise le groupe entamme une réchappe!"
+- filename: 44-rechappe
+  original: 44-rechappe-3000x4000.jpg
+  sizes:
+  - 44-rechappe-2000x2667.jpg
+  - 44-rechappe-3000x4000.jpg
+  - 44-rechappe-400x534.jpg
+  - 44-rechappe-800x1067.jpg
+  thumbnail: 44-rechappe-400x534.jpg
+  title: "Réchappe!"
+- filename: 45-into-the-void
+  original: 45-into-the-void-2336x4160.jpg
+  sizes:
+  - 45-into-the-void-2000x3562.jpg
+  - 45-into-the-void-2336x4160.jpg
+  - 45-into-the-void-400x713.jpg
+  - 45-into-the-void-800x1425.jpg
+  thumbnail: 45-into-the-void-400x713.jpg
+  title: "Réchappe!"
+- filename: 46-lea-mixte
+  original: 46-lea-mixte-3000x4487.jpg
+  sizes:
+  - 46-lea-mixte-2000x2992.jpg
+  - 46-lea-mixte-3000x4487.jpg
+  - 46-lea-mixte-400x599.jpg
+  - 46-lea-mixte-800x1197.jpg
+  thumbnail: 46-lea-mixte-400x599.jpg
+  title: "Petit pas mixte pour Léa pour rejoindre le dernier rappel"
+- filename: 47-traversee-finale
+  original: 47-traversee-finale-3000x4000.jpg
+  sizes:
+  - 47-traversee-finale-2000x2667.jpg
+  - 47-traversee-finale-3000x4000.jpg
+  - 47-traversee-finale-400x534.jpg
+  - 47-traversee-finale-800x1067.jpg
+  thumbnail: 47-traversee-finale-400x534.jpg
+  title: "Traversée finale pour revenir au début de la voie"
+  caption: "Plus qu'une longue descente nocturne à ski, et apéro!"

@@ -1,0 +1,70 @@
+picture_path: camp-hiver-2022-ski-samedi-22-janvier
+pictures:
+- filename: 000-quarlie
+  original: 000-quarlie-2000x1500.jpg
+  sizes:
+  - 000-quarlie-2000x1500.jpg
+  - 000-quarlie-400x300.jpg
+  - 000-quarlie-800x600.jpg
+  thumbnail: 000-quarlie-400x300.jpg
+  title: "Aperçu du Quarlie et de Tête de Vallon"
+- filename: 001-quarlie
+  original: 001-quarlie-2000x1500.jpg
+  sizes:
+  - 001-quarlie-2000x1500.jpg
+  - 001-quarlie-400x300.jpg
+  - 001-quarlie-800x600.jpg
+  thumbnail: 001-quarlie-400x300.jpg
+- filename: 003-ski-up
+  original: 003-ski-up-2000x1500.jpg
+  sizes:
+  - 003-ski-up-2000x1500.jpg
+  - 003-ski-up-400x300.jpg
+  - 003-ski-up-800x600.jpg
+  thumbnail: 003-ski-up-400x300.jpg
+- filename: 01-photo-groupe
+  original: 01-photo-groupe-2000x1500.jpg
+  sizes:
+  - 01-photo-groupe-2000x1500.jpg
+  - 01-photo-groupe-400x300.jpg
+  - 01-photo-groupe-800x600.jpg
+  thumbnail: 01-photo-groupe-400x300.jpg
+  title: "Loïc, Jeanne, Amine et Nicolas"
+- filename: 02-paysage
+  original: 02-paysage-2000x1500.jpg
+  sizes:
+  - 02-paysage-2000x1500.jpg
+  - 02-paysage-400x300.jpg
+  - 02-paysage-800x600.jpg
+  thumbnail: 02-paysage-400x300.jpg
+- filename: 04-gros-tet
+  original: 04-gros-tet-2000x1500.jpg
+  sizes:
+  - 04-gros-tet-2000x1500.jpg
+  - 04-gros-tet-400x300.jpg
+  - 04-gros-tet-800x600.jpg
+  thumbnail: 04-gros-tet-400x300.jpg
+  title: "Apperçu du Gros Têt" 
+- filename: 03-paysage
+  original: 03-paysage-2000x1500.jpg
+  sizes:
+  - 03-paysage-2000x1500.jpg
+  - 03-paysage-400x300.jpg
+  - 03-paysage-800x600.jpg
+  thumbnail: 03-paysage-400x300.jpg
+  title: "Vue depuis le Gros Têt"
+- filename: 04-trace
+  original: 04-trace-2000x1500.jpg
+  sizes:
+  - 04-trace-2000x1500.jpg
+  - 04-trace-400x300.jpg
+  - 04-trace-800x600.jpg
+  thumbnail: 04-trace-400x300.jpg
+- filename: 05-trace-people
+  original: 05-trace-people-2000x1500.jpg
+  sizes:
+  - 05-trace-people-2000x1500.jpg
+  - 05-trace-people-400x300.jpg
+  - 05-trace-people-800x600.jpg
+  thumbnail: 05-trace-people-400x300.jpg
+  title: "Loic, Amine, Jeanne"

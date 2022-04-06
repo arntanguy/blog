@@ -1,0 +1,143 @@
+picture_path: camp-hiver-2022-oreille-du-loup
+pictures:
+- filename: '00'
+  original: 00-3000x2006.jpg
+  sizes:
+  - 00-2000x1338.jpg
+  - 00-3000x2006.jpg
+  - 00-400x268.jpg
+  - 00-800x535.jpg
+  thumbnail: 00-400x268.jpg
+- filename: '01'
+  original: 01-3000x2006.jpg
+  sizes:
+  - 01-2000x1338.jpg
+  - 01-3000x2006.jpg
+  - 01-400x268.jpg
+  - 01-800x535.jpg
+  thumbnail: 01-400x268.jpg
+  title: "Notre objectif - Arrête de L'Oreille du Loup"
+- filename: '02'
+  original: 02-3000x4000.jpg
+  sizes:
+  - 02-2000x2667.jpg
+  - 02-3000x4000.jpg
+  - 02-400x534.jpg
+  - 02-800x1067.jpg
+  thumbnail: 02-400x534.jpg
+  title: "Goulotte Zia"
+  caption: "Goulotte Zia en maigre conditions neige"
+- filename: '03'
+  original: 03-3000x2245.jpg
+  sizes:
+  - 03-2000x1497.jpg
+  - 03-3000x2245.jpg
+  - 03-400x300.jpg
+  - 03-800x599.jpg
+  thumbnail: 03-400x300.jpg
+  title: "Préparatifs à l'attaque de la goulotte Zia"
+- filename: 03b
+  original: 03b-2464x3280.jpg
+  sizes:
+  - 03b-2000x2663.jpg
+  - 03b-2464x3280.jpg
+  - 03b-400x533.jpg
+  - 03b-800x1065.jpg
+  thumbnail: 03b-400x533.jpg
+  title: "Sophie à la base du premier ressaut mixte"
+- filename: '04'
+  original: 04-3000x2006.jpg
+  sizes:
+  - 04-2000x1338.jpg
+  - 04-3000x2006.jpg
+  - 04-400x268.jpg
+  - 04-800x535.jpg
+  thumbnail: 04-400x268.jpg
+  title: "Sophie fait des anneaux de bustes"
+  caption: "Depart de l'arrête en corde tendue"
+- filename: '05'
+  original: 05-3000x4487.jpg
+  sizes:
+  - 05-2000x2992.jpg
+  - 05-3000x4487.jpg
+  - 05-400x599.jpg
+  - 05-800x1197.jpg
+  thumbnail: 05-400x599.jpg
+  title: "Cordée arrivant au sommet de la goulotte Zia"
+- filename: '06'
+  original: 06-3000x4487.jpg
+  sizes:
+  - 06-2000x2992.jpg
+  - 06-3000x4487.jpg
+  - 06-400x599.jpg
+  - 06-800x1197.jpg
+  thumbnail: 06-400x599.jpg
+- filename: '07'
+  original: 07-3000x2006.jpg
+  sizes:
+  - 07-2000x1338.jpg
+  - 07-3000x2006.jpg
+  - 07-400x268.jpg
+  - 07-800x535.jpg
+  thumbnail: 07-400x268.jpg
+- filename: 08
+  original: 08-3000x2006.jpg
+  sizes:
+  - 08-2000x1338.jpg
+  - 08-3000x2006.jpg
+  - 08-400x268.jpg
+  - 08-800x535.jpg
+  thumbnail: 08-400x268.jpg
+  title: "Nicolas et Tom-Alex désescaladent en corde tendue"
+- filename: 09
+  original: 09-3000x1861.jpg
+  sizes:
+  - 09-2000x1241.jpg
+  - 09-3000x1861.jpg
+  - 09-400x248.jpg
+  - 09-800x496.jpg
+  thumbnail: 09-400x248.jpg
+  title: "Louis Vonau"
+- filename: '10'
+  original: 10-3000x4487.jpg
+  sizes:
+  - 10-2000x2992.jpg
+  - 10-3000x4487.jpg
+  - 10-400x599.jpg
+  - 10-800x1197.jpg
+  thumbnail: 10-400x599.jpg
+  title: "Descente en rappel"
+- filename: '11'
+  original: 11-3000x4010.jpg
+  sizes:
+  - 11-2000x2673.jpg
+  - 11-3000x4010.jpg
+  - 11-400x535.jpg
+  - 11-800x1069.jpg
+  thumbnail: 11-400x535.jpg
+  title: "Tea break!"
+- filename: '12'
+  original: 12-3000x4487.jpg
+  sizes:
+  - 12-2000x2992.jpg
+  - 12-3000x4487.jpg
+  - 12-400x599.jpg
+  - 12-800x1197.jpg
+  thumbnail: 12-400x599.jpg
+- filename: '13'
+  original: 13-3000x2245.jpg
+  sizes:
+  - 13-2000x1497.jpg
+  - 13-3000x2245.jpg
+  - 13-400x300.jpg
+  - 13-800x599.jpg
+  thumbnail: 13-400x300.jpg
+- filename: '14'
+  original: 14-3000x4010.jpg
+  sizes:
+  - 14-2000x2673.jpg
+  - 14-3000x4010.jpg
+  - 14-400x535.jpg
+  - 14-800x1069.jpg
+  thumbnail: 14-400x535.jpg
+  title: "Arnaud surveille les rappels"

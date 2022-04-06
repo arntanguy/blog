@@ -1,0 +1,126 @@
+picture_path: camp-hiver-2022-cascade-pylone
+pictures:
+- filename: '01'
+  original: 01-3000x4500.jpg
+  sizes:
+  - 01-2000x3000.jpg
+  - 01-3000x4500.jpg
+  - 01-400x600.jpg
+  - 01-800x1200.jpg
+  thumbnail: 01-400x600.jpg
+  title: "Approche vers la cascade du Pylône - La Grave"
+- filename: '02'
+  original: 02-3000x4500.jpg
+  sizes:
+  - 02-2000x3000.jpg
+  - 02-3000x4500.jpg
+  - 02-400x600.jpg
+  - 02-800x1200.jpg
+  thumbnail: 02-400x600.jpg
+  title: "Sophie introduit des excercices de cramponage"
+- filename: '03'
+  original: 03-3000x4500.jpg
+  sizes:
+  - 03-2000x3000.jpg
+  - 03-3000x4500.jpg
+  - 03-400x600.jpg
+  - 03-800x1200.jpg
+  thumbnail: 03-400x600.jpg
+- filename: '04'
+  original: 04-3000x4500.jpg
+  sizes:
+  - 04-2000x3000.jpg
+  - 04-3000x4500.jpg
+  - 04-400x600.jpg
+  - 04-800x1200.jpg
+  thumbnail: 04-400x600.jpg
+  title: "Tom-Alex en pleine action"
+- filename: '05'
+  original: 05-3000x2001.jpg
+  sizes:
+  - 05-2000x1334.jpg
+  - 05-3000x2001.jpg
+  - 05-400x267.jpg
+  - 05-800x534.jpg
+  thumbnail: 05-400x267.jpg
+  title: "Nicolas en pleine action"
+- filename: '06'
+  original: 06-3000x3750.jpg
+  sizes:
+  - 06-2000x2500.jpg
+  - 06-3000x3750.jpg
+  - 06-400x500.jpg
+  - 06-800x1000.jpg
+  thumbnail: 06-400x500.jpg
+  title: "Sophie heureuse d'utiliser ses belles broches Blue Ice"
+- filename: '07'
+  original: 07-3000x2001.jpg
+  sizes:
+  - 07-2000x1334.jpg
+  - 07-3000x2001.jpg
+  - 07-400x267.jpg
+  - 07-800x534.jpg
+  thumbnail: 07-400x267.jpg
+  title: "Léa s'essaye à la cascade en tête"
+- filename: 08
+  original: 08-3000x4500.jpg
+  sizes:
+  - 08-2000x3000.jpg
+  - 08-3000x4500.jpg
+  - 08-400x600.jpg
+  - 08-800x1200.jpg
+  thumbnail: 08-400x600.jpg
+- filename: 09
+  original: 09-3000x4500.jpg
+  sizes:
+  - 09-2000x3000.jpg
+  - 09-3000x4500.jpg
+  - 09-400x600.jpg
+  - 09-800x1200.jpg
+  thumbnail: 09-400x600.jpg
+  title: "Loïc en pleine action"
+- filename: '10'
+  original: 10-3000x2001.jpg
+  sizes:
+  - 10-2000x1334.jpg
+  - 10-3000x2001.jpg
+  - 10-400x267.jpg
+  - 10-800x534.jpg
+  thumbnail: 10-400x267.jpg
+- filename: '11'
+  original: 11-3000x4500.jpg
+  sizes:
+  - 11-2000x3000.jpg
+  - 11-3000x4500.jpg
+  - 11-400x600.jpg
+  - 11-800x1200.jpg
+  thumbnail: 11-400x600.jpg
+  title: "Sophie s'apprête à brocher"
+- filename: '12'
+  original: 12-3000x2001.jpg
+  sizes:
+  - 12-2000x1334.jpg
+  - 12-3000x2001.jpg
+  - 12-400x267.jpg
+  - 12-800x534.jpg
+  thumbnail: 12-400x267.jpg
+  title: "Débrief et préparation de projets pour l'été suivant!"
+  caption: "Et si on allait au sommet du Mont Blanc par 3 voies différentes et se retrouvaient tous au sommet? Affaire à suivre..."
+- filename: '13'
+  original: 13-3000x4500.jpg
+  sizes:
+  - 13-2000x3000.jpg
+  - 13-3000x4500.jpg
+  - 13-400x600.jpg
+  - 13-800x1200.jpg
+  thumbnail: 13-400x600.jpg
+  title: "Même la bière se met à la cascade!"
+- filename: '14'
+  original: 14-3000x2001.jpg
+  sizes:
+  - 14-2000x1334.jpg
+  - 14-3000x2001.jpg
+  - 14-400x267.jpg
+  - 14-800x534.jpg
+  thumbnail: 14-400x267.jpg
+  title: "Loïc, toujours bien préparé pour un moment convivial!"

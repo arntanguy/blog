@@ -1,0 +1,98 @@
+picture_path: camp-hiver-2022-taillefer
+pictures:
+- filename: '01'
+  original: 01-1200x1600.jpg
+  sizes:
+  - 01-1200x1600.jpg
+  - 01-1200x1600.jpg
+  - 01-400x534.jpg
+  - 01-800x1067.jpg
+  thumbnail: 01-400x534.jpg
+- filename: '02'
+  original: 02-1200x1600.jpg
+  sizes:
+  - 02-1200x1600.jpg
+  - 02-1200x1600.jpg
+  - 02-400x534.jpg
+  - 02-800x1067.jpg
+  thumbnail: 02-400x534.jpg
+- filename: '03'
+  original: 03-1600x1200.jpg
+  sizes:
+  - 03-1600x1200.jpg
+  - 03-1600x1200.jpg
+  - 03-400x300.jpg
+  - 03-800x600.jpg
+  thumbnail: 03-400x300.jpg
+- filename: '04'
+  original: 04-1600x1200.jpg
+  sizes:
+  - 04-1600x1200.jpg
+  - 04-1600x1200.jpg
+  - 04-400x300.jpg
+  - 04-800x600.jpg
+  thumbnail: 04-400x300.jpg
+- filename: '05'
+  original: 05-1200x1599.jpg
+  sizes:
+  - 05-1200x1599.jpg
+  - 05-1200x1599.jpg
+  - 05-400x533.jpg
+  - 05-800x1066.jpg
+  thumbnail: 05-400x533.jpg
+- filename: '06'
+  original: 06-594x1288.jpg
+  sizes:
+  - 06-594x1288.jpg
+  - 06-594x1288.jpg
+  - 06-400x868.jpg
+  - 06-594x1288.jpg
+  thumbnail: 06-400x868.jpg
+- filename: '07'
+  original: 07-1600x1200.jpg
+  sizes:
+  - 07-1600x1200.jpg
+  - 07-1600x1200.jpg
+  - 07-400x300.jpg
+  - 07-800x600.jpg
+  thumbnail: 07-400x300.jpg
+- filename: 08
+  original: 08-738x1599.jpg
+  sizes:
+  - 08-738x1599.jpg
+  - 08-738x1599.jpg
+  - 08-400x867.jpg
+  - 08-738x1599.jpg
+  thumbnail: 08-400x867.jpg
+- filename: 09
+  original: 09-1599x738.jpg
+  sizes:
+  - 09-1599x738.jpg
+  - 09-1599x738.jpg
+  - 09-400x185.jpg
+  - 09-800x370.jpg
+  thumbnail: 09-400x185.jpg
+- filename: '10'
+  original: 10-1600x1200.jpg
+  sizes:
+  - 10-1600x1200.jpg
+  - 10-1600x1200.jpg
+  - 10-400x300.jpg
+  - 10-800x600.jpg
+  thumbnail: 10-400x300.jpg
+- filename: '11'
+  original: 11-1600x1200.jpg
+  sizes:
+  - 11-1600x1200.jpg
+  - 11-1600x1200.jpg
+  - 11-400x300.jpg
+  - 11-800x600.jpg
+  thumbnail: 11-400x300.jpg
+- filename: '12'
+  original: 12-1600x1200.jpg
+  sizes:
+  - 12-1600x1200.jpg
+  - 12-1600x1200.jpg
+  - 12-400x300.jpg
+  - 12-800x600.jpg
+  thumbnail: 12-400x300.jpg

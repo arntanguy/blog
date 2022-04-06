@@ -1,0 +1,37 @@
+picture_path: camp-hiver-2022-ski-vendredi-21-janvier
+pictures:
+- filename: 01-trace-loic
+  original: 01-trace-loic-2000x1500.jpg
+  sizes:
+  - 01-trace-loic-2000x1500.jpg
+  - 01-trace-loic-400x300.jpg
+  - 01-trace-loic-800x600.jpg
+  thumbnail: 01-trace-loic-400x300.jpg
+  title: "Direction le col Saint Georges (2250 m) depuis Besse (1450 m)"
+  caption: "Loïc"
+- filename: 02-mer-nuages
+  original: 02-mer-nuages-2000x1494.jpg
+  sizes:
+  - 02-mer-nuages-2000x1494.jpg
+  - 02-mer-nuages-400x299.jpg
+  - 02-mer-nuages-800x598.jpg
+  thumbnail: 02-mer-nuages-400x299.jpg
+  title: "Direction le col Saint Georges (2250 m) depuis Besse (1450 m)"
+  caption: "Loïc"
+- filename: 03-paysage
+  original: 03-paysage-2000x1500.jpg
+  sizes:
+  - 03-paysage-2000x1500.jpg
+  - 03-paysage-400x300.jpg
+  - 03-paysage-800x600.jpg
+  thumbnail: 03-paysage-400x300.jpg
+  title: "Direction le col Saint Georges (2250 m) depuis Besse (1450 m)"
+- filename: 04-selfie-nico-loic
+  original: 04-selfie-nico-loic-1867x1050.jpg
+  sizes:
+  - 04-selfie-nico-loic-1867x1050.jpg
+  - 04-selfie-nico-loic-400x225.jpg
+  - 04-selfie-nico-loic-800x450.jpg
+  thumbnail: 04-selfie-nico-loic-400x225.jpg
+  title: "Direction le col Saint Georges (2250 m) depuis Besse (1450 m)"
+  caption: "Nicolas et Loïc"

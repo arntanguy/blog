@@ -1,0 +1,50 @@
+picture_path: camp-hiver-2022-exercices-dva
+pictures:
+- filename: '00'
+  original: 00-3000x1685.jpg
+  sizes:
+  - 00-2000x1123.jpg
+  - 00-3000x1685.jpg
+  - 00-400x225.jpg
+  - 00-800x450.jpg
+  thumbnail: 00-400x225.jpg
+- filename: '01'
+  original: 01-3000x1685.jpg
+  sizes:
+  - 01-2000x1123.jpg
+  - 01-3000x1685.jpg
+  - 01-400x225.jpg
+  - 01-800x450.jpg
+  thumbnail: 01-400x225.jpg
+- filename: '02'
+  original: 02-3000x1685.jpg
+  sizes:
+  - 02-2000x1123.jpg
+  - 02-3000x1685.jpg
+  - 02-400x225.jpg
+  - 02-800x450.jpg
+  thumbnail: 02-400x225.jpg
+- filename: '03'
+  original: 03-3000x1685.jpg
+  sizes:
+  - 03-2000x1123.jpg
+  - 03-3000x1685.jpg
+  - 03-400x225.jpg
+  - 03-800x450.jpg
+  thumbnail: 03-400x225.jpg
+- filename: '04'
+  original: 04-3000x1685.jpg
+  sizes:
+  - 04-2000x1123.jpg
+  - 04-3000x1685.jpg
+  - 04-400x225.jpg
+  - 04-800x450.jpg
+  thumbnail: 04-400x225.jpg
+- filename: '05'
+  original: 05-3000x1685.jpg
+  sizes:
+  - 05-2000x1123.jpg
+  - 05-3000x1685.jpg
+  - 05-400x225.jpg
+  - 05-800x450.jpg
+  thumbnail: 05-400x225.jpg

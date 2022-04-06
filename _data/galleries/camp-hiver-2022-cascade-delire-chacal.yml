@@ -1,0 +1,73 @@
+picture_path: camp-hiver-2022-cascade-delire-chacal
+pictures:
+- filename: '01'
+  original: 01-3000x2006.jpg
+  sizes:
+  - 01-2000x1338.jpg
+  - 01-3000x2006.jpg
+  - 01-400x268.jpg
+  - 01-800x535.jpg
+  thumbnail: 01-400x268.jpg
+  title: "Approche - D\xE9lire du Chacal - La Grave"
+- filename: '02'
+  original: 02-3000x4487.jpg
+  sizes:
+  - 02-2000x2992.jpg
+  - 02-3000x4487.jpg
+  - 02-400x599.jpg
+  - 02-800x1197.jpg
+  thumbnail: 02-400x599.jpg
+  title: "Approche - D\xE9lire du Chacal - La Grave"
+- filename: '03'
+  original: 03-3000x2006.jpg
+  sizes:
+  - 03-2000x1338.jpg
+  - 03-3000x2006.jpg
+  - 03-400x268.jpg
+  - 03-800x535.jpg
+  thumbnail: 03-400x268.jpg
+  title: "Louis, L\xE9a et Tom-Alex au premier relai de D\xE9lire du Chacal"
+- filename: '04'
+  original: 04-3000x2006.jpg
+  sizes:
+  - 04-2000x1338.jpg
+  - 04-3000x2006.jpg
+  - 04-400x268.jpg
+  - 04-800x535.jpg
+  thumbnail: 04-400x268.jpg
+  title: "Sarah Gr\xE9goire dans D\xE9lire du Chacal"
+- filename: '05'
+  original: 05-3000x4487.jpg
+  sizes:
+  - 05-2000x2992.jpg
+  - 05-3000x4487.jpg
+  - 05-400x599.jpg
+  - 05-800x1197.jpg
+  thumbnail: 05-400x599.jpg
+  title: "F\xE9lix appr\xE9cie sa premi\xE8re exp\xE9rience cascade de glace!"
+- filename: '06'
+  original: 06-3000x4487.jpg
+  sizes:
+  - 06-2000x2992.jpg
+  - 06-3000x4487.jpg
+  - 06-400x599.jpg
+  - 06-800x1197.jpg
+  thumbnail: 06-400x599.jpg
+  title: "Nan mais vraiement, il adore \xE7a!"
+- filename: '07'
+  original: 07-3000x4487.jpg
+  sizes:
+  - 07-2000x2992.jpg
+  - 07-3000x4487.jpg
+  - 07-400x599.jpg
+  - 07-800x1197.jpg
+  thumbnail: 07-400x599.jpg
+- filename: 08
+  original: 08-3000x4487.jpg
+  sizes:
+  - 08-2000x2992.jpg
+  - 08-3000x4487.jpg
+  - 08-400x599.jpg
+  - 08-800x1197.jpg
+  thumbnail: 08-400x599.jpg
+  title: "Chass\xE9s par le spindrift"

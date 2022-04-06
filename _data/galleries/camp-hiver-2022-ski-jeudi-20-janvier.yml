@@ -1,0 +1,34 @@
+picture_path: camp-hiver-2022-ski-jeudi-20-janvier
+pictures:
+- filename: 000-village
+  original: 000-village-2000x2667.jpg
+  sizes:
+  - 000-village-2000x2667.jpg
+  - 000-village-400x534.jpg
+  - 000-village-800x1067.jpg
+  thumbnail: 000-village-400x534.jpg
+  title: "Village de Besse"
+- filename: 001-gite
+  original: 001-gite-2000x1500.jpg
+  sizes:
+  - 001-gite-2000x1500.jpg
+  - 001-gite-400x300.jpg
+  - 001-gite-800x600.jpg
+  thumbnail: 001-gite-400x300.jpg
+  title: "Gîte d'étape Le Sarret - Besse"
+- filename: 002-quarlie
+  original: 002-quarlie-2000x1500.jpg
+  sizes:
+  - 002-quarlie-2000x1500.jpg
+  - 002-quarlie-400x300.jpg
+  - 002-quarlie-800x600.jpg
+  thumbnail: 002-quarlie-400x300.jpg
+  title: "Aperçu du col Nazié (1902 m) et du col Saint Georges (2250 m)"
+- filename: 003-quarlie
+  original: 003-quarlie-2000x1500.jpg
+  sizes:
+  - 003-quarlie-2000x1500.jpg
+  - 003-quarlie-400x300.jpg
+  - 003-quarlie-800x600.jpg
+  thumbnail: 003-quarlie-400x300.jpg
+  title: "Vue depuis le Quarlie"

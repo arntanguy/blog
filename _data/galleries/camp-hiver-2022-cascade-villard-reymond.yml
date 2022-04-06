@@ -1,0 +1,65 @@
+picture_path: camp-hiver-2022-cascade-villard-reymond
+pictures:
+- filename: '01'
+  original: 01-3000x4500.jpg
+  sizes:
+  - 01-2000x3000.jpg
+  - 01-3000x4500.jpg
+  - 01-400x600.jpg
+  - 01-800x1200.jpg
+  thumbnail: 01-400x600.jpg
+  title: "Les Cigares de Villard-Reymond"
+- filename: '02'
+  original: 02-3000x4500.jpg
+  sizes:
+  - 02-2000x3000.jpg
+  - 02-3000x4500.jpg
+  - 02-400x600.jpg
+  - 02-800x1200.jpg
+  thumbnail: 02-400x600.jpg
+  title: "Sophie dans 'La fête à la Grenouille' (WI5)"
+- filename: '03'
+  original: 03-3000x4641.jpg
+  sizes:
+  - 03-2000x3094.jpg
+  - 03-3000x4641.jpg
+  - 03-400x619.jpg
+  - 03-800x1238.jpg
+  thumbnail: 03-400x619.jpg
+  title: "Sophie dans 'La fête à la Grenouille' (WI5)"
+- filename: '04'
+  original: 04-3000x5393.jpg
+  sizes:
+  - 04-2000x3595.jpg
+  - 04-3000x5393.jpg
+  - 04-400x719.jpg
+  - 04-800x1438.jpg
+  thumbnail: 04-400x719.jpg
+  title: "Sophie dans 'La fête à la Grenouille' (WI5)"
+- filename: '05'
+  original: 05-3000x1917.jpg
+  sizes:
+  - 05-2000x1278.jpg
+  - 05-3000x1917.jpg
+  - 05-400x256.jpg
+  - 05-800x511.jpg
+  thumbnail: 05-400x256.jpg
+  title: "Arnaud dans 'La fête à la Grenouille' (WI5)"
+- filename: '06'
+  original: 06-3000x6001.jpg
+  sizes:
+  - 06-2000x4001.jpg
+  - 06-3000x6001.jpg
+  - 06-400x800.jpg
+  - 06-800x1601.jpg
+  thumbnail: 06-400x800.jpg
+  title: "Nicolas dans 'La fête à la Grenouille' (WI5)"
+- filename: '07'
+  original: 07-2938x4484.jpg
+  sizes:
+  - 07-2000x3053.jpg
+  - 07-2938x4484.jpg
+  - 07-400x611.jpg
+  - 07-800x1221.jpg
+  thumbnail: 07-400x611.jpg
+  title: "Quentin pour une ascention nocture de 'La fête à la Grenouille' (WI5)"
