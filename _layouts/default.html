@@ -2,20 +2,8 @@
 <html lang="en">
   {% include head.html %}
   <body>
-    {% if site.google-analytics %}
-      {% include google-analytics.html %}
-    {% endif %}
-
-    {% include javascripts.html %}
-
-    <!-- begin content -->
-    <main class="content" aria-label="Content">
-      {{ content }}
-    </main> 
-    <!-- end content -->
-    
-    <div class="top" title="Top"><span class="ion ion-ios-arrow-up"><ion-icon name="chevron-up-outline" /></span></div>
-    {% include footer.html %}
-    {% include javascripts-post.html %}
+    <h1>Redirecting...</h1>
+      <a href="{{site.redirect}}{{ page.url }}">Click here if you are not redirected.<a>
+      <script>location='{{site.redirect}}{{ page.url }}'</script>
   </body>
 </html>
