@@ -23,21 +23,21 @@ jobs:
       run: JEKYLL_ENV=production bundle exec jekyll build
 
     # Looks kind of complicated but just uploads the content of _site folder to the ftp server. It does not upload the _site folder itself.
-    - name: Upload site to FTP.
-      env:
-        ftp_username: ${{ secrets.FTP_USERNAME }}
-        ftp_password: ${{ secrets.FTP_PASSWORD }}
-      run: |
-        echo "ftp://$ftp_username:$ftp_password@arntanguy.fr"; \
-        lftp -c "set ftp:list-options -a; set ssl:check-hostname no; \
-        open ftp://$ftp_username:$ftp_password@arntanguy.fr; \
-        lcd _site; \
-        cd /; \
-        mirror --reverse \
-               --delete \
-               --verbose \
-               --exclude-glob a-dir-to-exclude/ \
-               --exclude-glob a-file-to-exclude \
-               --exclude-glob a-file-group-to-exclude* \
-               --exclude-glob other-files-to-exclude"
-        # ncftpput -R -v -u $ftp_username -p $ftp_password $ftp_location / _site/*
+    # - name: Upload site to FTP.
+    #   env:
+    #     ftp_username: ${{ secrets.FTP_USERNAME }}
+    #     ftp_password: ${{ secrets.FTP_PASSWORD }}
+    #   run: |
+    #     echo "ftp://$ftp_username:$ftp_password@arntanguy.fr"; \
+    #     lftp -c "set ftp:list-options -a; set ssl:check-hostname no; \
+    #     open ftp://$ftp_username:$ftp_password@arntanguy.fr; \
+    #     lcd _site; \
+    #     cd /; \
+    #     mirror --reverse \
+    #            --delete \
+    #            --verbose \
+    #            --exclude-glob a-dir-to-exclude/ \
+    #            --exclude-glob a-file-to-exclude \
+    #            --exclude-glob a-file-group-to-exclude* \
+    #            --exclude-glob other-files-to-exclude"
+    #     # ncftpput -R -v -u $ftp_username -p $ftp_password $ftp_location / _site/*
