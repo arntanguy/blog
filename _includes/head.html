@@ -4,11 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}'>
+  <meta name='description' content='{% if page.description %}{{ page.description | escape | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | escape | strip_html }}{% endif %}'>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-
+https://arntanguy.fr/camp-hiver-caf/https://arntanguy.fr/camp-hiver-caf/
   <!-- favicon -->
 	<meta property="og:image" content="">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/favicon/apple-touch-icon.png" />
